@@ -54,18 +54,16 @@ dialog img{width:min(92vw,620px);max-height:92dvh;object-fit:contain;border-radi
 .vazio{padding:70px 0;text-align:center;color:var(--ink3)}
 
 /* botão e painel de legenda — só em Jogos GJ+ e Memes GJ+ */
-.nav button.legbtn{display:inline-flex;align-items:center;gap:7px;background:rgba(247,148,29,.1);border:1.5px solid var(--o);color:var(--o);
- width:auto;border-radius:999px;padding:0 15px;height:36px;font:inherit;font-size:12px;font-weight:900;letter-spacing:.05em;
- text-transform:uppercase;cursor:pointer;transition:.15s;white-space:nowrap;margin-right:3px}
-.nav button.legbtn:hover{background:rgba(247,148,29,.22);color:#ffca7a}
-.chipleg{background:var(--card);border:1px solid var(--line);color:var(--ink2);border-radius:999px;padding:8px 15px;
- font:inherit;font-size:13px;font-weight:700;cursor:pointer;transition:.14s;display:inline-flex;align-items:center;gap:6px}
-.chipleg:hover{color:var(--ink);border-color:#3a3050}
-.chipleg[aria-pressed=true]{background:var(--grad);color:#120a02;border-color:transparent}
+.titlinha{display:flex;align-items:center;gap:13px;flex-wrap:wrap;margin-top:7px}
+.titlinha h2{margin-top:0}
+.legbtn{display:inline-flex;align-items:center;gap:7px;background:rgba(247,148,29,.1);border:1.5px solid var(--o);color:var(--o);
+ border-radius:999px;padding:0 15px;height:32px;font:inherit;font-size:11.5px;font-weight:900;letter-spacing:.05em;
+ text-transform:uppercase;cursor:pointer;transition:.15s;white-space:nowrap;flex:0 0 auto}
+.legbtn:hover{background:rgba(247,148,29,.22);color:#ffca7a}
 .legbtn svg{width:14px;height:14px;flex:0 0 auto}
 .legbtn i{font-style:normal;font-size:9px;font-weight:800;letter-spacing:.08em;border:1px solid #2b3a55;color:#7FB3FF;border-radius:4px;padding:1px 4px}
-.nav button.legbtn[aria-expanded=true]{background:var(--grad);color:#120a02;border-color:transparent}
-.nav button.legbtn[aria-expanded=true] i{border-color:rgba(18,10,2,.35);color:#120a02}
+.legbtn[aria-expanded=true]{background:var(--grad);color:#120a02;border-color:transparent}
+.legbtn[aria-expanded=true] i{border-color:rgba(18,10,2,.35);color:#120a02}
 .leg{display:grid;grid-template-rows:0fr;transition:grid-template-rows .3s cubic-bezier(.4,0,.2,1)}
 .leg[data-open=true]{grid-template-rows:1fr}
 .legin{overflow:hidden;min-height:0}
@@ -75,18 +73,23 @@ dialog img{width:min(92vw,620px);max-height:92dvh;object-fit:contain;border-radi
 .leghead{display:flex;align-items:center;gap:10px;margin-bottom:12px;flex-wrap:wrap}
 .leghead b{font-size:10px;font-weight:900;letter-spacing:.14em;text-transform:uppercase;color:var(--o)}
 .leghead span{font-size:11px;color:var(--ink3);font-weight:700}
-.legcopy{margin-left:auto;background:transparent;border:1px solid var(--line);color:var(--ink2);border-radius:8px;
+.legcopy,.legmin{background:transparent;border:1px solid var(--line);color:var(--ink2);border-radius:8px;
  padding:5px 12px;font:inherit;font-size:11px;font-weight:800;cursor:pointer;transition:.15s}
+.legcopy{margin-left:auto}
 .legcopy:hover{color:var(--ink);border-color:var(--o)}
 .legcopy.ok{color:#7ee787;border-color:#2f6b3d}
+.legmin{display:inline-flex;align-items:center;gap:5px}
+.legmin svg{width:12px;height:12px}
+.legmin:hover{color:var(--ink);border-color:#3a3050}
 .legbox p{font-size:15px;line-height:1.62;color:#d9d3e4;margin-bottom:11px}
 .legtags{font-size:13px;font-weight:700;color:#7FB3FF;line-height:1.65}
 @media(max-width:640px){.strip img{width:190px}header.top{padding:30px 18px 14px}.bar,main{padding-left:18px;padding-right:18px}
- .legbox{padding:16px 16px 14px}.legbox p{font-size:14.5px}.nav button.legbtn{padding:0 11px;font-size:11px}}
+ .legbox{padding:16px 16px 14px}.legbox p{font-size:14.5px}.legbtn{padding:0 12px;font-size:11px}
+ .titlinha{gap:9px}}
 </style></head><body>
 <header class="top">
 <h1>Carrosséis <span>GameJamPlus</span></h1>
-<p class="sub">Todos os carrosséis prontos, nas quatro categorias e nos dois idiomas. Clique num slide para ampliar. Use as setas do teclado dentro do slide ampliado. Em Jogos GJ+ e Memes GJ+, o botão <b>Legenda</b> abre o texto pronto para o Instagram.</p>
+<p class="sub">Todos os carrosséis prontos, nas quatro categorias e nos dois idiomas. Clique num slide para ampliar. Use as setas do teclado dentro do slide ampliado. O botão <b>Legenda</b>, ao lado de cada título, abre o texto pronto para o Instagram.</p>
 <div class="stats"><b>GJ+ <i>31 PT</i> · <i>31 EN</i></b><b>Jogos GJ+ <i>29 PT</i> · <i>29 EN</i></b><b>Informativos GJ+ <i>31 PT</i> · <i>31 EN</i></b><b>Memes GJ+ <i>1 PT</i> · <i>1 EN</i></b><b>total <i>184</i> carrosséis · <i>1226</i> slides</b></div>
 </header>
 <div class="bar"><div class="barin">
@@ -96,8 +99,6 @@ dialog img{width:min(92vw,620px);max-height:92dvh;object-fit:contain;border-radi
 <button class="chip" data-f="lang" data-v="" aria-pressed="true">PT + EN</button>
 <button class="chip" data-f="lang" data-v="PT" aria-pressed="false">PT</button>
 <button class="chip" data-f="lang" data-v="EN" aria-pressed="false">EN</button>
-<span class="sep"></span>
-<button class="chipleg" id="chipLeg" aria-pressed="false" title="Mostra só os posts que já têm legenda escrita">Com legenda</button>
 <span class="sep"></span>
 <input type="search" id="q" placeholder="Buscar por nome do carrossel...">
 <span class="vis" id="vis"></span>
@@ -843,9 +844,9 @@ dialog img{width:min(92vw,620px);max-height:92dvh;object-fit:contain;border-radi
 <script src="legendas.js?v=1"></script>
 <script>
 const cs=[...document.querySelectorAll('.c')],vis=document.getElementById('vis'),vazio=document.getElementById('vazio');
-const F={cat:'',lang:'',q:'',leg:''};
+const F={cat:'',lang:'',q:''};
 function aplica(){let v=0;
- for(const c of cs){const ok=(!F.cat||c.dataset.cat===F.cat)&&(!F.lang||c.dataset.lang===F.lang)&&(!F.q||c.dataset.busca.includes(F.q))&&(!F.leg||c.dataset.leg==='1');
+ for(const c of cs){const ok=(!F.cat||c.dataset.cat===F.cat)&&(!F.lang||c.dataset.lang===F.lang)&&(!F.q||c.dataset.busca.includes(F.q));
   c.hidden=!ok;if(ok)v++;}
  vis.textContent=v+' de '+cs.length;vazio.hidden=v>0;}
 document.querySelectorAll('.chip').forEach(b=>b.addEventListener('click',()=>{
@@ -870,35 +871,44 @@ document.addEventListener('keydown',e=>{if(!lb.open)return;
  if(e.key==='ArrowRight')passo(1);if(e.key==='ArrowLeft')passo(-1);});
 aplica();
 
-/* legendas prontas de Instagram: botao no cabecalho do post que abre um painel.
-   Só entra onde existe legenda escrita (Jogos GJ+ e Memes GJ+). */
+/* legendas prontas de Instagram: botao ao lado do titulo do post, que expande
+   um painel com o texto e um botao de minimizar.
+   Entra nas abas GJ+, Jogos GJ+ e Memes GJ+ — Informativos fica de fora. */
 (function(){
  const L=window.LEGENDAS||{};
  const esc=s=>String(s).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
- const chave=c=>{const b=c.dataset.busca||'';
-  if(c.dataset.cat==='02-conteudos-jogos-gj'){const m=b.match(/^(\d{2})/);return m&&'jogos-'+m[1];}
-  if(c.dataset.cat==='04-conteudos-memes-gj'){const m=b.match(/^(m\d{2})/);return m&&'meme-'+m[1];}
-  return null;};
+ const chave=c=>{const b=c.dataset.busca||'';let m;
+  switch(c.dataset.cat){
+   case '01-conteudos-gj':      m=b.match(/^([jo]\d{2})/); return m&&'gj-'+m[1];
+   case '02-conteudos-jogos-gj':m=b.match(/^(\d{2})/);     return m&&'jogos-'+m[1];
+   case '04-conteudos-memes-gj':m=b.match(/^(m\d{2})/);    return m&&'meme-'+m[1];
+   default: return null;}};
  const ICON='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 11.5a8.4 8.4 0 0 1-9 8.4 9 9 0 0 1-3.9-.9L3 20.5l1.6-4.7A8.4 8.4 0 0 1 3.6 11 8.4 8.4 0 0 1 12 2.6a8.4 8.4 0 0 1 9 8.9z"/></svg>';
+ const XIS='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"><path d="M5 12h14"/></svg>';
  cs.forEach((c,i)=>{
   const k=chave(c),leg=k&&L[k];if(!leg)return;
-  c.dataset.leg='1';
   const id='leg'+i;
   const btn=document.createElement('button');
   btn.type='button';btn.className='legbtn';btn.setAttribute('aria-expanded','false');btn.setAttribute('aria-controls',id);
   btn.innerHTML=ICON+'Legenda <i>EN</i>';
-  c.querySelector('.nav').prepend(btn);
+  /* o titulo e o botao passam a dividir a mesma linha */
+  const h2=c.querySelector('h2'),linha=document.createElement('div');
+  linha.className='titlinha';h2.after(linha);linha.append(h2,btn);
   const wrap=document.createElement('div');
   wrap.className='leg';wrap.id=id;wrap.dataset.open='false';
   wrap.innerHTML='<div class="legin"><div class="legbox"><div class="leghead">'+
    '<b>Legenda do Instagram</b><span>'+esc(leg.titulo||'')+'</span>'+
-   '<button class="legcopy" type="button">Copiar</button></div>'+
+   '<button class="legcopy" type="button">Copiar</button>'+
+   '<button class="legmin" type="button" title="Minimizar">'+XIS+'Minimizar</button></div>'+
    leg.p.map(t=>'<p>'+esc(t)+'</p>').join('')+
    '<div class="legtags">'+esc(leg.tags)+'</div></div></div>';
   c.querySelector('header').after(wrap);
-  btn.addEventListener('click',()=>{
-   const abrir=wrap.dataset.open!=='true';
-   wrap.dataset.open=String(abrir);btn.setAttribute('aria-expanded',String(abrir));});
+  const alterna=abrir=>{wrap.dataset.open=String(abrir);btn.setAttribute('aria-expanded',String(abrir));};
+  btn.addEventListener('click',()=>alterna(wrap.dataset.open!=='true'));
+  wrap.querySelector('.legmin').addEventListener('click',()=>{
+   alterna(false);
+   const r=btn.getBoundingClientRect();
+   if(r.top<0)btn.scrollIntoView({block:'center',behavior:'smooth'});});
   wrap.querySelector('.legcopy').addEventListener('click',async e=>{
    const txt=leg.p.join('\n\n')+'\n\n'+leg.tags,b=e.currentTarget;
    try{await navigator.clipboard.writeText(txt);}
@@ -906,10 +916,5 @@ aplica();
    b.textContent='Copiado';b.classList.add('ok');
    setTimeout(()=>{b.textContent='Copiar';b.classList.remove('ok');},1600);});
  });
- const cl=document.getElementById('chipLeg');
- cl.addEventListener('click',()=>{
-  const on=cl.getAttribute('aria-pressed')!=='true';
-  cl.setAttribute('aria-pressed',String(on));F.leg=on?'1':'';aplica();});
- aplica();
 })();
 </script></body></html>

@@ -1,9 +1,309 @@
-/* Legendas de Instagram dos carrosséis — Jogos GJ+ e Memes GJ+.
+/* Legendas de Instagram dos carrosséis — abas GJ+, Jogos GJ+ e Memes GJ+.
+   (Informativos GJ+ fica de fora de propósito.)
+
    Escritas pela skill carousel-caption a partir do conteúdo real dos slides
-   (pautas/<slug>/spec.en.json e decks/m*.js). Molde Jogos GJ+: parágrafo de
-   55-70 palavras ancorado nos dados, CTA fixo de "Swipe for..." + follow,
-   e 5 hashtags. Idioma EN, que é o padrão da série. */
+   (decks/*.js e pautas/<slug>/spec.en.json). Idioma EN nas três abas, que é
+   o padrão das séries.
+
+   Moldes:
+   - GJ+ série J: 85-100 palavras narrando os slides na ordem, fecha em
+     "Swipe to see...", CTA do último slide + "Sign up for the 11th edition
+     through the link in bio.", 6 hashtags.
+   - GJ+ série O (sedes e Fellows): mesma estrutura, CTA fecha em
+     "Become an organizer through the link in bio."
+   - Jogos GJ+: 55-70 palavras ancoradas no dado, "Swipe for..." + follow
+     @gamejamplus, 5 hashtags.
+
+   ATENÇÃO: O01, O04, O07, O10, O13, O16 e O05 ainda têm placeholder nos
+   slides (nome das sedes e pontuação do ranking). As legendas usam só os
+   números confirmados: meta de 90 sedes e 66 na edição passada. Quando a
+   lista fechar, vale reescrever citando as sedes. */
 window.LEGENDAS = {
+
+/* ---------------------------------------------------------------- GJ+ · J */
+
+"gj-j01": {
+  "titulo": "J01 · Nobody is eliminated in the first stage",
+  "p": [
+    "Nobody gets eliminated in the first stage of GameJamPlus. Not one person. The first stage is not competitive at a global level, it exists to put your game out in the world, and you move on to Incubation with three deliverables: a working build, a pitch of 3 to 5 minutes, and a signal that you want to continue. There is no cut-off score and no mandatory jury. Last edition 554 projects were delivered across 31 countries and 68 active venues, and all of them moved on. Swipe to see it stage by stage.",
+    "Tell us in the comments what holds you back more, the fear of not finishing or the fear of being cut. Sign up for the 11th edition through the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieGames #IndieDev #GameDevelopment"
+},
+
+"gj-j02": {
+  "titulo": "J02 · You do not need to know how to code",
+  "p": [
+    "Half the score at GameJamPlus is the pitch, not the code. Only 15% of participants call themselves professional or senior, and 26% had never done a game jam before. You deliver the game plus the business plan, so art, sound, narrative, production and business weigh as much as programming.",
+    "Swipe to see every role a team needs, then tell us in the comments which one you would bring: code, art, sound or business. The 11th edition is open, sign up at the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #GameDevelopment #IndieDev #IndieGameDev #IndieGames #GameDesign #GameArt #GameAudio #GameWriting #GameDevCommunity"
+},
+
+"gj-j03": {
+  "titulo": "J03 · Your first game jam, start to finish",
+  "p": [
+    "A whole weekend, hour by hour. Friday at 7pm the opening reveals the themes, which nobody knows beforehand, so everyone starts from zero at the same minute all over the world. At 8pm you form or join a team, and if you came on your own the venue runs a team formation activity. Saturday is production from end to end: small scope, a game running early, testing from hour one. Sunday at 11:59pm the build is due, and the pitch has until Tuesday. Deliver both and you are in Incubation. Swipe to see it hour by hour.",
+    "Tell us in the comments whether this will be your first jam or you have been through one before. Sign up for the 11th edition through the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieGames #IndieDev #GameDevelopment"
+},
+
+"gj-j04": {
+  "titulo": "J04 · It is not 48 hours. It is 7 months",
+  "p": [
+    "Every game jam ends on Sunday. Ours starts there. The 48 hours are just the first of 5 stages: then comes incubation, a track focused on improving the game build, the semifinals, where each country runs its own ceremony to present the qualifiers, the acceleration stage, a track focused on the pitch, with monetization and distribution, and the live Global Final, with investors and publishers in the audience. That is 7 months turning a prototype into a business. Swipe to see it stage by stage.",
+    "Tell us in the comments which stage you think would be the hardest for your team. Sign up for the 11th edition through the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieGames #GameDesign #GameDevelopment"
+},
+
+"gj-j05": {
+  "titulo": "J05 · Games that came through GJ+",
+  "p": [
+    "All of these started as a weekend prototype. Hellbrella, a roguelite about a kitten with an umbrella, sold 3,000 copies in under 3 weeks through GoGo Games. Mix It!, from Costa Rica, won Best Sound Design in 21/22 and was selected by Fondo El Fauno in 2025. Super Mombo Quest passed 1 million players on PlayStation. And As Aventuras de Nhimawa, from ArkHalo Games in Angola, reached the GJ+ 24/25 finalist list. That adds up to more than 2,500 games created inside the ecosystem, across 50 countries. Swipe to see each one.",
+    "Tell us in the comments which one you would play today and we will tag the studios there. Sign up for the 11th edition through the link in bio."
+  ],
+  "tags": "#GameJamPlus #IndieGames #GameDev #GameJam #IndieDev #GameDevelopment"
+},
+
+"gj-j06": {
+  "titulo": "J06 · Half the score is the pitch",
+  "p": [
+    "Half of your score is the pitch, at every stage, and it is what almost every team gets wrong. It needs to be 3 to 5 minutes with English subtitles, because a judge from another country cannot evaluate what they cannot understand. Inside it: real gameplay on video instead of a screenshot, what makes the game unique and who it is for, your competitors, a budget in 3 scenarios, and who the team is. If you already have wishlists, Discord members or playtest numbers, show them. And never end without contact and a QR code, because there are investors and publishers watching. Swipe for the full checklist.",
+    "Tell us in the comments: what scares you more, recording the pitch or finishing the build? Sign up for the 11th edition through the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevelopment"
+},
+
+"gj-j07": {
+  "titulo": "J07 · She made a game with no electricity",
+  "p": [
+    "Marina Gatto entered GJ+ 23/24 from the Inhã-Bã village, in Amazonas, with no outlet, no stable internet and no studio. So she went physical instead of digital, which GJ+ allows: board games count, as long as they can be evaluated digitally through print and play, Tabletopia or another format. She took first place in the North region. The following year she was champion of the SBT Category with Brincadeira de Herói, a board game from Sítio do Picapau Amarelo. Quality games have always existed far from the big hubs. Swipe to see how it happened.",
+    "Tell us in the comments where you are from. We want to see how many corners of the world this story reaches. Sign up for the 11th edition through the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieGames #IndieDev #GameDevelopment"
+},
+
+"gj-j08": {
+  "titulo": "J08 · Myth vs Truth about game jams",
+  "p": [
+    "What stops you from signing up is almost never true. You do not need to already work in games: 26% of participants are first timers and only 15% describe themselves as professional or senior. You do not need to code, because half the score is the pitch, and marketing, business, art, sound and writing decide the outcome. You do not need a team, since venues run team formation at the opening. There is no engine or language restriction, and board games count. And the first stage eliminates nobody. Swipe to see each one.",
+    "Tell us in the comments which of these five has made you put it off. Sign up for the 11th edition through the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieGames #IndieDev #GameDevelopment"
+},
+
+"gj-j09": {
+  "titulo": "J09 · Game jam survival kit",
+  "p": [
+    "What to bring so Saturday night does not hurt. The gear list is a laptop with everything already installed, headphones, mouse, chargers, an extension cord and a power bank. The comfort list is a jacket, because the air conditioning will get you, a water bottle, quick snacks and a neck pillow if you are pulling an all-nighter. Before leaving home, create your itch.io account, join the venue Discord and back everything up. And the item nobody mentions: a business card or a portfolio link, because networking is a deliverable too. Swipe to see the full kit.",
+    "Tell us in the comments the one item you always forget to pack. Sign up for the 11th edition through the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieGames #IndieDev #GameDevelopment"
+},
+
+"gj-j10": {
+  "titulo": "J10 · The ideal team is 3 to 6 people",
+  "p": [
+    "Three to six people is the size that finishes a game. A big team with no direction does not. The six roles you will miss are programming, art, game design, music and sound, production and marketing, and the golden rule is to assign them before the first line of code. Not defining roles is one of the most common mistakes in the official handbook: it costs ten minutes and saves the weekend. If you show up alone, the venue handles it with talent boards, skill pitches and matchmaking on Discord. Going solo is fine too. Swipe to see each role.",
+    "Tag who you want on your team for the 11th edition. Sign up through the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieGames #IndieDev #GameDesign"
+},
+
+"gj-j11": {
+  "titulo": "J11 · What happens after the jam",
+  "p": [
+    "A roguelite about a kitten with an umbrella sold 3,000 copies in three weeks. Hellbrella started as a prototype at GJ+ 24/25 and was published by GoGo Games, the publisher inside the same ecosystem. That is what exists after Sunday: Incubation with a class track, Semifinals with an international jury, Acceleration focused on business and pitch, and an in-person Global Final with investors in the room. More than 200 studios have come through, along with over 24,000 professionals reached and more than 40 investors in the network. Swipe to see the whole path.",
+    "Tell us in the comments how far you want to take the game you have not started yet. Sign up for the 11th edition through the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieGames #IndieDev #GameDevelopment"
+},
+
+"gj-j12": {
+  "titulo": "J12 · 5 mistakes that sink a team at a jam",
+  "p": [
+    "Five mistakes that sink a team at a jam, from people who have been there. Trying to make a huge game, when scope is the rarest skill in the room. Not assigning roles, so three people do the same thing and nobody does the audio. Leaving testing for the end, because a bug found on Sunday night does not get fixed. Testing only on your own machine, when the build has to run on the judge's computer. And missing the deadline: build by Sunday 11:59pm, pitch by Tuesday, backup from Friday on. Swipe to see each one.",
+    "Tell us in the comments which of these five has already sunk a team of yours. Sign up for the 11th edition through the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieGames #IndieDev #GameDesign"
+},
+
+"gj-j13": {
+  "titulo": "J13 · The Gatekeeper",
+  "p": [
+    "There has always been someone at the door deciding who gets in. We call them the Gatekeeper, and it is not one person, it is the set of people who control access to the industry and sit on the information that would make a difference to you. The Gatekeeper says only big studios get shelf space, that game jams are a student hobby, that you cannot make a living from games and that nothing relevant comes out of the periphery. Then a girl with no electricity wins her region. Swipe to see the rest.",
+    "Tell us in the comments which of those lines has been thrown at you. Sign up for the 11th edition through the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieGames #IndieDev #GameDevelopment"
+},
+
+"gj-j14": {
+  "titulo": "J14 · What you take home",
+  "p": [
+    "Nobody leaves a jam empty-handed, even without winning. Every participant leaves with a certificate, a finished game in the portfolio, real experience working in a team, presentation and pitching practice and a network of contacts in their own city. For students it is the easiest line to justify on a CV: a project delivered on deadline, in a multidisciplinary team, presented to a panel. And you join a network across more than 50 countries, with a global Discord, mentors and judges from international studios. Swipe to see the full list.",
+    "Tell us in the comments what you took home from your first jam. Sign up for the 11th edition through the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieGames #IndieDev #GameDevelopment"
+},
+
+"gj-j15": {
+  "titulo": "J15 · How to take part, step by step",
+  "p": [
+    "From zero to signed up in five steps. Create your account on the official platform, pick your venue between in person, hybrid and online, form or join a team, choose the categories you want to compete in, then build it, upload the build and record the pitch. Two details that save time: the login has no password, you get an access link by email, so bookmark it. The build goes on itch.io and the pitch on YouTube, unlisted is fine, and only one team representative submits. Swipe to see it step by step.",
+    "Tell us in the comments which step you got stuck on and we will answer. Sign up for the 11th edition through the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieGames #IndieDev #GameDevelopment"
+},
+
+/* ---------------------------------------------- GJ+ · O (sedes e Fellows) */
+
+"gj-o01": {
+  "titulo": "O01 · Confirmed venues, week 1",
+  "p": [
+    "The venue list of the 11th edition opens here, and it grows every Monday. Each week we publish who has confirmed and who came in during the last seven days, until the map is closed. The target for this edition is 90 venues, against the 66 that ran the last one, so there are 24 cities that do not exist on the map yet. Any of them can be yours, because there is no minimum number of teams and no territorial exclusivity. Swipe to see who is already in.",
+    "Tag the venue you want to see in your city below. Become an organizer through the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-o02": {
+  "titulo": "O02 · What you get as a Fellow",
+  "p": [
+    "If you have ever run a venue, you already are a Fellow. The program pays in points for every action inside the edition, and those points go into a global organizer ranking. A Fellow also gets a spot in the global WhatsApp group, direct access to the GJ+ team and visibility for the venue on the official channels. The top ranked get travel and lodging to the in-person Global Final, with studios from 5 continents, investors and publishers in the room. Running the venue, bringing jammers and referring new venues all score. Swipe to see how it works.",
+    "Tell us in the comments what city you are from. We want to see where a venue is still missing. Become an organizer through the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-o03": {
+  "titulo": "O03 · The 3 types of Fellow",
+  "p": [
+    "The Fellows Program used to have one type of member. Now it has three. The Organizer runs a local venue, brings jammers in and refers new venues, which is the type that already existed. The Sponsor is a brand or a person funding the edition, scoring by contribution, renewal and referral, with a supporter ranking of their own. And the Supporter, or Ambassador, is whoever helps without organizing: volunteer, creator, mentor, judge, former jammer, scoring through promotion, content and jammer referrals. Everyone lands in the same ranking. Swipe to see each one.",
+    "Tell us in the comments which of these three sounds like you. Become an organizer through the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-o04": {
+  "titulo": "O04 · Confirmed venues, week 2",
+  "p": [
+    "Week two of the 11th edition venue list, and the map keeps filling in every Monday. The target is 90 venues, against the 66 that ran the last edition, which means 24 cities still missing. Opening one is lighter than it sounds: the official rule sets no minimum number of teams, a venue with two teams is a venue, and there can be more than one in the same city, as long as the name has a distinguishing term. Swipe to see who confirmed this week.",
+    "Tag the venue you want to see in your city below. Become an organizer through the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-o05": {
+  "titulo": "O05 · The Fellows ranking",
+  "p": [
+    "The Fellows ranking is live, and every action inside the edition counts. You score by running your venue, by every jammer you bring in, by every new venue you refer, by the extra meetups your community runs and by staying involved through the later stages. What the top of the table gets is travel and lodging to the in-person Global Final, plus public recognition and direct access to the global organizer network. It is the same ranking for organizers, sponsors and ambassadors. Swipe to see where the table stands.",
+    "Tell us in the comments the city you want to see at the top of this ranking. Become an organizer through the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-o06": {
+  "titulo": "O06 · 100% of what your venue raises is yours",
+  "p": [
+    "If your venue charges for registration or tickets, the money is entirely the venue's. There is no revenue share, you only need to inform the global team. Local sponsorship works the same way: you negotiate directly, with no global approval, review happens case by case and most pass without restriction. The Toolbox even includes a ready-made sponsorship deck, so you can put the GJ+ brand in the proposal and close local support in your city. What the global organization does not do is send money. Swipe to see the whole arrangement.",
+    "Tell us in the comments what is still holding you back from opening your city's venue. Become an organizer through the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-o07": {
+  "titulo": "O07 · Confirmed venues, week 3",
+  "p": [
+    "Third Monday of the 11th edition venue list. What a venue actually asks of you is one weekend: promoting it in your city, hosting the jammers, making sure everyone registers on the platform and documenting the event in photo and video. Ceremonies, local jury, mentors and catering are optional, and Incubation, Semifinals and the Final belong to the global team. The target this edition is 90 venues, against the 66 that ran the last one. Swipe to see who is in so far.",
+    "Tag the venue you want to see in your city below. Become an organizer through the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-o08": {
+  "titulo": "O08 · There is no such thing as a venue too small",
+  "p": [
+    "The official rule sets no minimum number of teams. It is written in the Local Organizer Guide: every venue counts, regardless of size. A venue with two teams is a venue, it shows up on the global map, goes into the official communications and scores in the Fellows Program like any other. There can also be more than one venue in the same city, all it takes is a distinguishing term in the name, because GJ+ does not work with territorial exclusivity. Every local scene started with a handful of people. Swipe to see why size is not the point.",
+    "Tell us in the comments how many people make games in your city. We bet it is more than you think. Become an organizer through the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-o09": {
+  "titulo": "O09 · Your responsibility is only the weekend",
+  "p": [
+    "Straight from the Local Organizer Guide: a local organizer is only responsible for running the Game Jam itself. What is yours is promoting the venue in your city, hosting the jammers over the weekend, making sure everyone registers on the platform and documenting the event in photo and video. Ceremonies, local jury and awards, mentors, workshops and catering are all optional. Incubation, Semifinals and the Final belong to the global team, and taking part in them climbs your Fellows ranking without being an obligation. Swipe to see what is yours and what is not.",
+    "Tell us in the comments whether you would take on one weekend for your city. Become an organizer through the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-o10": {
+  "titulo": "O10 · Confirmed venues, week 4",
+  "p": [
+    "Fourth week of the 11th edition venue list. A venue does not need a physical space to exist: it can run entirely on a Discord server, and an online venue lets you recruit volunteers and mentors from other cities and countries. It can also run on its own date inside the official window, which is what venues did in the 10th edition when the global weekend clashed with the university calendar. The target is 90 venues. Swipe to see this week's list.",
+    "Tag the venue you want to see in your city below. Become an organizer through the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-o11": {
+  "titulo": "O11 · What GJ+ delivers to your venue",
+  "p": [
+    "You are not doing it alone. A venue comes with the official registration and submission platform, a Toolbox of editable promo artwork, a sponsorship deck template, the opening keynote with themes and categories, the Jammer Handbook to hand out and support by email, Discord and the organizer group. The strongest asset is the brand of a jam running in more than 50 countries, which is what opens the door of the university, the coworking space and the local sponsor. GJ+ has been the official IGDA game jam since 2024. Swipe to see the full list.",
+    "Tell us in the comments which of these you did not know came with it. Become an organizer through the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-o12": {
+  "titulo": "O12 · In person, online or hybrid",
+  "p": [
+    "Not having a physical space does not stop you from hosting. In person means a room with desks, outlets, restrooms and internet, in a university, coworking, innovation hub or cultural centre, and sleeping over is allowed. Online means the whole venue runs on a Discord server, which lets you recruit volunteers and mentors from other cities and countries. Hybrid mixes the two, with everyone in the same Discord and one person dedicated purely to the people online. Your venue can even run on its own date inside the official window. Swipe to see the three.",
+    "Tell us in the comments which format makes sense for your city. Become an organizer through the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-o13": {
+  "titulo": "O13 · Confirmed venues, week 5",
+  "p": [
+    "Fifth Monday of the 11th edition venue list. What comes with a venue is the platform for registration and submission, a Toolbox with editable promo artwork, a sponsorship deck template, the opening keynote with themes and categories, the Jammer Handbook and direct support by email and Discord. What does not come is funding, and in exchange the venue keeps 100% of everything it raises. The target this edition is 90, against 66 last time. Swipe to see who is in.",
+    "Tag the venue you want to see in your city below. Become an organizer through the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-o14": {
+  "titulo": "O14 · Your city still has no venue",
+  "p": [
+    "66 venues ran the last edition and the target for the 11th is 90, which means 24 cities that do not exist on the map yet. One of them can be yours. The people who usually open a venue are a student group or academic league, a games course lecturer, a local dev collective, a coworking space or a cultural centre. What you need is the will to bring your city's people together, a space or a Discord server, one weekend and two or three people to help. GJ+ delivers the rest. Swipe to see what that means.",
+    "Drop your city's name in the comments. We want to see how many are still missing from the map. Become an organizer through the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-o15": {
+  "titulo": "O15 · Checklist to set up your venue",
+  "p": [
+    "The checklist comes straight from the Local Organizer Guide. On facilities: desks, chairs, outlets and restrooms, stable internet both wired and Wi-Fi, a rest area even if it is just a corner, ventilation and some water and snacks. On the local crew: someone on reception, someone for emergencies, someone for technical questions and someone shooting photo and video. On materials: badges, a whiteboard, the Wi-Fi password on display and QR codes for the Discord and the platform. The item everyone forgets is documenting the event. Swipe to see the full checklist.",
+    "Tell us in the comments the item this list is missing. Anyone who has organized one knows. Become an organizer through the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-o16": {
+  "titulo": "O16 · Confirmed venues, month wrap-up",
+  "p": [
+    "The month closes with the 11th edition venue list, which grew every Monday since week one. The target is 90 venues, against the 66 that ran the last edition, and every one of them shows up on the global map, goes into the official communications and scores in the Fellows Program, regardless of size. GJ+ has been the official game jam of the IGDA since 2024, and that brand is what opens the door of the university, the coworking space and the local sponsor. Swipe to see the month.",
+    "Tag the venue you want to see in your city below. Become an organizer through the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+/* ------------------------------------------------------------- Jogos GJ+ */
 
 "jogos-01": {
   "titulo": "01 · What 28 launches teach together",
