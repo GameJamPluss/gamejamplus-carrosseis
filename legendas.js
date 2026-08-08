@@ -578,7 +578,7 @@ window.LEGENDAS = {
 "meme-m03": {
   "titulo": "M03 · Where you build your base in Minecraft",
   "p": [
-    "Your dirt house was supposed to be temporary. It is day 83 and you are still in it. Minecraft bases are not a strategy, they are a personality test with extra steps, and nobody ever thinks theirs is the weird one. The village squatter, the island hermit, the one still digging. Five bases, five kinds of player.",
+    "Day one you built a dirt box and swore it was temporary. It is day 83 and you have a full storage system in there. Some of you moved into a village and called it integration. Some of you dug a hole and never came back up. One of you is still building a castle that nobody, including you, will ever see finished.",
     "Swipe to find yours, then tell us in the comments which one you are. If you want to finally finish a build, the 11th edition sign-up is in the bio."
   ],
   "tags": "#GameJamPlus #Minecraft #GameDev #IndieGames #Gamers"
