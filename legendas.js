@@ -578,7 +578,7 @@ window.LEGENDAS = {
 "meme-m03": {
   "titulo": "M03 · Where you build your base in Minecraft",
   "p": [
-    "Nobody picks their Minecraft base by accident, and everybody swears their spot is the sensible one. A dirt shack you promised to upgrade on day two, a village house you never paid for, an island nobody else was invited to, a hole in the ground with fourteen chests, or a castle nobody will ever finish. Five places to live, five kinds of player.",
+    "Your dirt house was supposed to be temporary. It is day 83 and you are still in it. Minecraft bases are not a strategy, they are a personality test with extra steps, and nobody ever thinks theirs is the weird one. The village squatter, the island hermit, the one still digging. Five bases, five kinds of player.",
     "Swipe to find yours, then tell us in the comments which one you are. If you want to finally finish a build, the 11th edition sign-up is in the bio."
   ],
   "tags": "#GameJamPlus #Minecraft #GameDev #IndieGames #Gamers"
