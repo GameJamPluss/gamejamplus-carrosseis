@@ -573,6 +573,15 @@ window.LEGENDAS = {
     "Swipe to find yours, then tag the friend who is definitely the rooftop strategist. Follow @gamejamplus for more."
   ],
   "tags": "#GameJamPlus #MecchaChameleon #GameDev #IndieGames #Gamers"
+},
+
+"meme-m03": {
+  "titulo": "M03 · Where you build your base in Minecraft",
+  "p": [
+    "Nobody picks their Minecraft base by accident, and everybody swears their spot is the sensible one. A dirt shack you promised to upgrade on day two, a village house you never paid for, an island nobody else was invited to, a hole in the ground with fourteen chests, or a castle nobody will ever finish. Five places to live, five kinds of player.",
+    "Swipe to find yours, then tag the friend who is definitely still living in that dirt shack. Follow @gamejamplus for more."
+  ],
+  "tags": "#GameJamPlus #Minecraft #GameDev #IndieGames #Gamers"
 }
 
 };
