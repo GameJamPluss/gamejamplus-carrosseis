@@ -205,8 +205,8 @@ window.LEGENDAS = {
 "gj-o05": {
   "titulo": "O05 · Confirmed venues, week 2",
   "p": [
-    "Week two of the 11th edition venue list, and the map keeps filling in every Monday. The target is 90 venues, against the 66 that ran the last edition, which means 24 cities still missing. Opening one is lighter than it sounds: the official rule sets no minimum number of teams, a venue with two teams is a venue, and there can be more than one in the same city, as long as the name has a distinguishing term. Swipe to see who confirmed this week.",
-    "Tag the venue you want to see in your city below. Become an organizer through the link in bio."
+    "Week two of the venue list, and it keeps growing every week. Zambia, Portugal, Chile, Peru, Mexico and Brazil are on the map, and Argentina came in with Buenos Aires. From Lusaka to Boa Vista, these are universities, schools and studios that decided to host. Swipe to see who confirmed.",
+    "Tell us in the comments where the next one should open. Become an organizer through the link in bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
