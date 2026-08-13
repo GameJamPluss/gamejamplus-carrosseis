@@ -14,10 +14,16 @@
    - Jogos GJ+: 55-70 palavras ancoradas no dado, "Swipe for..." + follow
      @gamejamplus, 5 hashtags.
 
-   ATENÇÃO: O01, O04, O07, O10, O13, O16 e O05 ainda têm placeholder nos
-   slides (nome das sedes e pontuação do ranking). As legendas usam só os
-   números confirmados: meta de 90 sedes e 66 na edição passada. Quando a
-   lista fechar, vale reescrever citando as sedes. */
+   RENUMERAÇÃO (13/ago/2026): a série O passou a seguir a ordem real de
+   postagem, então O01<->O02, O04<->O05 e O07<->O08 trocaram de número.
+   As chaves acompanham o número novo; o conteúdo continua colado no
+   carrossel certo.
+
+   ATENÇÃO: O05, O08, O10, O13, O16 (sedes) e O04 (ranking) ainda têm
+   placeholder nos slides. As legendas usam só os números confirmados:
+   meta de 90 sedes e 66 na edição passada. Quando a lista fechar, vale
+   reescrever citando as sedes. O O02 (sedes semana 1) já saiu do
+   placeholder — leva a lista real aplicada em 13/ago. */
 window.LEGENDAS = {
 
 /* ---------------------------------------------------------------- GJ+ · J */
@@ -160,19 +166,19 @@ window.LEGENDAS = {
 /* ---------------------------------------------- GJ+ · O (sedes e Fellows) */
 
 "gj-o01": {
-  "titulo": "O01 · Confirmed venues, week 1",
+  "titulo": "O01 · What you get as a Fellow",
   "p": [
-    "The venue list of the 11th edition opens here, and it grows every week. Angola, South Africa, Slovakia, Bangladesh, Bolivia and Brazil are already in, and Argentina, Singapore and Indonesia came in this week. They are universities, studios and tech hubs, which is what a venue can be. Swipe to see who is on the map.",
-    "Tell us in the comments which city still needs a venue. Become an organizer through the link in bio."
+    "If you have ever run a venue, you already are a Fellow. The program pays in points for every action inside the edition, and those points go into a global organizer ranking. A Fellow also gets a spot in the global WhatsApp group, direct access to the GJ+ team and visibility for the venue on the official channels. The top ranked get travel and lodging to the in-person Global Final, with studios from 5 continents, investors and publishers in the room. Running the venue, bringing jammers and referring new venues all score. Swipe to see how it works.",
+    "Tell us in the comments what city you are from. We want to see where a venue is still missing. Become an organizer through the link in bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
 
 "gj-o02": {
-  "titulo": "O02 · What you get as a Fellow",
+  "titulo": "O02 · Confirmed venues, week 1",
   "p": [
-    "If you have ever run a venue, you already are a Fellow. The program pays in points for every action inside the edition, and those points go into a global organizer ranking. A Fellow also gets a spot in the global WhatsApp group, direct access to the GJ+ team and visibility for the venue on the official channels. The top ranked get travel and lodging to the in-person Global Final, with studios from 5 continents, investors and publishers in the room. Running the venue, bringing jammers and referring new venues all score. Swipe to see how it works.",
-    "Tell us in the comments what city you are from. We want to see where a venue is still missing. Become an organizer through the link in bio."
+    "The venue list of the 11th edition opens here, and it grows every week. Angola, South Africa, Slovakia, Bangladesh, Bolivia and Brazil are already in, and Argentina, Singapore and Indonesia came in this week. They are universities, studios and tech hubs, which is what a venue can be. Swipe to see who is on the map.",
+    "Tell us in the comments which city still needs a venue. Become an organizer through the link in bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
@@ -187,19 +193,19 @@ window.LEGENDAS = {
 },
 
 "gj-o04": {
-  "titulo": "O04 · Confirmed venues, week 2",
+  "titulo": "O04 · The Fellows ranking",
   "p": [
-    "Week two of the 11th edition venue list, and the map keeps filling in every Monday. The target is 90 venues, against the 66 that ran the last edition, which means 24 cities still missing. Opening one is lighter than it sounds: the official rule sets no minimum number of teams, a venue with two teams is a venue, and there can be more than one in the same city, as long as the name has a distinguishing term. Swipe to see who confirmed this week.",
-    "Tag the venue you want to see in your city below. Become an organizer through the link in bio."
+    "The Fellows ranking is live, and every action inside the edition counts. You score by running your venue, by every jammer you bring in, by every new venue you refer, by the extra meetups your community runs and by staying involved through the later stages. What the top of the table gets is travel and lodging to the in-person Global Final, plus public recognition and direct access to the global organizer network. It is the same ranking for organizers, sponsors and ambassadors. Swipe to see where the table stands.",
+    "Tell us in the comments the city you want to see at the top of this ranking. Become an organizer through the link in bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
 
 "gj-o05": {
-  "titulo": "O05 · The Fellows ranking",
+  "titulo": "O05 · Confirmed venues, week 2",
   "p": [
-    "The Fellows ranking is live, and every action inside the edition counts. You score by running your venue, by every jammer you bring in, by every new venue you refer, by the extra meetups your community runs and by staying involved through the later stages. What the top of the table gets is travel and lodging to the in-person Global Final, plus public recognition and direct access to the global organizer network. It is the same ranking for organizers, sponsors and ambassadors. Swipe to see where the table stands.",
-    "Tell us in the comments the city you want to see at the top of this ranking. Become an organizer through the link in bio."
+    "Week two of the 11th edition venue list, and the map keeps filling in every Monday. The target is 90 venues, against the 66 that ran the last edition, which means 24 cities still missing. Opening one is lighter than it sounds: the official rule sets no minimum number of teams, a venue with two teams is a venue, and there can be more than one in the same city, as long as the name has a distinguishing term. Swipe to see who confirmed this week.",
+    "Tag the venue you want to see in your city below. Become an organizer through the link in bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
@@ -214,19 +220,19 @@ window.LEGENDAS = {
 },
 
 "gj-o07": {
-  "titulo": "O07 · Confirmed venues, week 3",
+  "titulo": "O07 · There is no such thing as a venue too small",
   "p": [
-    "Third Monday of the 11th edition venue list. What a venue actually asks of you is one weekend: promoting it in your city, hosting the jammers, making sure everyone registers on the platform and documenting the event in photo and video. Ceremonies, local jury, mentors and catering are optional, and Incubation, Semifinals and the Final belong to the global team. The target this edition is 90 venues, against the 66 that ran the last one. Swipe to see who is in so far.",
-    "Tag the venue you want to see in your city below. Become an organizer through the link in bio."
+    "The official rule sets no minimum number of teams. It is written in the Local Organizer Guide: every venue counts, regardless of size. A venue with two teams is a venue, it shows up on the global map, goes into the official communications and scores in the Fellows Program like any other. There can also be more than one venue in the same city, all it takes is a distinguishing term in the name, because GJ+ does not work with territorial exclusivity. Every local scene started with a handful of people. Swipe to see why size is not the point.",
+    "Tell us in the comments how many people make games in your city. We bet it is more than you think. Become an organizer through the link in bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
 
 "gj-o08": {
-  "titulo": "O08 · There is no such thing as a venue too small",
+  "titulo": "O08 · Confirmed venues, week 3",
   "p": [
-    "The official rule sets no minimum number of teams. It is written in the Local Organizer Guide: every venue counts, regardless of size. A venue with two teams is a venue, it shows up on the global map, goes into the official communications and scores in the Fellows Program like any other. There can also be more than one venue in the same city, all it takes is a distinguishing term in the name, because GJ+ does not work with territorial exclusivity. Every local scene started with a handful of people. Swipe to see why size is not the point.",
-    "Tell us in the comments how many people make games in your city. We bet it is more than you think. Become an organizer through the link in bio."
+    "Third Monday of the 11th edition venue list. What a venue actually asks of you is one weekend: promoting it in your city, hosting the jammers, making sure everyone registers on the platform and documenting the event in photo and video. Ceremonies, local jury, mentors and catering are optional, and Incubation, Semifinals and the Final belong to the global team. The target this edition is 90 venues, against the 66 that ran the last one. Swipe to see who is in so far.",
+    "Tag the venue you want to see in your city below. Become an organizer through the link in bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
