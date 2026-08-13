@@ -15,11 +15,12 @@
      @gamejamplus, 5 hashtags.
 
    RENUMERAÇÃO (13/ago/2026): a série O passou a seguir a ordem real de
-   postagem, então O01<->O02, O04<->O05 e O07<->O08 trocaram de número.
+   postagem. Em relação à numeração original, o de/para ficou assim:
+   O01→O02, O02→O01, O04→O05, O05→O06, O06→O04, O07→O08, O08→O07.
    As chaves acompanham o número novo; o conteúdo continua colado no
    carrossel certo.
 
-   ATENÇÃO: O05, O08, O10, O13, O16 (sedes) e O04 (ranking) ainda têm
+   ATENÇÃO: O05, O08, O10, O13, O16 (sedes) e O06 (ranking) ainda têm
    placeholder nos slides. As legendas usam só os números confirmados:
    meta de 90 sedes e 66 na edição passada. Quando a lista fechar, vale
    reescrever citando as sedes. O O02 (sedes semana 1) já saiu do
@@ -193,10 +194,10 @@ window.LEGENDAS = {
 },
 
 "gj-o04": {
-  "titulo": "O04 · The Fellows ranking",
+  "titulo": "O04 · 100% of what your venue raises is yours",
   "p": [
-    "The Fellows ranking is live, and every action inside the edition counts. You score by running your venue, by every jammer you bring in, by every new venue you refer, by the extra meetups your community runs and by staying involved through the later stages. What the top of the table gets is travel and lodging to the in-person Global Final, plus public recognition and direct access to the global organizer network. It is the same ranking for organizers, sponsors and ambassadors. Swipe to see where the table stands.",
-    "Tell us in the comments the city you want to see at the top of this ranking. Become an organizer through the link in bio."
+    "If your venue charges for registration or tickets, the money is entirely the venue's. There is no revenue share, you only need to inform the global team. Local sponsorship works the same way: you negotiate directly, with no global approval, review happens case by case and most pass without restriction. The Toolbox even includes a ready-made sponsorship deck, so you can put the GJ+ brand in the proposal and close local support in your city. What the global organization does not do is send money. Swipe to see the whole arrangement.",
+    "Tell us in the comments what is still holding you back from opening your city's venue. Become an organizer through the link in bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
@@ -211,10 +212,10 @@ window.LEGENDAS = {
 },
 
 "gj-o06": {
-  "titulo": "O06 · 100% of what your venue raises is yours",
+  "titulo": "O06 · The Fellows ranking",
   "p": [
-    "If your venue charges for registration or tickets, the money is entirely the venue's. There is no revenue share, you only need to inform the global team. Local sponsorship works the same way: you negotiate directly, with no global approval, review happens case by case and most pass without restriction. The Toolbox even includes a ready-made sponsorship deck, so you can put the GJ+ brand in the proposal and close local support in your city. What the global organization does not do is send money. Swipe to see the whole arrangement.",
-    "Tell us in the comments what is still holding you back from opening your city's venue. Become an organizer through the link in bio."
+    "The Fellows ranking is live, and every action inside the edition counts. You score by running your venue, by every jammer you bring in, by every new venue you refer, by the extra meetups your community runs and by staying involved through the later stages. What the top of the table gets is travel and lodging to the in-person Global Final, plus public recognition and direct access to the global organizer network. It is the same ranking for organizers, sponsors and ambassadors. Swipe to see where the table stands.",
+    "Tell us in the comments the city you want to see at the top of this ranking. Become an organizer through the link in bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
