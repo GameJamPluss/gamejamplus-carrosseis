@@ -20,11 +20,13 @@
    As chaves acompanham o número novo; o conteúdo continua colado no
    carrossel certo.
 
-   ATENÇÃO: O05, O08, O10, O13, O16 (sedes) e O06 (ranking) ainda têm
+   ATENÇÃO: O08, O10, O13, O16 (sedes) e O06 (ranking) ainda têm
    placeholder nos slides. As legendas usam só os números confirmados:
    meta de 90 sedes e 66 na edição passada. Quando a lista fechar, vale
-   reescrever citando as sedes. O O02 (sedes semana 1) já saiu do
-   placeholder — leva a lista real aplicada em 13/ago. */
+   reescrever citando as sedes. O O02 e o O05 (sedes semanas 1 e 2) já
+   saíram do placeholder — levam a lista real aplicada em 13/ago. A
+   legenda do O05 ainda é a genérica, dá pra citar os países novos
+   igual a do O02 faz. */
 window.LEGENDAS = {
 
 /* ---------------------------------------------------------------- GJ+ · J */
