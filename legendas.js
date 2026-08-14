@@ -591,6 +591,15 @@ window.LEGENDAS = {
     "Swipe to find yours, then tell us in the comments which one you are. If you want to finally finish a build, the 11th edition sign-up is in the bio."
   ],
   "tags": "#GameJamPlus #Minecraft #GameDev #IndieGames #Gamers"
+},
+
+"meme-m04": {
+  "titulo": "M04 · The way you play Fortnite",
+  "p": [
+    "You marked the busiest spot on the map, landed with no weapon, and were back in the lobby in forty seconds. Some of you spent the whole match opening chests and died with a perfect inventory. Some of you heard one gunshot and built a mansion you could not get out of. One of you is a bush.",
+    "Swipe to find yourself, then tell us in the comments which one you are. If you would rather build something that outlives the match, the 11th edition sign-up is in the bio."
+  ],
+  "tags": "#GameJamPlus #Fortnite #GameDev #IndieGames #Gamers"
 }
 
 };
