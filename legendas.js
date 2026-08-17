@@ -214,19 +214,19 @@ window.LEGENDAS = {
 },
 
 "gj-o06": {
-  "titulo": "O06 · The Fellows ranking",
+  "titulo": "O06 · There is no such thing as a venue too small",
   "p": [
-    "The Fellows ranking is live, and every action inside the edition counts. You score by running your venue, by every jammer you bring in, by every new venue you refer, by the extra meetups your community runs and by staying involved through the later stages. What the top of the table gets is travel and lodging to the in-person Global Final, plus public recognition and direct access to the global organizer network. It is the same ranking for organizers, sponsors and ambassadors. Swipe to see where the table stands.",
-    "Tell us in the comments the city you want to see at the top of this ranking. Become an organizer through the link in bio."
+    "The official rule sets no minimum number of teams. It is written in the Local Organizer Guide: every venue counts, regardless of size. A venue with two teams is a venue, it shows up on the global map, goes into the official communications and scores in the Fellows Program like any other. There can also be more than one venue in the same city, all it takes is a distinguishing term in the name, because GJ+ does not work with territorial exclusivity. Every local scene started with a handful of people. Swipe to see why size is not the point.",
+    "Tell us in the comments how many people make games in your city. We bet it is more than you think. Become an organizer through the link in bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
 
 "gj-o07": {
-  "titulo": "O07 · There is no such thing as a venue too small",
+  "titulo": "O07 · In person, online or hybrid",
   "p": [
-    "The official rule sets no minimum number of teams. It is written in the Local Organizer Guide: every venue counts, regardless of size. A venue with two teams is a venue, it shows up on the global map, goes into the official communications and scores in the Fellows Program like any other. There can also be more than one venue in the same city, all it takes is a distinguishing term in the name, because GJ+ does not work with territorial exclusivity. Every local scene started with a handful of people. Swipe to see why size is not the point.",
-    "Tell us in the comments how many people make games in your city. We bet it is more than you think. Become an organizer through the link in bio."
+    "Not having a physical space does not stop you from hosting. In person means a room with desks, outlets, restrooms and internet, in a university, coworking, innovation hub or cultural centre, and sleeping over is allowed. Online means the whole venue runs on a Discord server, which lets you recruit volunteers and mentors from other cities and countries. Hybrid mixes the two, with everyone in the same Discord and one person dedicated purely to the people online. Your venue can even run on its own date inside the official window. Swipe to see the three.",
+    "Tell us in the comments which format makes sense for your city. Become an organizer through the link in bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
@@ -268,10 +268,10 @@ window.LEGENDAS = {
 },
 
 "gj-o12": {
-  "titulo": "O12 · In person, online or hybrid",
+  "titulo": "O12 · The Fellows ranking",
   "p": [
-    "Not having a physical space does not stop you from hosting. In person means a room with desks, outlets, restrooms and internet, in a university, coworking, innovation hub or cultural centre, and sleeping over is allowed. Online means the whole venue runs on a Discord server, which lets you recruit volunteers and mentors from other cities and countries. Hybrid mixes the two, with everyone in the same Discord and one person dedicated purely to the people online. Your venue can even run on its own date inside the official window. Swipe to see the three.",
-    "Tell us in the comments which format makes sense for your city. Become an organizer through the link in bio."
+    "The Fellows ranking is live, and every action inside the edition counts. You score by running your venue, by every jammer you bring in, by every new venue you refer, by the extra meetups your community runs and by staying involved through the later stages. What the top of the table gets is travel and lodging to the in-person Global Final, plus public recognition and direct access to the global organizer network. It is the same ranking for organizers, sponsors and ambassadors. Swipe to see where the table stands.",
+    "Tell us in the comments the city you want to see at the top of this ranking. Become an organizer through the link in bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
