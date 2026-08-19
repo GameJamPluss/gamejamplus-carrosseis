@@ -234,8 +234,8 @@ window.LEGENDAS = {
 "gj-o08": {
   "titulo": "O08 · Confirmed venues, week 3",
   "p": [
-    "Third Monday of the 11th edition venue list. What a venue actually asks of you is one weekend: promoting it in your city, hosting the jammers, making sure everyone registers on the platform and documenting the event in photo and video. Ceremonies, local jury, mentors and catering are optional, and Incubation, Semifinals and the Final belong to the global team. The target this edition is 90 venues, against the 66 that ran the last one. Swipe to see who is in so far.",
-    "Tag the venue you want to see in your city below. Become an organizer through the link in bio."
+    "Week three of the venue list, and it keeps growing every week. Mexico, Colombia, Venezuela, Ecuador and Argentina are on the map alongside Brazil, and Campo Grande and Niterói came in over the last few days. From Puerto Vallarta to Belém, the jam keeps finding a new room. Swipe to see who confirmed.",
+    "Tell us in the comments which city you want on this list. Become an organizer through the link in bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
