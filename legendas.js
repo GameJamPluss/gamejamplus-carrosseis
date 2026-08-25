@@ -267,6 +267,14 @@ window.LEGENDAS = {
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
 
+"gj-o11-pt": {
+  "titulo": "O11 · O que a GJ+ entrega pra sua sede",
+  "p": [
+    "Você não faz sozinho. Com a sede vem a plataforma oficial de inscrição e submissão, uma Toolbox de artes editáveis pra divulgação, um modelo de apresentação comercial pra captar patrocínio, o keynote de abertura com temas e categorias, o Manual do Jammer pra distribuir e suporte por e-mail, Discord e grupo de organizadores. O ativo mais forte é a marca de uma jam que roda em mais de 50 países, e é isso que abre a porta da faculdade, do coworking e do patrocinador local na sua cidade. A GJ+ é a game jam oficial da IGDA desde 2024.",
+    "Comenta aqui qual desses itens você não sabia que vinha junto. E se a sua cidade ainda não tem sede, a inscrição pra organizar a 11ª edição está no link da bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
 "gj-o12": {
   "titulo": "O12 · The Fellows ranking",
   "p": [
@@ -294,6 +302,14 @@ window.LEGENDAS = {
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
 
+"gj-o14-pt": {
+  "titulo": "O14 · Sua cidade ainda não tem sede",
+  "p": [
+    "Não ter sede na sua cidade é um convite, não uma reclamação. Quem costuma abrir uma é um núcleo ou liga acadêmica, um professor de curso de jogos, um coletivo local de devs, um coworking, um centro cultural ou alguém que já organiza outro evento por lá. O que você precisa ter é vontade de reunir a galera da sua cidade, um espaço ou um servidor de Discord, um fim de semana e duas ou três pessoas pra ajudar. O resto a GJ+ entrega: marca, plataforma, material de divulgação, modelo de proposta comercial, manual e suporte direto.",
+    "Comenta aqui o nome da sua cidade, que a gente quer ver quantas ainda faltam no mapa. E se você for a pessoa que junta essa galera, a inscrição pra organizar a 11ª edição está no link da bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
 "gj-o15": {
   "titulo": "O15 · Checklist to set up your venue",
   "p": [
