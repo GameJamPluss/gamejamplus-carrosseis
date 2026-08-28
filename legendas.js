@@ -319,6 +319,15 @@ window.LEGENDAS = {
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
 
+"gj-o15-pt": {
+  "titulo": "O15 · Checklist pra montar sua sede",
+  "p": [
+    "A lista vem direto do Guia do Organizador Local. Na estrutura: mesas, cadeiras, tomadas, internet estável cabeada e Wi-Fi, uma área de descanso nem que seja um canto, água e algum lanche. Na equipe: alguém na recepção, alguém pra emergência, alguém pra dúvida técnica e alguém registrando foto e vídeo. E se você não tem espaço nenhum, existe sede online: um servidor de Discord organizado em canais, com boas-vindas, avisos fixados, suporte técnico e salas de voz pros times. Os jammers participam de casa e concorrem exatamente como todo mundo.",
+    "Comenta aqui o item que faltou nessa lista, que quem já organizou sabe. E se a sua cidade ainda não tem sede, a inscrição pra organizar a 11ª edição está no link da bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
 "gj-o16": {
   "titulo": "O16 · Confirmed venues, month wrap-up",
   "p": [

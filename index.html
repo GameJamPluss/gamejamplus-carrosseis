@@ -975,7 +975,9 @@ aplica();
  const esc=s=>String(s).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
  const chave=c=>{const b=c.dataset.busca||'';let m;
   switch(c.dataset.cat){
-   case '01-conteudos-gj':      m=b.match(/^([jo]\d{2})/); return m&&'gj-'+m[1];
+   /* [a-z] e nao [jo]: as series C (case e curiosidade) e E (evento/edicao),
+      criadas em 26/ago/2026, nao casavam no padrao antigo e ficavam sem legenda. */
+   case '01-conteudos-gj':      m=b.match(/^([a-z]\d{2})/); return m&&'gj-'+m[1];
    case '02-conteudos-jogos-gj':m=b.match(/^(\d{2})/);     return m&&'jogos-'+m[1];
    case '04-conteudos-memes-gj':m=b.match(/^(m\d{2})/);    return m&&'meme-'+m[1];
    default: return null;}};
