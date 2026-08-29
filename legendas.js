@@ -882,8 +882,8 @@ window.LEGENDAS = {
 "gj-e01": {
   "titulo": "E01 · The 5 regions of GJ+",
   "p": [
-    "Your venue does not compete against the whole world, it competes inside one of 5 regions: Brazil, Latam, which is where Mexico sits rather than North America, Europe plus Anglo America, meaning the United States and Canada, Asia plus Oceania, and Africa, where the Middle East lands depending on the country. The semifinal is not country against country: each region runs its own ceremony to announce the qualifiers, some in person and some live on YouTube. At least 60 games move on to Acceleration, and the organisation tries to keep at least one game per country and one per Brazilian state.",
-    "Tell us in the comments which region you are in, because we want to see where this edition is coming from. And if your city is not on that map yet, the sign-up to become an organizer of the 11th edition is in the link in bio."
+    "Your venue does not compete against the whole world. It competes inside one of 5 regions, and the semifinal is not country against country: each region runs its own ceremony to announce the qualifiers.",
+    "Tell us in the comments which region you are in. And if your city is not on that map yet, the sign-up to organize the 11th edition is in the link in bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
@@ -891,8 +891,8 @@ window.LEGENDAS = {
 "gj-e01-pt": {
   "titulo": "E01 · As 5 regiões da GJ+",
   "p": [
-    "A sua sede não disputa contra o mundo inteiro, ela disputa dentro de uma das 5 regiões: Brasil, Latam, que é onde o México entra e não na América do Norte, Europa mais América Anglo-Saxônica, que são Estados Unidos e Canadá, Ásia mais Oceania, e África, onde o Oriente Médio cai conforme o país. A semifinal não é país contra país: cada região faz a própria cerimônia pra anunciar os classificados, algumas presenciais e outras ao vivo no YouTube. Pelo menos 60 jogos seguem pra Aceleração, e a organização tenta manter pelo menos um jogo por país e um por estado brasileiro.",
-    "Comenta aqui de qual região você é, que a gente quer ver de onde essa edição está saindo. E se a sua cidade ainda não está nesse mapa, a inscrição pra organizar a 11ª edição está no link da bio."
+    "A sua sede não disputa contra o mundo inteiro. Ela disputa dentro de uma das 5 regiões, e a semifinal não é país contra país: cada região faz a própria cerimônia pra anunciar os classificados.",
+    "Comenta aqui de qual região você é. E se a sua cidade ainda não está nesse mapa, a inscrição pra organizar a 11ª edição está no link da bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 }
