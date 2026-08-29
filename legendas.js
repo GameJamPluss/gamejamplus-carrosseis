@@ -252,8 +252,8 @@ window.LEGENDAS = {
 "gj-o10": {
   "titulo": "O10 · Confirmed venues, week 4",
   "p": [
-    "Fourth week of the 11th edition venue list. A venue does not need a physical space to exist: it can run entirely on a Discord server, and an online venue lets you recruit volunteers and mentors from other cities and countries. It can also run on its own date inside the official window, which is what venues did in the 10th edition when the global weekend clashed with the university calendar. The target is 90 venues. Swipe to see this week's list.",
-    "Tag the venue you want to see in your city below. Become an organizer through the link in bio."
+    "Week four of the venue list, and it keeps growing every week. Praia in Cabo Verde and Cagliari in Italy sit on the same list as Rio Branco, Goiânia, Recife and São Paulo, and Ribeirão Preto, Campina Grande, Vila Velha, Itajubá, Fortaleza and Barra do Garças came in over the last few weeks. A venue does not need a physical space to exist: it can run entirely on a Discord server, which is how an organizer brings in volunteers and mentors from other cities. Swipe to see who confirmed.",
+    "Tell us in the comments which city should be next on this list. Become an organizer through the link in bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
