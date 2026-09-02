@@ -900,7 +900,7 @@ window.LEGENDAS = {
 "gj-o17": {
   "titulo": "O17 · Refer a venue",
   "p": [
-    "You do not have to open a venue to climb the Fellows ranking. Referring someone who organizes scores on the same table, and the people worth nominating are already around you: the neighbouring town that always sends jammers, the teacher who brought the whole class. Venue sign-ups close on September 15.",
+    "You do not have to open a venue to climb the Fellows ranking. Referring someone who organizes scores on the same table, and the people worth nominating are already around you, like the neighbouring town that always sends jammers or the teacher who brought the whole class. Venue sign-ups close on September 15.",
     "Tag the person you would nominate to open your city's venue. If they say yes the points are yours, and becoming an organizer yourself is in the link in bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
@@ -909,7 +909,7 @@ window.LEGENDAS = {
 "gj-o17-pt": {
   "titulo": "O17 · Indique uma sede",
   "p": [
-    "Você não precisa abrir uma sede pra subir no ranking dos Fellows. Indicar quem organiza pontua na mesma tabela, e quem vale indicar já está perto de você: a cidade vizinha que sempre manda gente, o professor que levou a turma inteira. A captação de sedes fecha em 15 de setembro.",
+    "Você não precisa abrir uma sede pra subir no ranking dos Fellows. Indicar quem organiza pontua na mesma tabela, e quem vale indicar já está perto de você, como a cidade vizinha que sempre manda gente ou o professor que levou a turma inteira. A captação de sedes fecha em 15 de setembro.",
     "Marca aqui quem você indicaria pra abrir a sede da sua cidade. Se essa pessoa topar o ponto é seu, e a inscrição pra organizar a 11ª edição está no link da bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
@@ -936,7 +936,7 @@ window.LEGENDAS = {
 "gj-o18": {
   "titulo": "O18 · How teams come together at your venue",
   "p": [
-    "Not everyone shows up with a team, and sorting that out is the venue's job. A 1-minute pitch, a talent board, 5-minute speed dating across disciplines: any of them work, and online it comes down to three Discord channels. What the manual underlines is that a small aligned team beats a big group with no direction.",
+    "Not everyone shows up with a team, and sorting that out is the venue's job. A 1-minute pitch, a talent board or 5-minute speed dating across disciplines all work, and online it comes down to three Discord channels. What the manual underlines is that a small aligned team beats a big group with no direction.",
     "Tell us in the comments how you met your team. And if you are the one who would run these formats in your city, becoming an organizer is in the link in bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
@@ -945,7 +945,7 @@ window.LEGENDAS = {
 "gj-o18-pt": {
   "titulo": "O18 · Como se forma um time na sua sede",
   "p": [
-    "Nem todo mundo chega com time formado, e resolver isso é tarefa da sede. Pitch de 1 minuto, painel de talentos, speed dating de 5 minutos entre áreas: qualquer uma funciona, e no online são três canais no Discord. O que o manual grifa é que time pequeno e alinhado rende mais que grupo grande sem direção.",
+    "Nem todo mundo chega com time formado, e resolver isso é tarefa da sede. Pitch de 1 minuto, painel de talentos ou speed dating de 5 minutos entre áreas, qualquer uma dessas funciona, e no online são três canais no Discord. O que o manual grifa é que time pequeno e alinhado rende mais que grupo grande sem direção.",
     "Comenta aqui como você conheceu o seu time. E se você é quem ia rodar essas dinâmicas na sua cidade, a inscrição pra organizar a 11ª edição está no link da bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
@@ -954,7 +954,7 @@ window.LEGENDAS = {
 "gj-e02": {
   "titulo": "E02 · 19 categories",
   "p": [
-    "Last edition ran 19 categories, and four of them need no sign-up: art, audio, game design and narrative judge every game by default. Two more depend on a single click when you submit, telling the platform which build type you are sending. Skip that and your game is out of the running.",
+    "Last edition ran 19 categories, and four of them need no sign-up. Art, audio, game design and narrative judge every game by default. Two more depend on a single click when you submit, telling the platform which build type you are sending. Skip that and your game is out of the running.",
     "Drop the category you would go for with the game already in your head. The 11th edition opens in September, and the sign-up is in the link in bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
@@ -963,7 +963,7 @@ window.LEGENDAS = {
 "gj-e02-pt": {
   "titulo": "E02 · 19 categorias",
   "p": [
-    "Na edição passada foram 19 categorias, e em quatro delas você entra sem se inscrever: arte, áudio, game design e narrativa avaliam todo jogo por padrão. Outras duas dependem de um clique na hora da submissão, marcando na plataforma que tipo de build você está enviando. Sem isso o jogo não concorre.",
+    "Na edição passada foram 19 categorias, e em quatro delas você entra sem se inscrever. Arte, áudio, game design e narrativa avaliam todo jogo por padrão. Outras duas dependem de um clique na hora da submissão, marcando na plataforma que tipo de build você está enviando. Sem isso o jogo não concorre.",
     "Comenta aqui a categoria que você disputaria com o jogo que tem na cabeça agora. A 11ª edição abre em setembro, e a inscrição está no link da bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
@@ -990,7 +990,7 @@ window.LEGENDAS = {
 "gj-e03": {
   "titulo": "E03 · How the themes work",
   "p": [
-    "Every game has to pick at least one theme, and the reason is less obvious than it looks: the theme is the proof that nobody started before the weekend. It only appears at the opening, which puts everyone on the same starting line. And nobody reveals it early, not even the venue.",
+    "Every game has to pick at least one theme, and the reason is less obvious than it looks. The theme is the proof that nobody started before the weekend. It only appears at the opening, which puts everyone on the same starting line. And nobody reveals it early, not even the venue.",
     "Tell us which theme would fit the game already in your head. The 11th edition themes only drop at the opening in October, and the sign-up is in the link in bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
@@ -999,7 +999,7 @@ window.LEGENDAS = {
 "gj-e03-pt": {
   "titulo": "E03 · Como funcionam os temas",
   "p": [
-    "Todo jogo precisa escolher pelo menos um tema, e o motivo é menos óbvio do que parece: o tema é a prova de que ninguém começou antes do fim de semana. Ele só aparece na abertura, o que coloca todo mundo no mesmo ponto de partida. E ninguém conta antes da hora, nem a sede.",
+    "Todo jogo precisa escolher pelo menos um tema, e o motivo é menos óbvio do que parece. O tema é a prova de que ninguém começou antes do fim de semana. Ele só aparece na abertura, o que coloca todo mundo no mesmo ponto de partida. E ninguém conta antes da hora, nem a sede.",
     "Comenta aqui o tema que combinaria com o jogo que você já tem na cabeça. Os da 11ª edição só saem na abertura, em outubro, e a inscrição está no link da bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
@@ -1008,7 +1008,7 @@ window.LEGENDAS = {
 "gj-o21": {
   "titulo": "O21 · The platform does half the work",
   "p": [
-    "You will not be running a venue on a spreadsheet. The venue page, the jammer and team list, your local staff and the submissions all come ready-made, and you can import jammers by CSV. If your venue charges a fee, keep it closed and add people as they pay: payments are not integrated yet.",
+    "You will not be running a venue on a spreadsheet. The venue page, the jammer and team list, your local staff and the submissions all come ready-made, and you can import jammers by CSV. If your venue charges a fee, keep it closed and add people as they pay, because payments are not integrated yet.",
     "Tell us in the comments what you thought you would have to do by hand. Venue sign-ups close on September 15, in the link in bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
@@ -1017,7 +1017,7 @@ window.LEGENDAS = {
 "gj-o21-pt": {
   "titulo": "O21 · A plataforma faz metade do trabalho",
   "p": [
-    "Você não vai controlar sede em planilha. A página da sede, a lista de jammers e times, a sua equipe local e as submissões já vêm prontas, e dá pra importar jammer em CSV. Se a sua sede cobra inscrição, mantenha ela fechada e vá adicionando conforme as pessoas pagam: pagamento ainda não é integrado.",
+    "Você não vai controlar sede em planilha. A página da sede, a lista de jammers e times, a sua equipe local e as submissões já vêm prontas, e dá pra importar jammer em CSV. Se a sua sede cobra inscrição, mantenha ela fechada e vá adicionando conforme as pessoas pagam, porque pagamento ainda não é integrado.",
     "Comenta aqui o que você achava que ia ter que fazer na mão. A inscrição de sede fecha em 15 de setembro, no link da bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
@@ -1044,7 +1044,7 @@ window.LEGENDAS = {
 "gj-o22": {
   "titulo": "O22 · Where to ask for help",
   "p": [
-    "When something breaks at your venue, four channels answer, each for a different thing: the organizers' WhatsApp group is the fastest, the GJ+ Discord takes tech questions, the support email is for what needs a record, and the complaint form takes reports without identification. Harassment and abusive conduct are not settled by word of mouth.",
+    "When something breaks at your venue, four channels answer, and each one is for a different thing. The organizers' WhatsApp group is the fastest, the GJ+ Discord takes tech questions, the support email is for what needs a record, and the complaint form takes reports without identification. Harassment and abusive conduct are not settled by word of mouth.",
     "Tell us in the comments what scares you most about opening a venue. Whatever it is, it already happened to someone in that group, and becoming an organizer is in the link in bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
@@ -1053,7 +1053,7 @@ window.LEGENDAS = {
 "gj-o22-pt": {
   "titulo": "O22 · Onde pedir socorro",
   "p": [
-    "Quando der problema na sua sede, quatro canais atendem, e cada um serve pra uma coisa: o grupo de WhatsApp dos organizadores é o mais rápido, o Discord da GJ+ pega dúvida técnica, o e-mail de suporte é pro que precisa ficar registrado, e o formulário de reclamação aceita denúncia sem identificação. Assédio e conduta abusiva não se resolvem no boca a boca.",
+    "Quando der problema na sua sede, quatro canais atendem, e cada um serve pra uma coisa. O grupo de WhatsApp dos organizadores é o mais rápido, o Discord da GJ+ pega dúvida técnica, o e-mail de suporte é pro que precisa ficar registrado, e o formulário de reclamação aceita denúncia sem identificação. Assédio e conduta abusiva não se resolvem no boca a boca.",
     "Comenta aqui o que mais te dá medo na hora de abrir uma sede. Seja o que for, já aconteceu com alguém naquele grupo, e a inscrição pra organizar a 11ª edição está no link da bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
