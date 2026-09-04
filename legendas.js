@@ -1005,6 +1005,24 @@ window.LEGENDAS = {
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
 
+"gj-e04": {
+  "titulo": "E04 · GJ+ now speaks 3 languages",
+  "p": [
+    "GameJamPlus now speaks three languages. @gamejamplus stays the home of the Portuguese content, @gamejamplus_en is for everyone who follows the jam outside Brazil and Latin America, and @gamejamplus_es speaks to all of Latin America. Same dates, same process and the same 11th edition in all three.",
+    "Tell us in the comments which language you play in. If you follow GJ+ from outside Brazil, the account in your language is already live, and the 11th edition sign-up is in the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-e04-pt": {
+  "titulo": "E04 · A GJ+ agora fala 3 idiomas",
+  "p": [
+    "A GameJamPlus agora fala três idiomas. O @gamejamplus continua sendo a casa do conteúdo em português, o @gamejamplus_en é pra quem acompanha a jam fora do Brasil e da América Latina, e o @gamejamplus_es fala com a Latam inteira. As datas, o processo e a 11ª edição são os mesmos nos três.",
+    "Comenta em que idioma você joga. E se você tem gente do time que faz jogo em inglês ou espanhol, o perfil dela já está no ar, e a inscrição da 11ª edição está no link da bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
 "gj-o21": {
   "titulo": "O21 · The platform does half the work",
   "p": [
