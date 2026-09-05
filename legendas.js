@@ -1008,8 +1008,8 @@ window.LEGENDAS = {
 "gj-e04": {
   "titulo": "E04 · GJ+ now speaks 3 languages",
   "p": [
-    "GameJamPlus now speaks three languages. @gamejamplus stays the home of the Portuguese content, @gamejamplus_en is for everyone who follows the jam outside Brazil and Latin America, and @gamejamplus_es speaks to all of Latin America. Same dates, same process and the same 11th edition in all three.",
-    "Tell us in the comments which language you play in. If you follow GJ+ from outside Brazil, the account in your language is already live, and the 11th edition sign-up is in the link in bio."
+    "GameJamPlus now speaks three languages. @gamejamplus carries the Portuguese content for the community in Brazil, where the jam started, and @gamejamplus_es speaks to all of Latin America, from Mexico to Argentina. The dates, the process and the 11th edition are the same in all three profiles.",
+    "Tell us in the comments which language your team plays in. If someone on your team follows along better in Portuguese or Spanish, that profile is already live, and the 11th edition sign-up is in the link in bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
@@ -1017,8 +1017,17 @@ window.LEGENDAS = {
 "gj-e04-pt": {
   "titulo": "E04 · A GJ+ agora fala 3 idiomas",
   "p": [
-    "A GameJamPlus agora fala três idiomas. O @gamejamplus continua sendo a casa do conteúdo em português, o @gamejamplus_en é pra quem acompanha a jam fora do Brasil e da América Latina, e o @gamejamplus_es fala com a Latam inteira. As datas, o processo e a 11ª edição são os mesmos nos três.",
-    "Comenta em que idioma você joga. E se você tem gente do time que faz jogo em inglês ou espanhol, o perfil dela já está no ar, e a inscrição da 11ª edição está no link da bio."
+    "A GameJamPlus agora fala três idiomas. O @gamejamplus_en leva o conteúdo em inglês pra quem acompanha a jam fora do Brasil e da América Latina, e o @gamejamplus_es fala com a Latam inteira, do México à Argentina. Aqui nada muda, e as datas e a 11ª edição são as mesmas nos três perfis.",
+    "Comenta em que idioma seu time joga. E se tem gente no seu time que acompanha melhor em inglês ou espanhol, o perfil já está no ar, com a inscrição da 11ª edição no link da bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-e04-es": {
+  "titulo": "E04 · GJ+ ahora habla 3 idiomas",
+  "p": [
+    "GameJamPlus ahora habla tres idiomas. @gamejamplus lleva el contenido en portugués para la comunidad de Brasil, donde nació la jam, y @gamejamplus_en habla con quien sigue la GJ+ fuera de Brasil y América Latina. Las fechas, el proceso y la 11ª edición son los mismos en los tres perfiles.",
+    "Cuenta en los comentarios en qué idioma juega tu equipo. Y si alguien de tu equipo sigue mejor en portugués o en inglés, ese perfil ya está activo, con la inscripción a la 11ª edición en el link de la bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
