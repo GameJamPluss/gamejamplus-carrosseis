@@ -1084,5 +1084,77 @@ window.LEGENDAS = {
     "Comenta aqui o que mais te dá medo na hora de abrir uma sede. Seja o que for, já aconteceu com alguém naquele grupo, e a inscrição pra organizar a 11ª edição está no link da bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-e01-es": {
+  "titulo": "E01 · Los 5 bloques de la GJ+",
+  "p": [
+    "Tu sede no compite contra el mundo entero. Compite dentro de una de 5 regiones, y la semifinal tampoco es país contra país, porque cada región hace su propia ceremonia para anunciar a quien clasifica.",
+    "Cuenta en los comentarios en qué región estás. Y si tu ciudad todavía no aparece en ese mapa, la inscripción para organizar la 11ª edición está en el link de la bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-j04-es": {
+  "titulo": "J04 · No son 48 horas. Son 7 meses",
+  "p": [
+    "Toda game jam termina el domingo. La nuestra empieza ahí. Las 48 horas son apenas la primera de 5 etapas. Después viene la incubación, un track enfocado en mejorar la build del juego, las semifinales, donde cada país hace su propia ceremonia para presentar a quien clasifica, la aceleración, un track enfocado en el pitch, con monetización y distribución, y la Final Mundial en vivo, con inversores y publishers en la platea. Son 7 meses convirtiendo un prototipo en un negocio. Desliza para verlo etapa por etapa.",
+    "Cuenta en los comentarios qué etapa te parece la más difícil para tu equipo. Inscríbete en la 11ª edición por el link de la bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieGames #GameDesign #GameDevelopment"
+},
+
+"gj-o14-es": {
+  "titulo": "O14 · Tu ciudad todavía no tiene sede",
+  "p": [
+    "66 sedes hicieron la edición pasada y la meta de la 11ª es 90, o sea 24 ciudades que todavía no existen en el mapa. Una de ellas puede ser la tuya. Quien suele abrir una sede es un grupo de estudiantes o liga académica, alguien que da clases en un curso de juegos, un colectivo local de desarrollo, un coworking o un centro cultural. Lo que hace falta son las ganas de juntar a la gente de tu ciudad, un espacio o un servidor de Discord, un fin de semana y dos o tres personas que ayuden. El resto lo pone la GJ+. Desliza para ver qué significa eso.",
+    "Escribe el nombre de tu ciudad en los comentarios. Queremos ver cuántas faltan todavía en el mapa. Organiza tu sede por el link de la bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-j15-es": {
+  "titulo": "J15 · Cómo participar, paso a paso",
+  "p": [
+    "De cero a inscripción lista en cinco pasos. Crea tu cuenta en la plataforma oficial, elige tu sede entre presencial, híbrida y online, arma un equipo o entra en uno, elige las categorías en las que quieres competir, y después desarrolla, sube la build y graba el pitch. Dos detalles que ahorran tiempo. El login no tiene contraseña, llega un link de acceso por correo, así que vale la pena dejarlo guardado en favoritos. La build va en itch.io y el pitch en YouTube, no listado sirve, y solo una persona del equipo hace el envío. Desliza para verlo paso a paso.",
+    "Cuenta en los comentarios en qué paso te trabaste y respondemos. Inscríbete en la 11ª edición por el link de la bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieGames #IndieDev #GameDevelopment"
+},
+
+"gj-j01-es": {
+  "titulo": "J01 · Nadie queda eliminado en la primera etapa",
+  "p": [
+    "Nadie queda eliminado en la primera etapa de la GameJamPlus. Ni una persona. La primera etapa no es competitiva a nivel global, existe para poner tu juego en el mundo, y pasas a Incubación con tres entregas, una build funcional, un pitch de 3 a 5 minutos y la señal de que quieres continuar. No hay nota de corte ni jurado obligatorio. La edición pasada se entregaron 554 proyectos en 31 países y 68 sedes activas, y todos pasaron. Desliza para verlo etapa por etapa.",
+    "Cuenta en los comentarios qué te frena más, el miedo a no terminar o el miedo a que te corten. Inscríbete en la 11ª edición por el link de la bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieGames #IndieDev #GameDevelopment"
+},
+
+"gj-o04-es": {
+  "titulo": "O04 · El 100% de lo que recauda tu sede es tuyo",
+  "p": [
+    "Si tu sede cobra inscripción o entradas, el dinero es entero de la sede. No hay reparto de ingresos, solo hace falta avisar al equipo global. El patrocinio local funciona igual, negocias directo, sin aprobación global, la revisión es caso por caso y la mayoría pasa sin restricción. El Toolbox incluso trae un deck de patrocinio listo, así puedes poner la marca GJ+ en la propuesta y cerrar apoyo local en tu ciudad. Lo que la organización global no hace es mandar dinero. Desliza para ver el acuerdo completo.",
+    "Cuenta en los comentarios qué te sigue frenando para abrir la sede de tu ciudad. Organiza tu sede por el link de la bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-o06-es": {
+  "titulo": "O06 · No existe sede demasiado pequeña",
+  "p": [
+    "La regla oficial no fija un número mínimo de equipos. Está escrito en la Guía de Organización Local, cada sede cuenta, sin importar el tamaño. Una sede con dos equipos es una sede, aparece en el mapa global, entra en la comunicación oficial y puntúa en el Programa Fellows como cualquier otra. También puede haber más de una sede en la misma ciudad, basta con un término que las distinga en el nombre, porque la GJ+ no trabaja con exclusividad territorial. Toda escena local empezó con un puñado de gente. Desliza para ver por qué el tamaño no es el punto.",
+    "Cuenta en los comentarios cuánta gente hace juegos en tu ciudad. Apostamos a que es más de lo que crees. Organiza tu sede por el link de la bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-o15-es": {
+  "titulo": "O15 · Checklist para montar tu sede",
+  "p": [
+    "El checklist sale directo de la Guía de Organización Local. En instalaciones, mesas, sillas, enchufes y baños, internet estable por cable y Wi-Fi, un área de descanso aunque sea un rincón, ventilación y algo de agua y snacks. En el equipo local, alguien en recepción, alguien para emergencias, alguien para dudas técnicas y alguien grabando foto y video. En materiales, credenciales, una pizarra, la contraseña del Wi-Fi a la vista y códigos QR del Discord y de la plataforma. El ítem que todo el mundo olvida es documentar el evento. Desliza para ver el checklist completo.",
+    "Cuenta en los comentarios el ítem que le falta a esta lista. Quien ya organizó una lo sabe. Organiza tu sede por el link de la bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 }
 };
