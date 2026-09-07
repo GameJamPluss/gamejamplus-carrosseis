@@ -56,10 +56,13 @@ for (const m of html.matchAll(reArt)) {
   while (usados.has(slug)) slug += '-b';
   usados.add(slug);
 
+  /* mesma regra do index: chave com idioma quando existe, senao a base (EN) */
   const base = mm ? cfg.chave(mm[1]) : null;
-  const leg = base ? (LEG[`${base}-${lg}`] || (lg === 'en' ? LEG[base] : null)) : null;
+  const comIdioma = base && LEG[`${base}-${lg}`];
+  const leg = comIdioma || (base ? LEG[base] : null) || null;
+  const legLang = comIdioma ? lang.toUpperCase() : 'EN';
 
-  posts.push({ slug, id, cat, rotulo: cfg.rotulo, lang, titulo, imgs, leg });
+  posts.push({ slug, id, cat, rotulo: cfg.rotulo, lang, titulo, imgs, leg, legLang });
 }
 
 /* ---------------------------------------------------------------- página */
@@ -114,7 +117,7 @@ function pagina(p) {
 
   const blocoLeg = p.leg ? `
   <section class="leg">
-    <h2>Legenda do Instagram · ${p.lang}</h2>
+    <h2>Legenda do Instagram · ${p.legLang}</h2>
     ${p.leg.p.map(t => `<p>${esc(t)}</p>`).join('\n    ')}
     <div class="tags">${esc(p.leg.tags)}</div>
     <div class="acoes"><button type="button" id="copiaLeg">Copiar legenda</button></div>
