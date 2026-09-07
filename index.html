@@ -40,6 +40,10 @@ main{max-width:1500px;margin:0 auto;padding:8px 28px 100px}
 .nav button{width:36px;height:36px;border-radius:50%;border:1px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer;font-size:15px;line-height:1}
 .nav button:hover{border-color:var(--o)}
 .cont{font-size:12px;color:var(--ink3);font-weight:700;margin-left:4px}
+.linkbtn{border:1px solid var(--line);background:var(--card);color:var(--ink2);border-radius:999px;
+ padding:7px 13px;font:inherit;font-size:12px;font-weight:800;letter-spacing:.04em;cursor:pointer;transition:.14s;white-space:nowrap}
+.linkbtn:hover{color:var(--ink);border-color:var(--o)}
+.linkbtn.ok{color:#5BD08A;border-color:#5BD08A}
 .strip{display:flex;gap:14px;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:10px;scrollbar-width:thin}
 .strip figure{flex:0 0 auto;scroll-snap-align:start;position:relative}
 .strip img{display:block;width:248px;height:auto;border-radius:9px;border:1px solid var(--line);background:#181228;cursor:zoom-in}
@@ -951,6 +955,7 @@ dialog img{width:min(92vw,620px);max-height:92dvh;object-fit:contain;border-radi
 <p class="vazio" id="vazio" hidden>Nenhum carrossel com esse filtro.</p></main>
 <dialog id="lb"><img id="lbimg" alt=""><div class="dnav"><button id="prev" aria-label="Anterior">←</button><button id="next" aria-label="Próximo">→</button></div><p class="dcap" id="lbcap"></p></dialog>
 <script src="legendas.js?v=4"></script>
+<script src="links.js?v=1"></script>
 <script>
 const cs=[...document.querySelectorAll('.c')],vis=document.getElementById('vis'),vazio=document.getElementById('vazio');
 const F={cat:'',lang:'',q:''};
@@ -979,6 +984,25 @@ lb.addEventListener('click',e=>{if(e.target===lb||e.target===lbimg)lb.close();})
 document.addEventListener('keydown',e=>{if(!lb.open)return;
  if(e.key==='ArrowRight')passo(1);if(e.key==='ArrowLeft')passo(-1);});
 aplica();
+
+/* link proprio de cada post: p/<slug>/ (gerado por gerar-paginas.mjs).
+   O botao fica no .nav do artigo e copia a URL, pra mandar so aquele carrossel. */
+(function(){
+ const M=window.LINKS||{};
+ const url=slug=>new URL('p/'+slug+'/',location.href.replace(/index\.html?$/,'')).href;
+ document.querySelectorAll('article.c').forEach(c=>{
+  const slug=M[c.id]; if(!slug) return;
+  const b=document.createElement('button');
+  b.type='button'; b.className='linkbtn'; b.textContent='Link'; b.title='Copiar o link so deste post';
+  b.addEventListener('click',async()=>{
+   const t=url(slug);
+   try{await navigator.clipboard.writeText(t);}
+   catch(_){const ta=document.createElement('textarea');ta.value=t;document.body.append(ta);ta.select();document.execCommand('copy');ta.remove();}
+   b.textContent='Copiado'; b.classList.add('ok');
+   setTimeout(()=>{b.textContent='Link';b.classList.remove('ok');},1600);});
+  const nav=c.querySelector('.nav'); if(nav) nav.append(b); else c.querySelector('header').append(b);
+ });
+})();
 
 /* legendas prontas de Instagram: botao ao lado do titulo do post, que expande
    um painel com o texto e um botao de minimizar.
