@@ -1053,7 +1053,7 @@ window.LEGENDAS = {
 "gj-c02": {
   "titulo": "C02 · Wildlife and CrazyGames",
   "p": [
-    "Two companies looked at GJ+ games last edition, and both could publish yours. Wildlife wants mobile free-to-play, hybrid casual or midcore, and pays US$ 1,000 plus up to US$ 5,000 in marketing. CrazyGames wants a browser game and pays US$ 500 plus publication on the portal. In both, the IP stays yours.",
+    "Two companies looked at GJ+ games last edition, and both could have published yours. Wildlife wanted mobile free-to-play, hybrid casual or midcore, and paid US$ 1,000 plus up to US$ 5,000 in marketing. CrazyGames wanted a browser game and paid US$ 500 plus publication on the portal. In both, the IP stayed yours.",
     "Drop which of the two your game would go for. The 11th edition opens in September, and the sign-up is in the link in bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
@@ -1062,7 +1062,7 @@ window.LEGENDAS = {
 "gj-c02-pt": {
   "titulo": "C02 · Wildlife e CrazyGames",
   "p": [
-    "Duas empresas olharam os jogos da GJ+ na edição passada, e as duas podiam publicar o seu. A Wildlife quer mobile free-to-play, hybrid casual ou midcore, e paga US$ 1.000 mais até US$ 5.000 em marketing. A CrazyGames quer jogo de navegador e paga US$ 500 mais publicação no portal. Nas duas, a propriedade intelectual continua sua.",
+    "Duas empresas olharam os jogos da GJ+ na edição passada, e as duas podiam publicar o seu. A Wildlife queria mobile free-to-play, hybrid casual ou midcore, e pagava US$ 1.000 mais até US$ 5.000 em marketing. A CrazyGames queria jogo de navegador e pagava US$ 500 mais publicação no portal. Nas duas, a propriedade intelectual continuava sua.",
     "Comenta aqui pra qual das duas o seu jogo iria. A 11ª edição abre em setembro, e a inscrição está no link da bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
