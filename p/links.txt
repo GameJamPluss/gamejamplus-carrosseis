@@ -124,6 +124,15 @@ https://gamejamplus-carrosseis.vercel.app/p/o22-pt/
 GJ+ PT · E04 - A GJ+ agora fala 3 idiomas
 https://gamejamplus-carrosseis.vercel.app/p/e04-pt/
 
+GJ+ PT · E12 - O movimento em números
+https://gamejamplus-carrosseis.vercel.app/p/e12-pt/
+
+GJ+ PT · E13 - O que a jam transforma no jogo
+https://gamejamplus-carrosseis.vercel.app/p/e13-pt/
+
+GJ+ PT · C03 - Jogos famosos que nasceram numa game jam
+https://gamejamplus-carrosseis.vercel.app/p/c03-pt/
+
 GJ+ EN · J01 - Nobody is eliminated in the first stage
 https://gamejamplus-carrosseis.vercel.app/p/j01-en/
 
@@ -250,6 +259,15 @@ https://gamejamplus-carrosseis.vercel.app/p/o22-en/
 GJ+ EN · E04 - GJ+ now speaks 3 languages
 https://gamejamplus-carrosseis.vercel.app/p/e04-en/
 
+GJ+ EN · E12 - The movement in numbers
+https://gamejamplus-carrosseis.vercel.app/p/e12-en/
+
+GJ+ EN · E13 - What the jam changes in the game
+https://gamejamplus-carrosseis.vercel.app/p/e13-en/
+
+GJ+ EN · C03 - Famous games born in a game jam
+https://gamejamplus-carrosseis.vercel.app/p/c03-en/
+
 GJ+ ES · E04 - GJ+ ahora habla 3 idiomas
 https://gamejamplus-carrosseis.vercel.app/p/e04-es/
 
@@ -276,6 +294,15 @@ https://gamejamplus-carrosseis.vercel.app/p/o06-es/
 
 GJ+ ES · O15 - Checklist para montar tu sede
 https://gamejamplus-carrosseis.vercel.app/p/o15-es/
+
+GJ+ ES · E12 - El movimiento en números
+https://gamejamplus-carrosseis.vercel.app/p/e12-es/
+
+GJ+ ES · E13 - Lo que la jam cambia en el juego
+https://gamejamplus-carrosseis.vercel.app/p/e13-es/
+
+GJ+ ES · C03 - Juegos famosos que nacieron en una game jam
+https://gamejamplus-carrosseis.vercel.app/p/c03-es/
 
 Jogos GJ+ PT · 01 - Os cinco padrões - O que 28 lançamentos ensinam juntos
 https://gamejamplus-carrosseis.vercel.app/p/jogos-01-pt/

@@ -1156,5 +1156,86 @@ window.LEGENDAS = {
     "Cuenta en los comentarios el ítem que le falta a esta lista. Quien ya organizó una lo sabe. Organiza tu sede por el link de la bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-e12": {
+  "titulo": "E12 · The movement in numbers",
+  "p": [
+    "GameJamPlus is running in 64 venues across 24 countries this 11th edition, from Brazil to Zambia, with Sweden and Bangladesh in between. Every one of those venues was opened by someone local, and nobody was hired to do it. Last edition the same structure delivered 554 games across 31 countries, and adding up every edition the ecosystem has produced more than 2,500 games.",
+    "Drop the country you follow GJ+ from, I want to watch that map grow in the comments. The 11th edition sign-up is in the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-e12-pt": {
+  "titulo": "E12 · O movimento em números",
+  "p": [
+    "A GameJamPlus está em 64 sedes espalhadas por 24 países nesta 11ª edição, do Brasil à Zâmbia, passando por Suécia e Bangladesh. Cada uma dessas sedes foi aberta por alguém da própria cidade, e ninguém foi contratado pra isso. Na edição passada essa mesma estrutura entregou 554 jogos em 31 países, e somando todas as edições o ecossistema já passou de 2.500 jogos.",
+    "Comenta de que país você acompanha a GJ+, quero ver esse mapa crescer nos comentários. A inscrição da 11ª edição está no link da bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-e12-es": {
+  "titulo": "E12 · El movimiento en números",
+  "p": [
+    "GameJamPlus está en 64 sedes repartidas por 24 países en esta 11ª edición, de Brasil a Zambia, pasando por Suecia y Bangladés. Cada una de esas sedes fue abierta por alguien de la propia ciudad, y nadie fue contratado para eso. La edición pasada esa misma estructura entregó 554 juegos en 31 países, y sumando todas las ediciones el ecosistema ya pasó de 2.500 juegos.",
+    "Cuenta desde qué país sigues la GJ+, quiero ver ese mapa crecer en los comentarios. La inscripción de la 11ª edición está en el link de la bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-e13": {
+  "titulo": "E13 · What the jam changes in the game",
+  "p": [
+    "The 48 hours are the first of five stages. After the jam the game goes into Incubation, where the track covers polish, game design, balancing and narrative, and the target is the build. Then each country announces its qualifiers in its own ceremony, and Acceleration moves the target to the pitch, with negotiation, monetisation, funding and distribution. In both reviews the score is half build and half pitch.",
+    "Drop which stage your game would stall at. The 11th edition sign-up is in the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-e13-pt": {
+  "titulo": "E13 · O que a jam transforma no jogo",
+  "p": [
+    "As 48 horas são a primeira de cinco etapas. Depois da jam o jogo entra na Incubação, com trilha de polimento, game design, balanceamento e narrativa, e ali o alvo é a build. Em seguida cada país anuncia os classificados na própria cerimônia, e a Aceleração muda o alvo pro pitch, com negociação, monetização, financiamento e distribuição. Nas duas avaliações a nota é metade build e metade pitch.",
+    "Comenta em que etapa o seu jogo travaria. A inscrição da 11ª edição está no link da bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-e13-es": {
+  "titulo": "E13 · Lo que la jam cambia en el juego",
+  "p": [
+    "Las 48 horas son la primera de cinco etapas. Después de la jam el juego entra en Incubación, con una ruta de pulido, game design, balanceo y narrativa, y ahí el foco es la build. Luego cada país anuncia a quien clasifica en su propia ceremonia, y la Aceleración mueve el foco al pitch, con negociación, monetización, financiamiento y distribución. En las dos evaluaciones la nota es mitad build y mitad pitch.",
+    "Cuenta en qué etapa se trabaría tu juego. La inscripción de la 11ª edición está en el link de la bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-c03": {
+  "titulo": "C03 · Famous games born in a game jam",
+  "p": [
+    "Surgeon Simulator came out of a 48 hour Global Game Jam in 2013, and the clumsy controls were a time constraint that turned into the joke of the game. Superhot started as a browser prototype at 7DFPS that same year. Keep Talking and Nobody Explodes, Celeste and Baba Is You all began the same way, in a weekend or less, and three of them went on to win the biggest awards in independent games.",
+    "Drop which of the five you have played. Hellbrella came out of GJ+ 24/25 by the same route, and the 11th edition sign-up is in the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-c03-pt": {
+  "titulo": "C03 · Jogos famosos que nasceram numa game jam",
+  "p": [
+    "O Surgeon Simulator saiu de uma Global Game Jam de 48 horas em 2013, e o controle desengonçado era limitação de tempo que virou a piada do jogo. O Superhot começou como protótipo de navegador na 7DFPS no mesmo ano. Keep Talking and Nobody Explodes, Celeste e Baba Is You nasceram do mesmo jeito, num fim de semana ou menos, e três deles ganharam os maiores prêmios do mercado independente.",
+    "Comenta qual desses cinco você jogou. A Hellbrella saiu da GJ+ 24/25 pelo mesmo caminho, e a inscrição da 11ª edição está no link da bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-c03-es": {
+  "titulo": "C03 · Juegos famosos que nacieron en una game jam",
+  "p": [
+    "Surgeon Simulator salió de una Global Game Jam de 48 horas en 2013, y el control torpe era una limitación de tiempo que se volvió el chiste del juego. Superhot empezó como prototipo de navegador en la 7DFPS ese mismo año. Keep Talking and Nobody Explodes, Celeste y Baba Is You nacieron igual, en un fin de semana o menos, y tres de ellos ganaron los premios más grandes del mercado independiente.",
+    "Cuenta cuál de los cinco jugaste. Hellbrella salió de la GJ+ 24/25 por el mismo camino, y la inscripción de la 11ª edición está en el link de la bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 }
 };
