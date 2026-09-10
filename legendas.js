@@ -1237,5 +1237,140 @@ window.LEGENDAS = {
     "Cuenta cuál de los cinco jugaste. Hellbrella salió de la GJ+ 24/25 por el mismo camino, y la inscripción de la 11ª edición está en el link de la bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-o25": {
+  "titulo": "O25 · What your venue gets ready made",
+  "p": [
+    "Hosting a GJ+ venue does not mean building an event from scratch. Eight things arrive already made. The official platform handles sign-up and game submission, the toolbox brings manuals, editable artwork and a commercial deck template for sponsors, the marketing kit comes translated into your language, and the global keynote reveals themes and categories to every venue at the same moment. Jury criteria, an organizer community, the brand with the IGDA seal and direct support round out the list.",
+    "Drop which of those eight you assumed you would have to sort out alone. Become an organizer through the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-o25-pt": {
+  "titulo": "O25 · O que a sua sede recebe pronta",
+  "p": [
+    "Abrir uma sede da GJ+ não é montar um evento do zero. Oito coisas chegam prontas. A plataforma oficial cuida de inscrição e submissão de jogo, o toolbox traz manual, arte editável e até modelo de proposta comercial pra fechar patrocínio, o kit de marketing vem traduzido pro seu idioma, e a keynote global revela temas e categorias pra todas as sedes ao mesmo tempo. Critério de júri, comunidade de organizadores, a marca com selo da IGDA e suporte direto fecham a lista.",
+    "Comenta qual desses oito você acharia que teria de resolver sozinho. Abra a sua sede pelo link da bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-o25-es": {
+  "titulo": "O25 · Lo que tu sede recibe ya listo",
+  "p": [
+    "Abrir una sede de la GJ+ no es armar un evento de cero. Ocho cosas llegan listas. La plataforma oficial se encarga de inscripción y entrega de juego, el toolbox trae manual, arte editable y hasta modelo de propuesta comercial para cerrar patrocinio, el kit de marketing viene traducido a tu idioma, y la keynote global revela temas y categorías a todas las sedes al mismo tiempo. Criterios de jurado, comunidad de organizadores, la marca con sello de la IGDA y soporte directo cierran la lista.",
+    "Cuenta cuál de esas ocho pensabas que ibas a tener que resolver solo. Abre tu sede por el link de la bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-c04": {
+  "titulo": "C04 · From 80 people in a room to 50 countries",
+  "p": [
+    "In 2017 GameJamPlus was 80 people in a room in Rio de Janeiro. Nine years later it runs in more than 50 countries and over 100 cities, with 17,500+ people who have played the jam and 2,500+ games made inside the ecosystem. Along the way it became the official IGDA game jam worldwide and walked off Shark Tank Brazil with a deal signed by all five investors.",
+    "Drop the city where you would open that door. The 11th edition sign-up is in the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-c04-pt": {
+  "titulo": "C04 · De 80 pessoas numa sala a 50 países",
+  "p": [
+    "Em 2017 a GameJamPlus era 80 pessoas numa sala no Rio de Janeiro. Nove anos depois roda em mais de 50 países e mais de 100 cidades, com 17.500+ pessoas que já jogaram a jam e 2.500+ jogos criados dentro do ecossistema. No caminho virou a game jam oficial da IGDA no mundo e saiu do Shark Tank Brasil com acordo fechado com todos os cinco investidores.",
+    "Comenta em que cidade você abriria essa porta. A inscrição da 11ª edição está no link da bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-c04-es": {
+  "titulo": "C04 · De 80 personas a 50 países",
+  "p": [
+    "En 2017 GameJamPlus eran 80 personas en una sala de Río de Janeiro. Nueve años después corre en más de 50 países y más de 100 ciudades, con 17.500+ personas que ya jugaron la jam y 2.500+ juegos creados dentro del ecosistema. En el camino se volvió la game jam oficial de la IGDA en el mundo y salió de Shark Tank Brasil con acuerdo cerrado con los cinco inversores.",
+    "Cuenta en qué ciudad abrirías esa puerta. La inscripción de la 11ª edición está en el link de la bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-o28": {
+  "titulo": "O28 · If you have a community, you have a venue",
+  "p": [
+    "A GJ+ venue does not require an events company. Universities and technical schools send students home with portfolio work, pitch practice and a certificate. Coworkings and innovation spaces fill up for a weekend and get local press. Studios recruit by watching people actually work for 48 hours. NGOs, collectives and communities do not even need a physical space, since a fully online venue runs on a Discord server.",
+    "Drop which of those four is your case, and if none of them is, describe yours and we answer. Become an organizer through the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-o28-pt": {
+  "titulo": "O28 · Se você tem uma comunidade, você tem uma sede",
+  "p": [
+    "Sede da GJ+ não exige produtora de evento. Universidade e escola técnica mandam a galera pra casa com portfólio, treino de pitch e certificado. Coworking e espaço de inovação enchem por um fim de semana e ainda atraem imprensa local. Estúdio recruta assistindo a pessoa trabalhar por 48 horas. ONG, coletivo e comunidade nem precisam de espaço físico, porque sede 100% online roda num servidor de Discord.",
+    "Comenta qual desses quatro é o seu caso, e se nenhum for, descreve o seu que a gente responde. Abra a sua sede pelo link da bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-o28-es": {
+  "titulo": "O28 · Si tienes una comunidad, tienes una sede",
+  "p": [
+    "Una sede de la GJ+ no exige productora de eventos. Universidades y escuelas técnicas mandan a la gente a casa con portafolio, práctica de pitch y certificado. Coworkings y espacios de innovación se llenan por un fin de semana y atraen prensa local. Los estudios reclutan viendo a la gente trabajar durante 48 horas. ONG, colectivo y comunidad ni siquiera necesitan espacio físico, porque una sede 100% online corre en un servidor de Discord.",
+    "Cuenta cuál de esos cuatro es tu caso, y si no es ninguno, describe el tuyo y te respondemos. Abre tu sede por el link de la bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-e14": {
+  "titulo": "E14 · The dates of the 11th edition",
+  "p": [
+    "October 16, 17 and 18, 2026. The 11th edition of GameJamPlus opens worldwide on the same weekend, at local venues in more than 50 countries. Friday starts with the global keynote revealing themes and categories to everyone at once, and by Sunday each team delivers a build and a pitch. After that the jam keeps going through incubation, semifinals, acceleration and an in-person Global Final.",
+    "Drop the city you will be playing from. Signing up is free and the 11th edition sign-up is in the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-e14-pt": {
+  "titulo": "E14 · As datas da 11ª edição",
+  "p": [
+    "16, 17 e 18 de outubro de 2026. A 11ª edição da GameJamPlus abre no mundo inteiro no mesmo fim de semana, em sede local, em mais de 50 países. Sexta começa com a keynote global revelando temas e categorias pra todo mundo ao mesmo tempo, e no domingo cada time entrega build e pitch. Depois disso a jam segue por incubação, semifinais, aceleração e uma Final Global presencial.",
+    "Comenta de que cidade você vai jogar. A inscrição é gratuita e está no link da bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-e14-es": {
+  "titulo": "E14 · Las fechas de la 11ª edición",
+  "p": [
+    "16, 17 y 18 de octubre de 2026. La 11ª edición de GameJamPlus abre en todo el mundo el mismo fin de semana, en sede local, en más de 50 países. El viernes empieza con la keynote global que revela temas y categorías a todos a la vez, y el domingo cada equipo entrega build y pitch. Después de eso la jam sigue por incubación, semifinales, aceleración y una Final Global presencial.",
+    "Cuenta desde qué ciudad vas a jugar. La inscripción es gratis y está en el link de la bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-o24": {
+  "titulo": "O24 · You can charge, and 100% stays with you",
+  "p": [
+    "Money talk, straight. Your venue can charge sign-up fees and tickets, and every cent stays with your venue. You prospect, negotiate and close local sponsors yourself, with no global approval. In exchange, full transparency, global does not send money and every venue manages its own resources. What still comes at no cost is the platform, the toolbox, a ten year old brand with the IGDA seal and the organizer network.",
+    "Drop the doubt that still holds you back from hosting. Become an organizer through the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-o24-pt": {
+  "titulo": "O24 · Sede paga, e 100% fica com você",
+  "p": [
+    "Conversa de dinheiro, sem rodeio. A sua sede pode cobrar inscrição e ingresso, e cada centavo fica com a sua sede. Você prospecta, negocia e fecha o patrocinador local sozinho, sem aprovação global. Em troca vem a transparência, a global não manda dinheiro e cada sede administra os próprios recursos. O que continua entrando sem custo é a plataforma, o toolbox, uma marca de dez anos com selo da IGDA e a rede de organizadores.",
+    "Comenta a dúvida que ainda te trava pra abrir uma sede. Abra a sua sede pelo link da bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-o24-es": {
+  "titulo": "O24 · Puedes cobrar, y el 100% es tuyo",
+  "p": [
+    "Charla de plata, sin rodeos. Tu sede puede cobrar inscripción y entrada, y cada centavo queda con tu sede. Tú prospectas, negocias y cierras el patrocinio local solo, sin aprobación global. A cambio viene la transparencia, la global no manda dinero y cada sede administra sus propios recursos. Lo que sigue entrando sin costo es la plataforma, el toolbox, una marca de diez años con sello de la IGDA y la red de organizadores.",
+    "Cuenta la duda que todavía te frena para abrir una sede. Abre tu sede por el link de la bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 }
 };
