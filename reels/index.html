@@ -1,0 +1,626 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>GameJamPlus &middot; Calend&aacute;rio dos Reels POV</title>
+<meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+:root{--grad:linear-gradient(100deg,#F7941D 0%,#E05A28 32%,#8B3F9E 68%,#4B6CB7 100%);
+ --o:#F7941D;--bg:#0a0810;--card:#120e1c;--line:#241d33;--ink:#fff;--ink2:#9a92ab;--ink3:#6c6480;
+ --pt:#F7941D;--en:#8fa9e8;--es:#e8b45f}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:Barlow,system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+a{color:inherit}
+.wrap{max-width:1500px;margin:0 auto;padding:0 28px}
+header.top{padding:44px 0 20px}
+h1{font-size:clamp(30px,4.4vw,50px);font-weight:900;letter-spacing:-1.6px;line-height:1.02}
+h1 span{background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent}
+.sub{color:var(--ink2);font-size:17px;margin-top:12px;max-width:80ch}
+.stats{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px}
+.stats b{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:9px 14px;font-size:13px;font-weight:600;color:var(--ink2)}
+.stats b i{font-style:normal;color:var(--ink);font-weight:800}
+.bar{position:sticky;top:0;z-index:20;background:rgba(10,8,16,.93);backdrop-filter:blur(14px);
+  border-bottom:1px solid var(--line);padding:12px 0;margin-bottom:26px}
+.barin{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+.chip{background:var(--card);border:1px solid var(--line);color:var(--ink2);border-radius:999px;padding:8px 15px;
+  font:inherit;font-size:13px;font-weight:700;cursor:pointer;transition:.14s;text-decoration:none}
+.chip:hover{color:var(--ink);border-color:#3a3050}
+.chip[aria-pressed=true]{background:var(--grad);color:#120a02;border-color:transparent}
+.vis{margin-left:auto;font-size:13px;color:var(--ink3);font-weight:600}
+main{padding-bottom:90px}
+.grade{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:18px}
+.d{background:var(--card);border:1px solid var(--line);border-radius:16px;overflow:hidden;border-top:4px solid var(--pt)}
+.d.aberto{grid-column:1/-1;border-color:#3a3050}
+.cab{display:flex;gap:12px;align-items:center;padding:14px 16px;cursor:pointer;user-select:none}
+.cab:hover{background:#171122}
+.dia{font-size:30px;font-weight:900;letter-spacing:-1.4px;line-height:.95}
+.dia small{display:block;font-size:10.5px;font-weight:800;letter-spacing:1.4px;text-transform:uppercase;color:var(--ink3);letter-spacing:1.2px}
+.cabtx{min-width:0}
+.cabtx b{display:block;font-size:10px;font-weight:900;letter-spacing:1.3px;text-transform:uppercase;color:var(--pt)}
+.cabtx span{display:block;font-size:14.5px;font-weight:700;line-height:1.25;margin-top:2px;color:#e7e2f0}
+.seta{margin-left:auto;font-size:13px;color:var(--ink3);font-weight:800;flex:0 0 auto}
+.d.aberto .seta{transform:rotate(180deg)}
+.capa{padding:0 16px 16px}
+.capa img{width:100%;max-height:300px;object-fit:cover;border-radius:10px;display:block;background:#000}
+.d.aberto .capa{display:none}
+.perfis{display:none;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:16px;padding:0 16px 18px}
+.d.aberto .perfis{display:grid}
+.p{background:#0e0b16;border:1px solid var(--line);border-radius:12px;overflow:hidden;border-left:4px solid var(--line);display:flex;flex-direction:column}
+.p.pt{border-left-color:var(--pt)} .p.en{border-left-color:var(--en)} .p.es{border-left-color:var(--es)}
+.ph{display:flex;gap:8px;align-items:baseline;padding:12px 13px 0}
+.at{font-size:11.5px;font-weight:900;letter-spacing:.4px}
+.p.pt .at{color:var(--pt)} .p.en .at{color:var(--en)} .p.es .at{color:var(--es)}
+.pn{font-size:10px;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:var(--ink3)}
+.idi{margin-left:auto;font-size:9px;font-weight:900;letter-spacing:.8px;color:var(--ink3);border:1px solid var(--line);padding:2px 6px;border-radius:4px}
+.p h4{padding:7px 13px 0;font-size:15px;font-weight:800;line-height:1.3;letter-spacing:-.2px}
+.pimg{margin:11px 13px 0;border-radius:9px;overflow:hidden;background:#000;aspect-ratio:9/16;max-height:340px}
+.pimg img{width:100%;height:100%;object-fit:cover;display:block}
+.arq{padding:9px 13px 0;font-size:10.5px;color:var(--ink3);word-break:break-all}
+.pacts{display:flex;flex-wrap:wrap;gap:7px;padding:10px 13px 13px;margin-top:auto}
+.mini{background:#181228;border:1px solid #2c2440;color:var(--ink);border-radius:8px;padding:6px 10px;
+  font:inherit;font-size:11.5px;font-weight:700;cursor:pointer;text-decoration:none;display:inline-flex;gap:5px;align-items:center}
+.mini:hover{border-color:var(--o)}
+.pleg{display:none;margin:0 13px 13px;padding:11px 12px;background:#080611;border:1px solid var(--line);border-radius:8px;
+  font-size:12.5px;line-height:1.5;color:#d8d2e4;white-space:pre-wrap}
+.p.on .pleg{display:block}
+footer{color:var(--ink3);font-size:13px;line-height:1.6;padding:30px 0 60px;border-top:1px solid var(--line);margin-top:40px}
+footer b{color:var(--ink2)}
+@media(max-width:640px){.wrap{padding:0 16px}.grade{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+<header class="top">
+  <h1>Calend&aacute;rio dos <span>Reels POV</span></h1>
+  <p class="sub">Um card por data de postagem, dia sim dia n&atilde;o. A frente mostra o POV do
+  <b>@gamejamplus</b>, que &eacute; o perfil principal. <b>Clique no card</b> pra abrir os tr&ecirc;s perfis:
+  cada um tem o <b>seu</b> POV, o <b>seu</b> arquivo no Drive e a <b>sua</b> legenda, no idioma da conta.
+  A fila do @gamejamplus vem do calend&aacute;rio e n&atilde;o foi tocada aqui.</p>
+  <div class="stats">
+    <b><i id="s-dias">&mdash;</i> datas</b>
+    <b><i id="s-posts">&mdash;</i> posts</b>
+    <b>@gamejamplus <i id="s-pt">&mdash;</i></b>
+    <b>@gamejamplus_en <i id="s-en">&mdash;</i></b>
+    <b>@gamejamplus_es <i id="s-es">&mdash;</i></b>
+    <b>POV diferentes <i id="s-uni">&mdash;</i></b>
+  </div>
+</header>
+</div>
+
+<div class="bar"><div class="wrap"><div class="barin">
+  <button class="chip" id="abrir-tudo" aria-pressed="false">Abrir todos os dias</button>
+  <span style="width:1px;height:22px;background:var(--line)"></span>
+  <a class="chip" href="../">&#8592; Galeria dos carross&eacute;is</a>
+  <a class="chip" href="https://gamejamplus-calendario.vercel.app/" target="_blank" rel="noopener">Calend&aacute;rio geral</a>
+  <span class="vis" id="vis"></span>
+</div></div></div>
+
+<div class="wrap"><main>
+  <div class="grade" id="grade"></div>
+  <footer>
+    <b>Cad&ecirc;ncia:</b> dia sim dia n&atilde;o, no slot das 17h. As datas s&atilde;o as mesmas que o
+    calend&aacute;rio geral j&aacute; reserva pro Reels POV do @gamejamplus, ent&atilde;o os tr&ecirc;s perfis
+    postam no mesmo dia.<br>
+    <b>POV diferente por perfil:</b> nenhuma data repete o mesmo POV em dois perfis. Quatro POV
+    aparecem no @gamejamplus_en e no @gamejamplus_es, mas sempre em datas distantes.<br>
+    <b>Idioma:</b> a legenda do @gamejamplus &eacute; s&oacute; em portugu&ecirc;s, a do _en s&oacute; em
+    ingl&ecirc;s e a do _es s&oacute; em espanhol. A frase da tela j&aacute; vem queimada no MP4 de cada
+    idioma, ent&atilde;o n&atilde;o h&aacute; nada a produzir.<br>
+    <b>Aten&ccedil;&atilde;o ao nome do arquivo:</b> as pastas Ingl&ecirc;s e Espanhol usam o
+    <i>mesmo</i> nome de arquivo, com o slug em ingl&ecirc;s. O que muda &eacute; a pasta. Cada card mostra
+    o caminho completo embaixo do v&iacute;deo pra n&atilde;o dar engano.<br>
+    <b>Ordem:</b> a sequ&ecirc;ncia &eacute; sugest&atilde;o, n&atilde;o regra. D&aacute; pra trocar o POV
+    de qualquer data sem quebrar nada.<br>
+    Uso interno, para revis&atilde;o.
+  </footer>
+</main></div>
+
+<script>
+const DIAS = [
+ {
+  "data": "2026-09-11",
+  "dow": "sex",
+  "pt": {
+   "n": 22,
+   "tema": "Seu jogo no telão da final mundial",
+   "linha": "POV: seu jogo apareceu no telão da final mundial.",
+   "leg": [
+    "POV: a final mundial, o telão atrás do palco e um jogo nele na frente da sala inteira.",
+    "Quem está assistindo é dev, jurado e estúdio de todo canto. Pra muito time é a primeira vez que alguém de fora do grupo vê o jogo.",
+    "Isso começa com um fim de semana na sua própria cidade. Se você quer o seu jogo nesse telão, a inscrição da 11ª edição está no link da bio."
+   ],
+   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #GameDevCommunity",
+   "drive": "https://drive.google.com/file/d/1dAZL75YnCALBTjq5Wu4ffAq8J_9U6PIm/view",
+   "arquivo": "Português/22_seu-jogo-apareceu-no.mp4"
+  },
+  "en": {
+   "n": 14,
+   "tema": "48 horas, zero sono e o melhor fim de semana da vida",
+   "linha": "POV: 48 hours, zero sleep, and the best weekend of your life.",
+   "leg": [
+    "POV: hour thirty something of the jam. Everyone is wrecked, nobody wants to leave.",
+    "You will complain about the sleep and then talk about that weekend for years. Something happens when a whole room shares one deadline. The work stops feeling like work.",
+    "It costs you two days and gives you a game plus a group of people who get it. Sign up for the 11th edition of GameJamPlus through the link in bio and pick the hub closest to you."
+   ],
+   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #GameDevCommunity",
+   "drive": "https://drive.google.com/file/d/1FjjuQsqA6YZtQVQZSrIIggdWN7iO2g9-/view",
+   "arquivo": "Inglês/14_48-hours-zero-sleep.mp4"
+  },
+  "es": {
+   "n": 15,
+   "tema": "Veio só dar uma olhada e saiu com um jogo inteiro",
+   "linha": "Viniste solo a \"echar un vistazo\". Te fuiste con un juego entero.",
+   "leg": [
+    "POV: entraste para ver cómo es una game jam por dentro, y para el domingo tienes un control en la mano y la build de tu equipo en la pantalla.",
+    "Pasa todo el tiempo. La gente llega por curiosidad, se sienta en una mesa con desconocidos y termina el fin de semana con un juego que corre. En la puerta no piden experiencia, solo ganas de quedarse.",
+    "Con curiosidad ya alcanza para entrar. Inscríbete en la 11ª edición de la GameJamPlus por el link de la bio y elige la sede más cercana."
+   ],
+   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #GameDevCommunity",
+   "drive": "https://drive.google.com/file/d/1oCI-47gOVpPPfxVTegDD6HxtGfPBkD49/view",
+   "arquivo": "Espanhol/15_came-just-check-out.mp4"
+  }
+ },
+ {
+  "data": "2026-09-13",
+  "dow": "dom",
+  "pt": {
+   "n": 23,
+   "tema": "Ninguém da família entendia, hoje viram você ganhar",
+   "linha": "Ninguém da minha família entendia meu sonho. Hoje me viram ganhar no palco.",
+   "leg": [
+    "POV: a plateia de pé na Grande Final, a parte da história que ninguém em casa esperava.",
+    "Muita gente aqui passou anos explicando que fazer jogo é trabalho de verdade. A explicação acaba no dia em que a família está na sala vendo o resultado.",
+    "Você não precisa que eles entendam ainda. Se você quer que o jogo explique por você, a inscrição da 11ª edição está no link da bio."
+   ],
+   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #GameDevCommunity",
+   "drive": "https://drive.google.com/file/d/1JcCRIC-z5g6Hf_0_Sr7sir9tk0wU-d46/view",
+   "arquivo": "Português/23_ninguem-minha-familia-entendia.mp4"
+  },
+  "en": {
+   "n": 11,
+   "tema": "Todo estúdio grande começou com alguém que tentou",
+   "linha": "Every great studio started with someone who just had the courage to try.",
+   "leg": [
+    "POV: someone showing their game at the hub, wearing the logo of the studio they started.",
+    "Every studio you know started smaller than that. One person deciding to try, then a couple of people who wanted in. There was no funding round at the beginning, just a weekend and a deadline.",
+    "You need the deadline more than you need the plan. Sign up for the 11th edition of GameJamPlus through the link in bio, pick the hub closest to you and start the thing."
+   ],
+   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #GameDevCommunity",
+   "drive": "https://drive.google.com/file/d/11VpJ4adW4N66J4KzbIeEM3QmzR15NfYp/view",
+   "arquivo": "Inglês/11_every-great-studio-started.mp4"
+  },
+  "es": {
+   "n": 9,
+   "tema": "Seu primeiro jogo vai ser ruim, faça mesmo assim",
+   "linha": "Tu primer juego va a ser malo. Hazlo igual.",
+   "leg": [
+    "POV: alguien acaba de terminar su primer juego y sabe exactamente lo tosco que quedó.",
+    "El primer juego de todo el mundo es malo. El arte no combina, el balanceo está roto, el tutorial explica lo que no es. También es la única manera de llegar a un segundo juego que no sea malo.",
+    "Un fin de semana de jam es el lugar más barato para sacarse el primero de encima. Inscríbete en la 11ª edición de la GameJamPlus por el link de la bio, elige la sede más cercana y haz el malo ahora."
+   ],
+   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #GameDevCommunity",
+   "drive": "https://drive.google.com/file/d/1YXWxsc5J6CegrvJeeKtlXY5oy-fFD0HM/view",
+   "arquivo": "Espanhol/09_first-game-will-be.mp4"
+  }
+ },
+ {
+  "data": "2026-09-15",
+  "dow": "ter",
+  "pt": {
+   "n": 24,
+   "tema": "Chegou sozinho, saiu com time, jogo e amigos",
+   "linha": "Você entrou sozinho. Saiu com um time, um jogo e amigos pra vida toda.",
+   "leg": [
+    "POV: as mesas antes da jam começar, quando todo mundo ainda é estranho.",
+    "Chegar sozinho é o jeito mais comum de chegar. As pessoas se juntam ali mesmo, dividem o trabalho pelo que cada uma sabe fazer, e no domingo esse grupo improvisado tem um build com todos os nomes.",
+    "Não ter time não é motivo pra ficar de fora. Se você quer sair do fim de semana com um, a inscrição da 11ª edição está no link da bio."
+   ],
+   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #GameDevCommunity",
+   "drive": "https://drive.google.com/file/d/1HmEH1f6V6uLZnYOqpNIT6XCrfgxhNwgC/view",
+   "arquivo": "Português/24_entrou-sozinho-saiu-time.mp4"
+  },
+  "en": {
+   "n": 16,
+   "tema": "Entrou com uma ideia no caderno, saiu com protótipo",
+   "linha": "POV: you had an idea in a notebook. You left with a playable prototype.",
+   "leg": [
+    "POV: a game on a banner at the event with a QR code, so anyone can play it right there. Weeks before, it was a page in a notebook.",
+    "The gap between a note and a build is not talent, it is a deadline with other people watching. A jam gives you both at once, plus mentors who will tell you what to cut.",
+    "Bring the messiest idea you have. Sign up for the 11th edition of GameJamPlus through the link in bio and pick the hub closest to you."
+   ],
+   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #GameDevCommunity",
+   "drive": "https://drive.google.com/file/d/1WHKvUcfGHqdPmWqkdQ0BoFqsM9pGAtAU/view",
+   "arquivo": "Inglês/16_had-idea-notebook-left.mp4"
+  },
+  "es": {
+   "n": 17,
+   "tema": "Ganhar a GameJamPlus dos seus sonhos",
+   "linha": "POV: ganaste la GameJamPlus de tus sueños.",
+   "leg": [
+    "POV: el escenario de la Final Mundial 24/25, en el segundo en que un equipo escucha su nombre.",
+    "Todo el mundo allá arriba empezó en una sede local, en una sala como la más cercana a ti, con una fecha límite y sin idea de cómo iba a terminar el fin de semana. Nadie queda eliminado en la primera etapa, así que el único requisito es aparecer y terminar algo.",
+    "Ese escenario es el final de un camino que empieza en tu propia ciudad. Inscríbete en la 11ª edición de la GameJamPlus por el link de la bio y elige tu sede."
+   ],
+   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #GameDevCommunity",
+   "drive": "https://drive.google.com/file/d/1i22K08yilEdkJpwJLAMgc8nmfCO7l8ul/view",
+   "arquivo": "Espanhol/17_won-gamejamplus-dreams.mp4"
+  }
+ },
+ {
+  "data": "2026-09-17",
+  "dow": "qui",
+  "pt": {
+   "n": 25,
+   "tema": "Hoje um grupo de estranhos, semana que vem família",
+   "linha": "Seu time hoje é um grupo de estranhos. Semana que vem, sua segunda família.",
+   "leg": [
+    "POV: o jantar depois da jam, com as mesmas pessoas que não se conheciam na sexta.",
+    "Dois dias dividindo um prazo fazem o que nenhum evento de networking faz. Você aprende como a pessoa trabalha cansada, e é assim que os bons times se acham.",
+    "O jogo é a desculpa, a turma é o que fica. Se você quer terminar a jam com essa mesa, a inscrição da 11ª edição está no link da bio."
+   ],
+   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #GameDevCommunity",
+   "drive": "https://drive.google.com/file/d/1ugm5EWDtyCvS53tlwheikybNojsmZU26/view",
+   "arquivo": "Português/25_seu-time-hoje-grupo.mp4"
+  },
+  "en": {
+   "n": 20,
+   "tema": "O protótipo de fim de semana virou Jogo do Ano",
+   "linha": "POV: your weekend prototype became Game of the Year.",
+   "leg": [
+    "POV: the award moment at the Global Final 24/25, hands up in the audience.",
+    "That game started as a 48 hour prototype at a local hub. It went through the next stages, took feedback, got rebuilt, and ended the edition at the top.",
+    "Every winner was a rough build once. Sign up for the 11th edition of GameJamPlus through the link in bio and pick the hub closest to you."
+   ],
+   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #GameDevCommunity",
+   "drive": "https://drive.google.com/file/d/1YxgrYtRpDXkFcBfypJYk3wbf-yq7_T8l/view",
+   "arquivo": "Inglês/20_weekend-prototype-became-game.mp4"
+  },
+  "es": {
+   "n": 21,
+   "tema": "40 países disputando e o troféu foi pra sua cidade",
+   "linha": "POV: 40 países compitiendo y el trofeo llegó a tu ciudad.",
+   "leg": [
+    "POV: el escenario de la Gran Final en Brasilia, con sedes de decenas de países en la misma competencia.",
+    "La GameJamPlus corre por todo el mundo y termina en una sola sala. El equipo que se lo lleva no es el de la ciudad más grande del mapa, es quien construyó lo mejor de esa edición.",
+    "Tu ciudad puede ser esa ciudad. Inscríbete en la 11ª edición de la GameJamPlus por el link de la bio y elige la sede más cercana."
+   ],
+   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #GameDevCommunity",
+   "drive": "https://drive.google.com/file/d/12rb0eLDx92UYcwfFxmWmfFngwR2vkpHL/view",
+   "arquivo": "Espanhol/21_40-countries-competing-trophy.mp4"
+  }
+ },
+ {
+  "data": "2026-09-19",
+  "dow": "sab",
+  "pt": {
+   "n": 26,
+   "tema": "Se conheceram online, construíram juntos, viraram sócios",
+   "linha": "POV: você conheceu online, criou junto, e agora são sócios.",
+   "leg": [
+    "POV: duas pessoas mostrando na sede o jogo que fizeram juntas depois de se conhecerem pela internet.",
+    "Um monte de estúdio começou exatamente assim. Um Discord em comum, um prazo de jam, um build que funcionou e a decisão de continuar depois que o fim de semana acabou.",
+    "Não dá pra planejar esse encontro, dá pra estar na sala. Se você quer achar o seu sócio, a inscrição da 11ª edição está no link da bio."
+   ],
+   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #GameDevCommunity",
+   "drive": "https://drive.google.com/file/d/1w_F5x0a2H-XyKgVfRH3uhX_YY1DNlZw7/view",
+   "arquivo": "Português/26_conheceu-online-criou-junto.mp4"
+  },
+  "en": {
+   "n": 10,
+   "tema": "Todo dev que você admira já travou na primeira linha",
+   "linha": "Every dev you admire once got stuck on the first line of code.",
+   "leg": [
+    "POV: a game over screen on a laptop in the middle of a jam room. Somebody's build, somebody's first score.",
+    "Every developer you look up to sat right there once, staring at a line that would not run. Nobody skips that part. They just kept going long enough for it to stop being the hard part.",
+    "The fastest way through it is a weekend where the people around you are stuck too and figure it out together. Sign up for the 11th edition of GameJamPlus through the link in bio and pick the hub closest to you."
+   ],
+   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #GameDevCommunity",
+   "drive": "https://drive.google.com/file/d/1uto9WaTwCXxqVHGsvicBSUc3jlxAy1Le/view",
+   "arquivo": "Inglês/10_every-dev-admire-once.mp4"
+  },
+  "es": {
+   "n": 18,
+   "tema": "Os jurados escolheram o SEU jogo entre milhares",
+   "linha": "POV: los jurados eligieron TU juego entre miles.",
+   "leg": [
+    "POV: una placa de Best Game Design de una Gran Final de la GameJamPlus sobre una mesa, esperando al equipo que se la ganó.",
+    "Miles de juegos entran en cada edición. Los que quedan elegidos casi nunca son los más bonitos, son los que tienen una idea clara y un pitch que aterriza. La mitad de la nota es el pitch, así que cómo lo cuentas pesa tanto como lo que construiste.",
+    "No puedes ganar una categoría en la que nunca entraste. Inscríbete en la 11ª edición de la GameJamPlus por el link de la bio y elige la sede más cercana."
+   ],
+   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #GameDevCommunity",
+   "drive": "https://drive.google.com/file/d/1c2HAXwLDL9LsBOzPsTdr1i12rLOC5yQF/view",
+   "arquivo": "Espanhol/18_judges-chose-game-out.mp4"
+  }
+ },
+ {
+  "data": "2026-09-21",
+  "dow": "seg",
+  "pt": {
+   "n": 27,
+   "tema": "Fazer jogo sozinho é solitário, aqui ninguém cria só",
+   "linha": "Fazer jogo sozinho é solitário. Aqui ninguém cria sozinho.",
+   "leg": [
+    "POV: uma sede cheia de mesas, cada uma com um jogo sendo feito em cima.",
+    "Trabalhar sozinho significa que todo problema é seu e ninguém vê as vitórias pequenas. Na sala da jam, alguém da mesa do lado já bateu no seu bug e vai contar como passou.",
+    "Traz aquele projeto que você carrega sozinho. Se você quer terminar ele acompanhado, a inscrição da 11ª edição está no link da bio."
+   ],
+   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #GameDevCommunity",
+   "drive": "https://drive.google.com/file/d/1_hxW6T4qygFiScL56iSMc4TMUglg5zrj/view",
+   "arquivo": "Português/27_fazer-jogo-sozinho-solitario.mp4"
+  },
+  "en": {
+   "n": 35,
+   "tema": "Você não é só um indie, é o futuro da indústria",
+   "linha": "You're not “just” an indie dev. You're the future of the industry.",
+   "leg": [
+    "POV: the closing ceremony at the hub, the room where the next studios of your country are sitting.",
+    "The word indie usually gets used as a smaller version of a real developer. Look at who is filling these rooms. Small teams are where most of the new ideas in games come from, and the industry knows it.",
+    "Take the seat. Sign up for the 11th edition of GameJamPlus through the link in bio and pick the hub closest to you."
+   ],
+   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #GameDevCommunity",
+   "drive": "https://drive.google.com/file/d/1yij6cfBZPLVcluYTK9sXNaWgZf1e5S7H/view",
+   "arquivo": "Inglês/35_youre-not-just-indie.mp4"
+  },
+  "es": {
+   "n": 33,
+   "tema": "Queria fazer um joguinho e acabou representando o país",
+   "linha": "POV: solo querías hacer un jueguito y terminaste representando a tu país.",
+   "leg": [
+    "POV: el escenario de la Gran Final con banderas, y equipos de pie por los países de los que vinieron.",
+    "Ninguno se anotó para representar a nadie. Se anotaron en una jam de fin de semana en su propia ciudad, y el juego siguió subiendo por las etapas hasta que el país quedó en la pantalla detrás de ellos.",
+    "El jueguito es como empieza. Inscríbete en la 11ª edición de la GameJamPlus por el link de la bio y elige la sede más cercana."
+   ],
+   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #GameDevCommunity",
+   "drive": "https://drive.google.com/file/d/1Fnx_08X3FlAw7LOyMLss8xoZOJmfgHlk/view",
+   "arquivo": "Espanhol/33_just-wanted-make-little.mp4"
+  }
+ },
+ {
+  "data": "2026-09-23",
+  "dow": "qua",
+  "pt": {
+   "n": 28,
+   "tema": "Achou a sua turma e nunca mais se sentiu sozinho",
+   "linha": "POV: você achou a sua galera e nunca mais se sentiu sozinho no gamedev.",
+   "leg": [
+    "POV: o corredor entre as palestras, quando todo mundo procura alguém pra falar sobre o que está construindo.",
+    "Quase todo mundo chega achando que é a única pessoa da cidade que leva isso a sério. Aí conhece outras dez num fim de semana, e aquele grupo nunca mais fecha.",
+    "A comunidade é a parte que fica depois da jam. Se você quer achar a sua turma, a inscrição da 11ª edição está no link da bio."
+   ],
+   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #GameDevCommunity",
+   "drive": "https://drive.google.com/file/d/1eaZzj60krN0zDHkkGOARCFCyUxRuJ9Zy/view",
+   "arquivo": "Português/28_achou-sua-galera-nunca.mp4"
+  },
+  "en": {
+   "n": 19,
+   "tema": "A plateia inteira gritando o nome do seu jogo",
+   "linha": "POV: the whole crowd chanted the name of your game.",
+   "leg": [
+    "POV: a packed arena at the Grand Final, everyone turned to the stage.",
+    "Most people make games alone in a room. Then one day a crowd of strangers is shouting the name of the thing you built at your kitchen table.",
+    "Every one of those games came out of a local hub weekend. Sign up for the 11th edition of GameJamPlus through the link in bio and pick the hub closest to you."
+   ],
+   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #GameDevCommunity",
+   "drive": "https://drive.google.com/file/d/18EpG3GXaXoDO_oJ0toWDMm537_L-FfsF/view",
+   "arquivo": "Inglês/19_whole-crowd-chanted-name.mp4"
+  },
+  "es": {
+   "n": 32,
+   "tema": "Talento sem estrutura é hobby caro",
+   "linha": "Talento sin estructura es solo un hobby caro. Aquí se vuelve carrera.",
+   "leg": [
+    "POV: una mesa de devs recibiendo feedback de gente que ya lanzó.",
+    "El talento solo te deja una carpeta de proyectos sin terminar. Lo que lo convierte en trabajo son las fechas límite, el feedback, un pitch que puedas defender y gente que te diga la verdad sobre tu build.",
+    "De eso se trata el formato entero. Inscríbete en la 11ª edición de la GameJamPlus por el link de la bio y elige la sede más cercana."
+   ],
+   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #GameDevCommunity",
+   "drive": "https://drive.google.com/file/d/1HZWQn8lQNmB9V8ASGZcwcAZLhIx1vOyk/view",
+   "arquivo": "Espanhol/32_talent-without-structure-just.mp4"
+  }
+ },
+ {
+  "data": "2026-09-25",
+  "dow": "sex",
+  "pt": {
+   "n": 29,
+   "tema": "A indústria disse não, a comunidade disse bem-vindo",
+   "linha": "O mercado disse \"não\". A comunidade disse \"bem-vindo\".",
+   "leg": [
+    "POV: alguém na sede que levou mais nãos do que consegue contar e continuou voltando.",
+    "Currículo some, portfólio é ignorado, e nada disso diz se você sabe fazer um jogo. A comunidade faz uma pergunta bem mais simples. Você construiu alguma coisa?",
+    "Aqui ninguém é eliminado na primeira etapa. Se você quer uma porta aberta em vez de mais um não, a inscrição da 11ª edição está no link da bio."
+   ],
+   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #GameDevCommunity",
+   "drive": "https://drive.google.com/file/d/1RSr-v-qvV4GWHU_Cze7CcGrrKT0ij0Ie/view",
+   "arquivo": "Português/29_mercado-disse-comunidade-disse.mp4"
+  },
+  "en": {
+   "n": 12,
+   "tema": "O jogo que você abandonou podia ser o que faltava",
+   "linha": "The game you gave up on could be the one the world was missing.",
+   "leg": [
+    "POV: a game running on a screen at the event with a QR code under it, so anyone walking by can play. Shooter, puzzles and witch hunting in a voxel adventure built out of Hansel and Gretel.",
+    "Somebody almost dropped that project. Most people do. The prototype gets ugly in the middle, the idea stops feeling clever, and the folder goes quiet.",
+    "The games that get finished are rarely the best ideas, they are the ones someone stayed with. Sign up for the 11th edition of GameJamPlus through the link in bio and give your abandoned folder one more weekend."
+   ],
+   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #GameDevCommunity",
+   "drive": "https://drive.google.com/file/d/1i8wnDa9TTpChMcwiLxcn818fVhnMRDMP/view",
+   "arquivo": "Inglês/12_game-gave-up-could.mp4"
+  },
+  "es": {
+   "n": 10,
+   "tema": "Todo dev que você admira já travou na primeira linha",
+   "linha": "Todo dev que admiras alguna vez se trabó en la primera línea de código.",
+   "leg": [
+    "POV: una pantalla de game over en el laptop en medio de la sala de la jam. La build de alguien, el primer puntaje de alguien.",
+    "Todo dev que admiras estuvo sentado ahí, mirando una línea que no corría. Nadie se salta esa parte. Solo siguieron el tiempo suficiente para que dejara de ser la parte difícil.",
+    "La forma más rápida de atravesarla es un fin de semana donde la gente de al lado también está trabada y lo resuelve contigo. Inscríbete en la 11ª edición de la GameJamPlus por el link de la bio y elige la sede más cercana."
+   ],
+   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #GameDevCommunity",
+   "drive": "https://drive.google.com/file/d/16nJGpleGDiug5lH_JIM1JTYXNxt0rmXm/view",
+   "arquivo": "Espanhol/10_every-dev-admire-once.mp4"
+  }
+ },
+ {
+  "data": "2026-09-27",
+  "dow": "dom",
+  "pt": {
+   "n": 30,
+   "tema": "Diziam que jogo era perda de tempo, virou carreira",
+   "linha": "Todo mundo dizia que \"jogo é perda de tempo\". Virou minha carreira.",
+   "leg": [
+    "POV: um dia comum de trabalho na sede, gente no notebook vivendo daquilo que diziam ser perda de tempo.",
+    "As vagas existem, os estúdios existem, e a maior parte dessa sala entrou sem diploma de games. Construíram coisas, mostraram e continuaram aparecendo.",
+    "Carreira aqui começa numa mesa dessas. Se você quer começar a sua, a inscrição da 11ª edição está no link da bio."
+   ],
+   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #GameDevCommunity",
+   "drive": "https://drive.google.com/file/d/1uP7vlM_1qsHW5fETMkpnYbioC3NuHjx4/view",
+   "arquivo": "Português/30_todo-mundo-dizia-jogo.mp4"
+  },
+  "en": {
+   "n": 34,
+   "tema": "Atravessou o mundo por causa de um jogo que fez",
+   "linha": "POV: you traveled to the other side of the world because of a game you made.",
+   "leg": [
+    "POV: someone far from home, badge on, at a table covered in cards from every country.",
+    "A game you built in your own bedroom can put you in a room on another continent, talking to developers who found the same thing you did. The passport stamp is a side effect of finishing something.",
+    "Build the thing first and see where it takes you. Sign up for the 11th edition of GameJamPlus through the link in bio and pick the hub closest to you."
+   ],
+   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #GameDevCommunity",
+   "drive": "https://drive.google.com/file/d/1P474aRZ8H8-XKUzkQzBiys7KWE5_BXuV/view",
+   "arquivo": "Inglês/34_traveled-other-side-world.mp4"
+  },
+  "es": {
+   "n": 16,
+   "tema": "Entrou com uma ideia no caderno, saiu com protótipo",
+   "linha": "POV: llegaste con una idea en un cuaderno. Te fuiste con un prototipo jugable.",
+   "leg": [
+    "POV: un juego en un banner del evento con un código QR, para que cualquiera lo juegue ahí mismo. Semanas antes era una página de cuaderno.",
+    "Lo que separa una anotación de una build no es talento, es una fecha límite con otra gente mirando. Una jam te da las dos cosas al mismo tiempo, más mentoría que te dice qué cortar.",
+    "Trae la idea más desordenada que tengas. Inscríbete en la 11ª edición de la GameJamPlus por el link de la bio y elige la sede más cercana."
+   ],
+   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #GameDevCommunity",
+   "drive": "https://drive.google.com/file/d/1d3WLsIJghKTr2-YR-KorNgKg8kavheys/view",
+   "arquivo": "Espanhol/16_had-idea-notebook-left.mp4"
+  }
+ },
+ {
+  "data": "2026-09-29",
+  "dow": "ter",
+  "pt": {
+   "n": 31,
+   "tema": "Começou por diversão e acabou vivendo disso",
+   "linha": "POV: você começou por diversão e terminou vivendo disso.",
+   "leg": [
+    "POV: um navegador com dois builds do seu próprio jogo abertos, num notebook que virou escritório.",
+    "Quase ninguém começa com plano de negócio. Começa como coisa de fim de semana, aí alguém quer publicar, aí paga parte do mês, e um dia paga o mês inteiro.",
+    "A parte divertida não é o oposto da carreira. Se você quer começar por aí, a inscrição da 11ª edição está no link da bio."
+   ],
+   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #GameDevCommunity",
+   "drive": "https://drive.google.com/file/d/1fc2qZIklha7JdQTmiusFTgZrEtYAef_R/view",
+   "arquivo": "Português/31_comecou-diversao-terminou-vivendo.mp4"
+  },
+  "en": {
+   "n": 32,
+   "tema": "Talento sem estrutura é hobby caro",
+   "linha": "Talent without structure is just an expensive hobby. Here, it becomes a career.",
+   "leg": [
+    "POV: a table of developers getting feedback from people who have already shipped.",
+    "Talent on its own gets you a folder of unfinished projects. What turns it into work is deadlines, feedback, a pitch you can defend and people who tell you the truth about your build.",
+    "That is the whole point of the format. Sign up for the 11th edition of GameJamPlus through the link in bio and pick the hub closest to you."
+   ],
+   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #GameDevCommunity",
+   "drive": "https://drive.google.com/file/d/1kif55H6dXskgsIBe0Vw-z8kUdrLge7RQ/view",
+   "arquivo": "Inglês/32_talent-without-structure-just.mp4"
+  },
+  "es": {
+   "n": 34,
+   "tema": "Atravessou o mundo por causa de um jogo que fez",
+   "linha": "POV: viajaste al otro lado del mundo por un juego que hiciste.",
+   "leg": [
+    "POV: alguien lejos de casa, con la credencial puesta, en una mesa llena de tarjetas de todos los países.",
+    "Un juego que construiste en tu propio cuarto puede ponerte en una sala de otro continente, hablando con devs que encontraron lo mismo que tú. El sello en el pasaporte es un efecto secundario de terminar algo.",
+    "Construye primero y después mira hasta dónde te lleva. Inscríbete en la 11ª edición de la GameJamPlus por el link de la bio y elige la sede más cercana."
+   ],
+   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #GameDevCommunity",
+   "drive": "https://drive.google.com/file/d/1XgvJYXfLh4mf28iN9hEjlfy2uvN57caY/view",
+   "arquivo": "Espanhol/34_traveled-other-side-world.mp4"
+  }
+ }
+];
+const AT = {pt:"@gamejamplus", en:"@gamejamplus_en", es:"@gamejamplus_es"};
+const IDIOMA = {pt:"português", en:"inglês", es:"espanhol"};
+const MES = ["jan","fev","mar","abr","mai","jun","jul","ago","set","out","nov","dez"];
+const esc = s => String(s).replace(/[&<>"]/g, m => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[m]));
+const nn = n => String(n).padStart(2,"0");
+
+function painel(d, idi){
+  const b = d[idi];
+  const txt = b.leg.join("\n\n") + "\n\n" + b.tags;
+  return '<div class="p ' + idi + '">' +
+    '<div class="ph"><span class="at">' + AT[idi] + '</span>' +
+    '<span class="pn">POV ' + nn(b.n) + '</span>' +
+    '<span class="idi">' + IDIOMA[idi] + '</span></div>' +
+    '<h4>' + esc(b.linha) + '</h4>' +
+    '<div class="pimg"><img loading="lazy" src="../img/reels/' + idi + '/' + nn(b.n) + '.jpg" alt=""></div>' +
+    '<div class="arq">' + esc(b.arquivo) + '</div>' +
+    '<div class="pacts">' +
+      '<a class="mini" href="' + b.drive + '" target="_blank" rel="noopener">&#127916; V&iacute;deo no Drive</a>' +
+      '<button class="mini" data-leg>&#128172; Legenda</button>' +
+      '<button class="mini" data-copy="' + esc(txt) + '">&#128203; Copiar</button>' +
+    '</div>' +
+    '<div class="pleg">' + esc(txt) + '</div>' +
+  '</div>';
+}
+
+function cardDia(d){
+  const [a,m,dd] = d.data.split("-");
+  return '<article class="d" data-k="' + d.data + '">' +
+    '<div class="cab"><span class="dia">' + dd + '<small>' + d.dow + " " + MES[+m-1] + '</small></span>' +
+    '<span class="cabtx"><b>@gamejamplus &middot; POV ' + nn(d.pt.n) + '</b><span>' + esc(d.pt.linha) + '</span></span>' +
+    '<span class="seta">&#9660;</span></div>' +
+    '<div class="capa"><img loading="lazy" src="../img/reels/pt/' + nn(d.pt.n) + '.jpg" alt=""></div>' +
+    '<div class="perfis">' + painel(d,"pt") + painel(d,"en") + painel(d,"es") + '</div>' +
+  '</article>';
+}
+
+const grade = document.getElementById("grade");
+grade.innerHTML = DIAS.map(cardDia).join("");
+
+const todos = DIAS.flatMap(d => [d.pt.n, d.en.n, d.es.n]);
+document.getElementById("s-dias").textContent = DIAS.length;
+document.getElementById("s-posts").textContent = DIAS.length * 3;
+["pt","en","es"].forEach(i => document.getElementById("s-"+i).textContent = DIAS.length);
+document.getElementById("s-uni").textContent = new Set(todos).size;
+document.getElementById("vis").textContent = DIAS.length + " datas · " + DIAS.length*3 + " posts";
+
+grade.addEventListener("click", e => {
+  const l = e.target.closest("[data-leg]");
+  if(l){ l.closest(".p").classList.toggle("on"); return; }
+  const c = e.target.closest("[data-copy]");
+  if(c){
+    navigator.clipboard.writeText(c.dataset.copy).then(() => {
+      const antes = c.innerHTML; c.innerHTML = "&#10003; Copiada";
+      setTimeout(() => c.innerHTML = antes, 1400);
+    });
+    return;
+  }
+  const cab = e.target.closest(".cab");
+  if(cab) cab.closest(".d").classList.toggle("aberto");
+});
+
+const btn = document.getElementById("abrir-tudo");
+btn.onclick = () => {
+  const abrir = btn.getAttribute("aria-pressed") !== "true";
+  btn.setAttribute("aria-pressed", String(abrir));
+  btn.textContent = abrir ? "Fechar todos os dias" : "Abrir todos os dias";
+  document.querySelectorAll(".d").forEach(d => d.classList.toggle("aberto", abrir));
+};
+</script>
+</body>
+</html>

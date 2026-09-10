@@ -1,3 +1,1 @@
-.DS_Store
-Thumbs.db
-.vercel
+".claude-flow/" ; cat .gitignore; git add .gitignore 
