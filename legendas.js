@@ -1215,7 +1215,7 @@ window.LEGENDAS = {
 "gj-c03": {
   "titulo": "C03 · Famous games born in a game jam",
   "p": [
-    "Surgeon Simulator came out of a 48 hour Global Game Jam in 2013, and the clumsy controls were a time constraint that turned into the joke of the game. Superhot started as a browser prototype at 7DFPS that same year. Keep Talking and Nobody Explodes, Celeste and Baba Is You all began the same way, in a weekend or less, and three of them went on to win the biggest awards in independent games.",
+    "Surgeon Simulator came out of a 48 hour Global Game Jam in 2013, and the clumsy controls were a time constraint that turned into the joke of the game. Superhot started as a browser prototype at 7DFPS that same year. Keep Talking and Nobody Explodes, Celeste and Baba Is You all began the same way, in a few days of jam, and two of them went on to win big awards in the indie scene.",
     "Drop which of the five you have played. Hellbrella came out of GJ+ 24/25 by the same route, and the 11th edition sign-up is in the link in bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
@@ -1224,7 +1224,7 @@ window.LEGENDAS = {
 "gj-c03-pt": {
   "titulo": "C03 · Jogos famosos que nasceram numa game jam",
   "p": [
-    "O Surgeon Simulator saiu de uma Global Game Jam de 48 horas em 2013, e o controle desengonçado era limitação de tempo que virou a piada do jogo. O Superhot começou como protótipo de navegador na 7DFPS no mesmo ano. Keep Talking and Nobody Explodes, Celeste e Baba Is You nasceram do mesmo jeito, num fim de semana ou menos, e três deles ganharam os maiores prêmios do mercado independente.",
+    "O Surgeon Simulator saiu de uma Global Game Jam de 48 horas em 2013, e o controle desengonçado era limitação de tempo que virou a piada do jogo. O Superhot começou como protótipo de navegador na 7DFPS no mesmo ano. Keep Talking and Nobody Explodes, Celeste e Baba Is You nasceram do mesmo jeito, em poucos dias de jam, e dois deles levaram prêmio grande da cena indie.",
     "Comenta qual desses cinco você jogou. A Hellbrella saiu da GJ+ 24/25 pelo mesmo caminho, e a inscrição da 11ª edição está no link da bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
@@ -1233,7 +1233,7 @@ window.LEGENDAS = {
 "gj-c03-es": {
   "titulo": "C03 · Juegos famosos que nacieron en una game jam",
   "p": [
-    "Surgeon Simulator salió de una Global Game Jam de 48 horas en 2013, y el control torpe era una limitación de tiempo que se volvió el chiste del juego. Superhot empezó como prototipo de navegador en la 7DFPS ese mismo año. Keep Talking and Nobody Explodes, Celeste y Baba Is You nacieron igual, en un fin de semana o menos, y tres de ellos ganaron los premios más grandes del mercado independiente.",
+    "Surgeon Simulator salió de una Global Game Jam de 48 horas en 2013, y el control torpe era una limitación de tiempo que se volvió el chiste del juego. Superhot empezó como prototipo de navegador en la 7DFPS ese mismo año. Keep Talking and Nobody Explodes, Celeste y Baba Is You nacieron igual, en pocos días de jam, y dos de ellos se llevaron premios grandes de la escena indie.",
     "Cuenta cuál de los cinco jugaste. Hellbrella salió de la GJ+ 24/25 por el mismo camino, y la inscripción de la 11ª edición está en el link de la bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
