@@ -1480,5 +1480,59 @@ window.LEGENDAS = {
     "La GJ+ está en 64 sedes y 24 países en la 11ª edición, y es la jam oficial de la IGDA en el mundo desde julio de 2024. Comenta desde qué país nos sigues. Inscripción de la 11ª edición en el link de la bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-j16": {
+  "titulo": "J16 · Nobody shows up ready",
+  "p": [
+    "Half the score is the pitch, so you can join without writing a line of code. Teams are 3 to 6 people and most of them meet at the venue on the day. And the weekend cuts nobody.",
+    "Every game delivered is judged on art, audio, game design and narrative with nobody having to apply. Drop what you would bring to a team. 11th edition sign-up in the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-j16-pt": {
+  "titulo": "J16 · Ninguém chega pronto",
+  "p": [
+    "Metade da nota é o pitch, então dá pra entrar sem escrever uma linha de código. O time é de 3 a 6 pessoas e a maioria se encontra na sede no dia. E o fim de semana não elimina ninguém.",
+    "Todo jogo entregue é avaliado em arte, áudio, game design e narrativa sem ninguém precisar se candidatar. Comenta o que você levaria pro time. Inscrição da 11ª edição no link da bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-j16-es": {
+  "titulo": "J16 · Nadie llega listo",
+  "p": [
+    "La mitad del puntaje es el pitch, así que se puede entrar sin escribir una línea de código. El equipo es de 3 a 6 personas y la mayoría se conoce en la sede ese día. Y el fin de semana no elimina a nadie.",
+    "Todo juego entregado se evalúa en arte, audio, game design y narrativa sin que nadie tenga que postularse. Comenta qué llevarías al equipo. Inscripción de la 11ª edición en el link de la bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-e17": {
+  "titulo": "E17 · The door was the missing part",
+  "p": [
+    "Good games exist far from the big city hubs, and they always did. Ten GJ+ editions produced 2,500 games across 100 host cities, most of which nobody would call a games hub, with 17,500 people in 50 countries since 2017.",
+    "Talent was already there. What the jam adds is a fixed date, a deadline and an audience at the end, on October 16, 17 and 18. Drop the city you are reading from. 11th edition sign-up in the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-e17-pt": {
+  "titulo": "E17 · Só faltava a porta",
+  "p": [
+    "Existe jogo bom longe dos grandes centros, e sempre existiu. Dez edições da GJ+ deram 2.500 jogos em 100 cidades anfitriãs, a maioria delas que ninguém chamaria de polo de games, com 17.500 pessoas em 50 países desde 2017.",
+    "Talento já estava lá. O que a jam põe em cima é data marcada, prazo e plateia no fim, em 16, 17 e 18 de outubro. Comenta de que cidade você está lendo. Inscrição da 11ª edição no link da bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-e17-es": {
+  "titulo": "E17 · Solo faltaba la puerta",
+  "p": [
+    "Hay juegos buenos lejos de los grandes centros, y siempre los hubo. Diez ediciones de la GJ+ dieron 2.500 juegos en 100 ciudades anfitrionas, la mayoría de las cuales nadie llamaría polo de games, con 17.500 personas en 50 países desde 2017.",
+    "El talento ya estaba. Lo que la jam pone encima es fecha fijada, plazo y público al final, el 16, 17 y 18 de octubre. Comenta desde qué ciudad estás leyendo. Inscripción de la 11ª edición en el link de la bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 }
 };
