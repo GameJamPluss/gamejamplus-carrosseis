@@ -1372,5 +1372,113 @@ window.LEGENDAS = {
     "Cuenta la duda que todavía te frena para abrir una sede. Abre tu sede por el link de la bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-c05": {
+  "titulo": "C05 · A jam theme has been everything",
+  "p": [
+    "In 2012 the Global Game Jam theme was an Ouroboros image, with not a single word written. In 2009 it was a whole sentence, in 2014 an Anaïs Nin quote and in 2024 an order, Make Me Laugh.",
+    "At GJ+ the theme drops in the Friday keynote, for the whole world at once. Drop the theme you wish would come up. 11th edition sign-up in the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-c05-pt": {
+  "titulo": "C05 · O tema de jam já foi de tudo",
+  "p": [
+    "Em 2012 o tema da Global Game Jam foi uma imagem de Ouroboros, sem uma palavra escrita. Em 2009 foi uma frase inteira, em 2014 uma citação de Anaïs Nin e em 2024 uma ordem, Make Me Laugh.",
+    "Na GJ+ o tema cai na keynote de sexta, pro mundo inteiro ao mesmo tempo. Comenta que tema você queria que caísse. Inscrição da 11ª edição no link da bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-c05-es": {
+  "titulo": "C05 · El tema de una jam ya fue de todo",
+  "p": [
+    "En 2012 el tema de la Global Game Jam fue una imagen de Ouroboros, sin una sola palabra escrita. En 2009 fue una frase entera, en 2014 una cita de Anaïs Nin y en 2024 una orden, Make Me Laugh.",
+    "En la GJ+ el tema cae en la keynote del viernes, para todo el mundo al mismo tiempo. Comenta qué tema te gustaría que saliera. Inscripción de la 11ª edición en el link de la bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-e15": {
+  "titulo": "E15 · Most of you are not students",
+  "p": [
+    "We went and read our own profile numbers. 48.7% of the people who follow GJ+ are 25 to 34 and 24% are 35 to 44. The 18 to 24 bracket is only 17%.",
+    "And Manaus is the third city on the list, ahead of Porto Alegre and Curitiba. Drop the bracket you are in. 11th edition sign-up in the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-e15-pt": {
+  "titulo": "E15 · A maioria de vocês não é estudante",
+  "p": [
+    "Fomos ver os números do próprio perfil. 48,7% de quem acompanha a GJ+ tem de 25 a 34 anos e 24% tem de 35 a 44. A faixa de 18 a 24 é só 17%.",
+    "E Manaus é a terceira cidade da lista, na frente de Porto Alegre e Curitiba. Comenta em que faixa você está. Inscrição da 11ª edição no link da bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-e15-es": {
+  "titulo": "E15 · La mayoría de ustedes no es estudiante",
+  "p": [
+    "Fuimos a ver los números del propio perfil. 48,7% de quienes siguen la GJ+ tiene de 25 a 34 años y 24% de 35 a 44. La franja de 18 a 24 es solo 17%.",
+    "Y Manaus es la tercera ciudad de la lista, por delante de Porto Alegre y Curitiba. Comenta en qué franja estás. Inscripción de la 11ª edición en el link de la bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-e16": {
+  "titulo": "E16 · Making games after work",
+  "p": [
+    "You can make games with a full time job. The jam asks for three days locked in months ahead, October 16, 17 and 18, and outside them there is nothing on your calendar.",
+    "Teams are 3 to 6 people, half the score is the pitch and nobody gets cut in the first stage. Drop how many hours a week you manage to carve out. 11th edition sign-up in the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-e16-pt": {
+  "titulo": "E16 · Fazer jogo depois do trabalho",
+  "p": [
+    "Dá pra fazer jogo com um emprego de oito horas. A jam pede três dias marcados meses antes, 16, 17 e 18 de outubro, e fora deles não tem compromisso de agenda.",
+    "Time de 3 a 6 pessoas, metade da nota é o pitch e ninguém é cortado na primeira etapa. Comenta quantas horas por semana você consegue tirar. Inscrição da 11ª edição no link da bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-e16-es": {
+  "titulo": "E16 · Hacer juegos después del trabajo",
+  "p": [
+    "Se puede hacer juego con un trabajo de ocho horas. La jam pide tres días fijados con meses de anticipación, 16, 17 y 18 de octubre, y fuera de ellos no hay nada en tu agenda.",
+    "Equipo de 3 a 6 personas, la mitad del puntaje es el pitch y nadie queda fuera en la primera etapa. Comenta cuántas horas por semana logras sacar. Inscripción de la 11ª edición en el link de la bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-c06": {
+  "titulo": "C06 · From 1,650 people to 35 thousand a year",
+  "p": [
+    "The first Global Game Jam, in 2009, had 1,650 people across 53 sites. In 2020 it hit 48,753 in 118 countries, fell to 28 thousand in 2021 and has settled above 35 thousand since.",
+    "GJ+ is in 64 sites and 24 countries in the 11th edition, and has been the official IGDA game jam worldwide since July 2024. Drop the country you follow from. 11th edition sign-up in the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-c06-pt": {
+  "titulo": "C06 · De 1.650 pessoas a 35 mil por ano",
+  "p": [
+    "A primeira Global Game Jam, em 2009, teve 1.650 pessoas em 53 sedes. Em 2020 chegou a 48.753 em 118 países, caiu pra 28 mil em 2021 e hoje se firmou acima dos 35 mil.",
+    "A GJ+ está em 64 sedes e 24 países na 11ª edição, e é a jam oficial da IGDA no mundo desde julho de 2024. Comenta de que país você acompanha. Inscrição da 11ª edição no link da bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-c06-es": {
+  "titulo": "C06 · De 1.650 personas a 35 mil por año",
+  "p": [
+    "La primera Global Game Jam, en 2009, tuvo 1.650 personas en 53 sedes. En 2020 llegó a 48.753 en 118 países, cayó a 28 mil en 2021 y hoy se afirmó arriba de los 35 mil.",
+    "La GJ+ está en 64 sedes y 24 países en la 11ª edición, y es la jam oficial de la IGDA en el mundo desde julio de 2024. Comenta desde qué país nos sigues. Inscripción de la 11ª edición en el link de la bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 }
 };
