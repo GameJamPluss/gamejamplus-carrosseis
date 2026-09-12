@@ -1296,8 +1296,8 @@ window.LEGENDAS = {
 "gj-o28": {
   "titulo": "O28 · If you have a community, you have a venue",
   "p": [
-    "A GJ+ venue does not require an events company. Universities and technical schools send students home with portfolio work, pitch practice and a certificate. Coworkings and innovation spaces fill up for a weekend and get local press. Studios get to watch a candidate work in a team for 48 hours before hiring. NGOs, collectives and communities do not even need a physical space, since a fully online venue runs on a Discord server.",
-    "Drop which of those four is your case, and if none of them is, describe yours and we answer. Become an organizer through the link in bio."
+    "A GJ+ venue does not require an events company. Universities and technical schools send students home with portfolio work, pitch practice and a certificate. Coworkings and innovation spaces fill up for a weekend and get local press. NGOs, collectives and communities do not even need a physical space, since a fully online venue runs on a Discord server.",
+    "Drop which of those three is your case, and if none of them is, describe yours and we answer. Become an organizer through the link in bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
@@ -1305,8 +1305,8 @@ window.LEGENDAS = {
 "gj-o28-pt": {
   "titulo": "O28 · Se você tem uma comunidade, você tem uma sede",
   "p": [
-    "Sede da GJ+ não exige produtora de evento. Universidade e escola técnica mandam a galera pra casa com portfólio, treino de pitch e certificado. Coworking e espaço de inovação enchem por um fim de semana e ainda atraem imprensa local. Estúdio vê o candidato trabalhando em time por 48 horas, antes de contratar. ONG, coletivo e comunidade nem precisam de espaço físico, porque sede 100% online roda num servidor de Discord.",
-    "Comenta qual desses quatro é o seu caso, e se nenhum for, descreve o seu que a gente responde. Abra a sua sede pelo link da bio."
+    "Sede da GJ+ não exige produtora de evento. Universidade e escola técnica mandam a galera pra casa com portfólio, treino de pitch e certificado. Coworking e espaço de inovação enchem por um fim de semana e ainda atraem imprensa local. ONG, coletivo e comunidade nem precisam de espaço físico, porque sede 100% online roda num servidor de Discord.",
+    "Comenta qual desses três é o seu caso, e se nenhum for, descreve o seu que a gente responde. Abra a sua sede pelo link da bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
@@ -1314,8 +1314,8 @@ window.LEGENDAS = {
 "gj-o28-es": {
   "titulo": "O28 · Si tienes una comunidad, tienes una sede",
   "p": [
-    "Una sede de la GJ+ no exige productora de eventos. Universidades y escuelas técnicas mandan a la gente a casa con portafolio, práctica de pitch y certificado. Coworkings y espacios de innovación se llenan por un fin de semana y atraen prensa local. Los estudios ven al candidato trabajar en equipo durante 48 horas, antes de contratar. ONG, colectivo y comunidad ni siquiera necesitan espacio físico, porque una sede 100% online funciona en un servidor de Discord.",
-    "Cuenta cuál de esos cuatro es tu caso, y si no es ninguno, describe el tuyo y te respondemos. Abre tu sede por el link de la bio."
+    "Una sede de la GJ+ no exige productora de eventos. Universidades y escuelas técnicas mandan a la gente a casa con portafolio, práctica de pitch y certificado. Coworkings y espacios de innovación se llenan por un fin de semana y atraen prensa local. ONG, colectivo y comunidad ni siquiera necesitan espacio físico, porque una sede 100% online funciona en un servidor de Discord.",
+    "Cuenta cuál de esos tres es tu caso, y si no es ninguno, describe el tuyo y te respondemos. Abre tu sede por el link de la bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
