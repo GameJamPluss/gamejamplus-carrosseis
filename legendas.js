@@ -1534,5 +1534,167 @@ window.LEGENDAS = {
     "El talento ya estaba. Lo que la jam pone encima es fecha fijada, plazo y público al final, el 16, 17 y 18 de octubre. Comenta desde qué ciudad estás leyendo. Inscripción de la 11ª edición en el link de la bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-j17": {
+  "titulo": "J17 · The four ways in",
+  "p": [
+    "There are four doors into the 11th edition and only one asks for a game. Jammer builds one in 48 hours, local organizer opens the venue, volunteer joins the global staff, partner puts a brand inside 50 countries.",
+    "Volunteer and partner are the two nobody talks about, and they need no game at all. Drop which of the four you would come in through. 11th edition sign-up in the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-j17-pt": {
+  "titulo": "J17 · As quatro formas de entrar",
+  "p": [
+    "São quatro portas na 11ª edição e só uma pede um jogo. Jammer faz um em 48 horas, organizador local abre a sede, voluntário entra na staff global e parceiro põe a marca dentro de 50 países.",
+    "Voluntário e parceiro são as duas de que ninguém fala, e nenhuma das duas pede jogo. Comenta por qual das quatro você entraria. Inscrição da 11ª edição no link da bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-j17-es": {
+  "titulo": "J17 · Las cuatro formas de entrar",
+  "p": [
+    "Son cuatro puertas en la 11ª edición y solo una pide un juego. Jammer hace uno en 48 horas, organizador local abre la sede, voluntario entra en la staff global y partner pone la marca dentro de 50 países.",
+    "Voluntario y partner son las dos de las que nadie habla, y ninguna pide juego. Comenta por cuál de las cuatro entrarías. Inscripción de la 11ª edición en el link de la bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-j18": {
+  "titulo": "J18 · What you hand in on Sunday",
+  "p": [
+    "Two things, and neither is a finished game. A build that runs start to finish, however short, and a 3 to 5 minute pitch. Half the score sits in the pitch.",
+    "Every game delivered is judged on art, audio, game design and narrative without anyone applying, and Best PC and Mobile Game need one tick at submission. Drop which of the two scares you more. 11th edition sign-up in the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-j18-pt": {
+  "titulo": "J18 · O que você entrega no domingo",
+  "p": [
+    "Duas coisas, e nenhuma delas é jogo terminado. Uma build que roda do começo ao fim, mesmo que curta, e um pitch de 3 a 5 minutos. Metade da nota está no pitch.",
+    "Todo jogo entregue é avaliado em arte, áudio, game design e narrativa sem ninguém se candidatar, e Melhor Jogo PC e Mobile pedem um clique na submissão. Comenta qual das duas te dá mais frio na barriga. Inscrição da 11ª edição no link da bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-j18-es": {
+  "titulo": "J18 · Lo que entregas el domingo",
+  "p": [
+    "Dos cosas, y ninguna es un juego terminado. Una build que funciona de principio a fin, aunque sea corta, y un pitch de 3 a 5 minutos. La mitad del puntaje está en el pitch.",
+    "Todo juego entregado se evalúa en arte, audio, game design y narrativa sin que nadie se postule, y Mejor Juego PC y Mobile piden un clic al enviar. Comenta cuál de las dos te pone más nervioso. Inscripción de la 11ª edición en el link de la bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-e18": {
+  "titulo": "E18 · What is on the table",
+  "p": [
+    "US$ 100 thousand in prizes have already gone out of GJ+, and sign-up is still free. The Global Final hands out 15 prizes across three days in person, with contracts and international networking in the same room.",
+    "Before that come four continental semifinals and a month of business bootcamp with investor connections. Drop which stage you most want to see up close. 11th edition sign-up in the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-e18-pt": {
+  "titulo": "E18 · O que está em jogo",
+  "p": [
+    "Já saíram da GJ+ US$ 100 mil em prêmios, e a inscrição continua sendo grátis. A Final Global entrega 15 prêmios em três dias presenciais, com contratos e networking internacional na mesma sala.",
+    "Antes dela vêm quatro semifinais continentais e um mês de bootcamp de negócios com conexão de investidor. Comenta qual etapa você mais quer ver de perto. Inscrição da 11ª edição no link da bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-e18-es": {
+  "titulo": "E18 · Lo que está en juego",
+  "p": [
+    "Ya salieron de la GJ+ US$ 100 mil en premios, y la inscripción sigue siendo gratis. La Final Global entrega 15 premios en tres días presenciales, con contratos y networking internacional en la misma sala.",
+    "Antes vienen cuatro semifinales continentales y un mes de bootcamp de negocios con conexión de inversores. Comenta qué etapa quieres ver más de cerca. Inscripción de la 11ª edición en el link de la bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-c07": {
+  "titulo": "C07 · Three GJ+ games on sale right now",
+  "p": [
+    "The Chef's Shift came out of GameJamPlus Indonesia 2022 and sits at 97% of 1,923 reviews on Steam. Hellbrella came out of GJ+ 24/25 and sold 3 thousand copies in under 3 weeks through GoGo Games. Mix It! landed public funding from Fondo El Fauno in Costa Rica.",
+    "None of the three existed on a Friday night. Drop whether you have played any of them. 11th edition sign-up in the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-c07-pt": {
+  "titulo": "C07 · Três jogos da GJ+ que estão à venda agora",
+  "p": [
+    "The Chef's Shift saiu da GameJamPlus Indonésia 2022 e está com 97% de 1.923 avaliações na Steam. A Hellbrella saiu da GJ+ 24/25 e vendeu 3 mil cópias em menos de 3 semanas pela GoGo Games. O Mix It! foi aprovado no Fondo El Fauno, na Costa Rica.",
+    "Nenhum dos três existia numa sexta à noite. Comenta se você já jogou algum deles. Inscrição da 11ª edição no link da bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-c07-es": {
+  "titulo": "C07 · Tres juegos de la GJ+ a la venta ahora",
+  "p": [
+    "The Chef's Shift salió de GameJamPlus Indonesia 2022 y está con 97% de 1.923 reseñas en Steam. Hellbrella salió de la GJ+ 24/25 y vendió 3 mil copias en menos de 3 semanas por GoGo Games. Mix It! consiguió fondos del Fondo El Fauno, en Costa Rica.",
+    "Ninguno de los tres existía un viernes por la noche. Comenta si jugaste alguno. Inscripción de la 11ª edición en el link de la bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-e19": {
+  "titulo": "E19 · A cause wins a trophy",
+  "p": [
+    "At GJ+ a cause is a line in the rulebook. Eduplay asks the game to actually teach something, Green Play covers climate and conscious consumption, and Diverse by Design asks 40% of the team to come from under-represented groups.",
+    "Those optional categories cost US$ 250 each, while jam sign-up and the four main categories are free. Drop the cause you would put inside a 48 hour game. 11th edition sign-up in the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-e19-pt": {
+  "titulo": "E19 · ODS vale troféu",
+  "p": [
+    "Na GJ+ a causa é linha do regulamento. Eduplay pede que o jogo ensine algo de verdade, Green Play cobre clima e consumo consciente, e Diverse by Design pede 40% da equipe de grupos sub-representados.",
+    "Essas categorias opcionais custam US$ 250 cada, enquanto a inscrição da jam e as quatro principais são grátis. Comenta que causa você colocaria num jogo de 48 horas. Inscrição da 11ª edição no link da bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-e19-es": {
+  "titulo": "E19 · La causa gana trofeo",
+  "p": [
+    "En la GJ+ la causa es línea del reglamento. Eduplay pide que el juego enseñe algo de verdad, Green Play cubre clima y consumo consciente, y Diverse by Design pide 40% del equipo de grupos sub-representados.",
+    "Esas categorías opcionales cuestan US$ 250 cada una, mientras que la inscripción de la jam y las cuatro principales son gratis. Comenta qué causa pondrías en un juego de 48 horas. Inscripción de la 11ª edición en el link de la bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-e20": {
+  "titulo": "E20 · Who judges your game",
+  "p": [
+    "Art, audio, game design and narrative are judged on the file you delivered, with no conversation. Best Pitch looks at public speaking, English, presentation and your business plan. Game of the Year is the average of both scores.",
+    "Whoever reaches the Global Final presents to people who sign contracts. Drop what scares you more, showing the game or talking about it. 11th edition sign-up in the link in bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-e20-pt": {
+  "titulo": "E20 · Quem julga o seu jogo",
+  "p": [
+    "Arte, áudio, game design e narrativa são julgados no arquivo que você entregou, sem conversa. Melhor Pitch olha oratória, inglês, apresentação e plano de negócios. Jogo do Ano é a média das duas notas.",
+    "Quem chega na Final Global apresenta pra quem assina contrato. Comenta o que te dá mais medo, mostrar o jogo ou falar dele. Inscrição da 11ª edição no link da bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-e20-es": {
+  "titulo": "E20 · Quién juzga tu juego",
+  "p": [
+    "Arte, audio, game design y narrativa se juzgan en el archivo que entregaste, sin conversación. Mejor Pitch mira oratoria, inglés, presentación y plan de negocios. Juego del Año es el promedio de las dos notas.",
+    "Quien llega a la Final Global presenta ante quien firma contratos. Comenta qué te da más miedo, mostrar el juego o hablar de él. Inscripción de la 11ª edición en el link de la bio."
+  ],
+  "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 }
 };

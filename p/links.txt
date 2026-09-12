@@ -753,3 +753,57 @@ https://gamejamplus-carrosseis.vercel.app/p/e17-en/
 
 GJ+ ES · E17 - Solo faltaba la puerta
 https://gamejamplus-carrosseis.vercel.app/p/e17-es/
+
+GJ+ PT · J17 - As quatro formas de entrar
+https://gamejamplus-carrosseis.vercel.app/p/j17-pt/
+
+GJ+ EN · J17 - The four ways in
+https://gamejamplus-carrosseis.vercel.app/p/j17-en/
+
+GJ+ ES · J17 - Las cuatro formas de entrar
+https://gamejamplus-carrosseis.vercel.app/p/j17-es/
+
+GJ+ PT · J18 - O que voce entrega no domingo
+https://gamejamplus-carrosseis.vercel.app/p/j18-pt/
+
+GJ+ EN · J18 - What you hand in on Sunday
+https://gamejamplus-carrosseis.vercel.app/p/j18-en/
+
+GJ+ ES · J18 - Lo que entregas el domingo
+https://gamejamplus-carrosseis.vercel.app/p/j18-es/
+
+GJ+ PT · E18 - O que esta em jogo
+https://gamejamplus-carrosseis.vercel.app/p/e18-pt/
+
+GJ+ EN · E18 - What is on the table
+https://gamejamplus-carrosseis.vercel.app/p/e18-en/
+
+GJ+ ES · E18 - Lo que esta en juego
+https://gamejamplus-carrosseis.vercel.app/p/e18-es/
+
+GJ+ PT · C07 - Tres jogos da GJ+ que estao a venda agora
+https://gamejamplus-carrosseis.vercel.app/p/c07-pt/
+
+GJ+ EN · C07 - Three GJ+ games on sale right now
+https://gamejamplus-carrosseis.vercel.app/p/c07-en/
+
+GJ+ ES · C07 - Tres juegos de la GJ+ a la venta ahora
+https://gamejamplus-carrosseis.vercel.app/p/c07-es/
+
+GJ+ PT · E19 - ODS vale trofeu
+https://gamejamplus-carrosseis.vercel.app/p/e19-pt/
+
+GJ+ EN · E19 - A cause wins a trophy
+https://gamejamplus-carrosseis.vercel.app/p/e19-en/
+
+GJ+ ES · E19 - La causa gana trofeo
+https://gamejamplus-carrosseis.vercel.app/p/e19-es/
+
+GJ+ PT · E20 - Quem julga o seu jogo
+https://gamejamplus-carrosseis.vercel.app/p/e20-pt/
+
+GJ+ EN · E20 - Who judges your game
+https://gamejamplus-carrosseis.vercel.app/p/e20-en/
+
+GJ+ ES · E20 - Quien juzga tu juego
+https://gamejamplus-carrosseis.vercel.app/p/e20-es/
