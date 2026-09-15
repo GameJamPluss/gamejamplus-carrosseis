@@ -1324,7 +1324,7 @@ window.LEGENDAS = {
   "titulo": "E14 · The dates of the 11th edition",
   "p": [
     "October 16, 17 and 18, 2026. The 11th edition of GameJamPlus opens worldwide on the same weekend, at local venues in more than 50 countries. Friday starts with the global keynote revealing themes and categories to everyone at once, and by Sunday each team delivers a build and a pitch. After that the jam keeps going through incubation, semifinals, acceleration and an in-person Global Final.",
-    "Drop the city you will be playing from. Signing up is free and the 11th edition sign-up is in the link in bio."
+    "Drop the city you will be taking part from. Signing up is free and the 11th edition sign-up is in the link in bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
@@ -1333,7 +1333,7 @@ window.LEGENDAS = {
   "titulo": "E14 · As datas da 11ª edição",
   "p": [
     "16, 17 e 18 de outubro de 2026. A 11ª edição da GameJamPlus abre no mundo inteiro no mesmo fim de semana, em sede local, em mais de 50 países. Sexta começa com a keynote global revelando temas e categorias pra todo mundo ao mesmo tempo, e no domingo cada time entrega build e pitch. Depois disso a jam segue por incubação, semifinais, aceleração e uma Final Global presencial.",
-    "Comenta de que cidade você vai jogar. A inscrição é gratuita e está no link da bio."
+    "Comenta de que cidade você vai participar. A inscrição é gratuita e está no link da bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
@@ -1342,7 +1342,7 @@ window.LEGENDAS = {
   "titulo": "E14 · Las fechas de la 11ª edición",
   "p": [
     "16, 17 y 18 de octubre de 2026. La 11ª edición de GameJamPlus abre en todo el mundo el mismo fin de semana, en sede local, en más de 50 países. El viernes empieza con la keynote global que revela temas y categorías a todos a la vez, y el domingo cada equipo entrega build y pitch. Después de eso la jam sigue por incubación, semifinales, aceleración y una Final Global presencial.",
-    "Cuenta desde qué ciudad vas a jugar. La inscripción es gratis y está en el link de la bio."
+    "Cuenta desde qué ciudad vas a participar. La inscripción es gratis y está en el link de la bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
