@@ -1161,7 +1161,7 @@ window.LEGENDAS = {
 "gj-e12": {
   "titulo": "E12 · The movement in numbers",
   "p": [
-    "GameJamPlus is running in 64 venues across 24 countries this 11th edition, from Brazil to Zambia, with Sweden and Bangladesh in between. Every one of those venues was opened by someone local, and nobody was hired to do it. Last edition the same structure delivered 554 games across 31 countries, and adding up every edition the ecosystem has produced more than 2,500 games.",
+    "GameJamPlus is running in 73 venues across 28 countries this 11th edition, from Brazil to Zambia, with Sweden and Bangladesh in between. Every one of those venues was opened by someone local, and nobody was hired to do it. Last edition the same structure delivered 554 games across 31 countries, and adding up every edition the ecosystem has produced more than 2,500 games.",
     "Drop the country you follow GJ+ from, I want to watch that map grow in the comments. The 11th edition sign-up is in the link in bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
@@ -1170,7 +1170,7 @@ window.LEGENDAS = {
 "gj-e12-pt": {
   "titulo": "E12 · O movimento em números",
   "p": [
-    "A GameJamPlus está em 64 sedes espalhadas por 24 países nesta 11ª edição, do Brasil à Zâmbia, passando por Suécia e Bangladesh. Cada uma dessas sedes foi aberta por alguém da própria cidade, e ninguém foi contratado pra isso. Na edição passada essa mesma estrutura entregou 554 jogos em 31 países, e somando todas as edições o ecossistema já passou de 2.500 jogos.",
+    "A GameJamPlus está em 73 sedes espalhadas por 28 países nesta 11ª edição, do Brasil à Zâmbia, passando por Suécia e Bangladesh. Cada uma dessas sedes foi aberta por alguém da própria cidade, e ninguém foi contratado pra isso. Na edição passada essa mesma estrutura entregou 554 jogos em 31 países, e somando todas as edições o ecossistema já passou de 2.500 jogos.",
     "Comenta de que país você acompanha a GJ+, quero ver esse mapa crescer nos comentários. A inscrição da 11ª edição está no link da bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
@@ -1179,7 +1179,7 @@ window.LEGENDAS = {
 "gj-e12-es": {
   "titulo": "E12 · El movimiento en números",
   "p": [
-    "GameJamPlus está en 64 sedes repartidas por 24 países en esta 11ª edición, de Brasil a Zambia, pasando por Suecia y Bangladés. Cada una de esas sedes fue abierta por alguien de la propia ciudad, y nadie fue contratado para eso. La edición pasada esa misma estructura entregó 554 juegos en 31 países, y sumando todas las ediciones el ecosistema ya pasó de 2.500 juegos.",
+    "GameJamPlus está en 73 sedes repartidas por 28 países en esta 11ª edición, de Brasil a Zambia, pasando por Suecia y Bangladés. Cada una de esas sedes fue abierta por alguien de la propia ciudad, y nadie fue contratado para eso. La edición pasada esa misma estructura entregó 554 juegos en 31 países, y sumando todas las ediciones el ecosistema ya pasó de 2.500 juegos.",
     "Cuenta desde qué país sigues la GJ+, quiero ver ese mapa crecer en los comentarios. La inscripción de la 11ª edición está en el link de la bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
