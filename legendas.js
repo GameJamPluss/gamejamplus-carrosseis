@@ -1431,8 +1431,8 @@ window.LEGENDAS = {
 "gj-e16": {
   "titulo": "E16 · Making games after work",
   "p": [
-    "You can make games with a full time job. The jam asks for three days locked in months ahead, October 16, 17 and 18, and outside them there is nothing on your calendar.",
-    "Teams are 3 to 6 people, half the score is the pitch and nobody gets cut in the first stage. Drop how many hours a week you manage to carve out. 11th edition sign-up in the link in bio."
+    "You can make games with a full time job. A loose project competes with Monday every single week and loses, while a jam is locked in months ahead. Three days, October 16, 17 and 18, opening Friday with the global keynote and closing Sunday with a build and a pitch. Teams are 3 to 6 people, and half the score is the pitch, so art, sound and production count as much as code.",
+    "Nobody is cut in the first stage. Every team that delivers moves on to Incubation, and the five stages that follow run over six months, between one work week and the next. Drop how many hours a week you manage to carve out for making games. If the calendar was what was stopping you, the 11th edition sign-up is in the link in bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
@@ -1440,8 +1440,8 @@ window.LEGENDAS = {
 "gj-e16-pt": {
   "titulo": "E16 · Fazer jogo depois do trabalho",
   "p": [
-    "Dá pra fazer jogo com um emprego de oito horas. A jam pede três dias marcados meses antes, 16, 17 e 18 de outubro, e fora deles não tem compromisso de agenda.",
-    "Time de 3 a 6 pessoas, metade da nota é o pitch e ninguém é cortado na primeira etapa. Comenta quantas horas por semana você consegue tirar. Inscrição da 11ª edição no link da bio."
+    "Dá pra fazer jogo com um emprego de oito horas. Projeto solto concorre com a segunda-feira todas as semanas, e perde, enquanto a jam tem data marcada meses antes. São três dias, 16, 17 e 18 de outubro, que abrem na sexta com o keynote global e fecham no domingo com build e pitch. O time tem de 3 a 6 pessoas, e metade da nota é o pitch, então arte, som e produção contam tanto quanto código.",
+    "Ninguém é cortado na primeira etapa. Todo time que entrega segue pra Incubação, e as cinco etapas até a Final Global correm em seis meses, entre uma semana de trabalho e outra. Comenta quantas horas por semana você consegue tirar pra fazer jogo hoje. Se o que te segurava era a agenda, a inscrição da 11ª edição está no link da bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
@@ -1449,8 +1449,8 @@ window.LEGENDAS = {
 "gj-e16-es": {
   "titulo": "E16 · Hacer juegos después del trabajo",
   "p": [
-    "Se puede hacer juego con un trabajo de ocho horas. La jam pide tres días fijados con meses de anticipación, 16, 17 y 18 de octubre, y fuera de ellos no hay nada en tu agenda.",
-    "Equipo de 3 a 6 personas, la mitad del puntaje es el pitch y nadie queda fuera en la primera etapa. Comenta cuántas horas por semana logras sacar. Inscripción de la 11ª edición en el link de la bio."
+    "Se puede hacer juego con un trabajo de ocho horas. Un proyecto suelto compite con el lunes todas las semanas, y pierde, mientras que una jam tiene fecha fijada con meses de anticipación. Son tres días, 16, 17 y 18 de octubre, que abren el viernes con la keynote global y cierran el domingo con build y pitch. El equipo es de 3 a 6 personas, y la mitad del puntaje es el pitch, así que arte, sonido y producción cuentan tanto como el código.",
+    "Nadie queda fuera en la primera etapa. Todo equipo que entrega sigue a Incubación, y las cinco etapas hasta la Final Global corren en seis meses, entre una semana de trabajo y la otra. Comenta cuántas horas por semana logras sacar para hacer juegos hoy. Si lo que te frenaba era la agenda, la inscripción de la 11ª edición está en el link de la bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
