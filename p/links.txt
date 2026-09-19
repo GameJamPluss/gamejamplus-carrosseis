@@ -133,7 +133,7 @@ https://gamejamplus-carrosseis.vercel.app/p/e13-pt/
 GJ+ PT · C03 - Jogos famosos que nasceram numa game jam
 https://gamejamplus-carrosseis.vercel.app/p/c03-pt/
 
-GJ+ PT · O25 - O que a sua sede recebe pronta
+GJ+ PT · O25 - Voce nao comeca do zero
 https://gamejamplus-carrosseis.vercel.app/p/o25-pt/
 
 GJ+ PT · C04 - De 80 pessoas numa sala a 50 países
@@ -283,7 +283,7 @@ https://gamejamplus-carrosseis.vercel.app/p/e13-en/
 GJ+ EN · C03 - Famous games born in a game jam
 https://gamejamplus-carrosseis.vercel.app/p/c03-en/
 
-GJ+ EN · O25 - What your venue gets ready made
+GJ+ EN · O25 - You do not start from scratch
 https://gamejamplus-carrosseis.vercel.app/p/o25-en/
 
 GJ+ EN · C04 - From 80 people in a room to 50 countries
@@ -334,7 +334,7 @@ https://gamejamplus-carrosseis.vercel.app/p/e13-es/
 GJ+ ES · C03 - Juegos famosos que nacieron en una game jam
 https://gamejamplus-carrosseis.vercel.app/p/c03-es/
 
-GJ+ ES · O25 - Lo que tu sede recibe ya listo
+GJ+ ES · O25 - No empiezas de cero
 https://gamejamplus-carrosseis.vercel.app/p/o25-es/
 
 GJ+ ES · C04 - De 80 personas a 50 países

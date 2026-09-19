@@ -1240,30 +1240,30 @@ window.LEGENDAS = {
 },
 
 "gj-o25": {
-  "titulo": "O25 · What your venue gets ready made",
+  "titulo": "O25 · You do not start from scratch",
   "p": [
-    "Hosting a GJ+ venue does not mean building an event from scratch. Eight things arrive already made. The official platform handles sign-up and game submission, the toolbox brings manuals, editable artwork and a commercial deck template for sponsors, the marketing kit comes translated into your language, and the global keynote reveals themes and categories to every venue at the same moment. Jury criteria, an organizer community, the brand with the IGDA seal and direct support round out the list.",
-    "Drop which of those eight you assumed you would have to sort out alone.",
+    "Jammer sign-up is open and most of it is already built. The account on the official platform has no password, you get an access link by email, and that is where you pick your venue between on site, hybrid and online. If your city has no venue yet, the online one takes you through Discord. There is a handbook explaining what to hand in and how each stage works, teams are 3 to 6 people, and most of them meet at the venue on the day.",
+    "Organizers use the same platform for venue sign-up and submission, with a toolbox, a translated marketing kit and direct support. Drop the city you are joining from.",
     "Jammer sign-up is already open in the link in bio. You register on the platform and pick your venue right there."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
 
 "gj-o25-pt": {
-  "titulo": "O25 · O que a sua sede recebe pronta",
+  "titulo": "O25 · Você não começa do zero",
   "p": [
-    "Abrir uma sede da GJ+ não é montar um evento do zero. Oito coisas chegam prontas. A plataforma oficial cuida de inscrição e submissão de jogo, o toolbox traz manual, arte editável e até modelo de proposta comercial pra fechar patrocínio, o kit de marketing vem traduzido pro seu idioma, e a keynote global revela temas e categorias pra todas as sedes ao mesmo tempo. Critério de júri, comunidade de organizadores, a marca com selo da IGDA e suporte direto fecham a lista.",
-    "Comenta qual desses oito você acharia que teria de resolver sozinho.",
+    "A inscrição de jammer abriu e quase tudo já está montado. A conta na plataforma oficial é sem senha, você recebe um link de acesso por e-mail, e é ali que escolhe a sua sede entre presencial, híbrida e online. Se a sua cidade ainda não tem sede, a online recebe você pelo Discord. Tem manual explicando o que entregar e como funciona cada etapa, o time é de 3 a 6 pessoas e a maioria se encontra na sede no dia.",
+    "Quem organiza usa a mesma plataforma pra inscrição e submissão da sede, com toolbox, kit de marketing traduzido e suporte direto. Comenta de qual cidade você vai entrar.",
     "As inscrições de jammer já estão abertas no link da bio. Você faz o cadastro na plataforma e escolhe a sua sede na hora."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
 
 "gj-o25-es": {
-  "titulo": "O25 · Lo que tu sede recibe ya listo",
+  "titulo": "O25 · No empiezas de cero",
   "p": [
-    "Abrir una sede de la GJ+ no es armar un evento de cero. Ocho cosas llegan listas. La plataforma oficial se encarga de inscripción y entrega de juego, el toolbox trae manual, arte editable y hasta modelo de propuesta comercial para cerrar patrocinio, el kit de marketing viene traducido a tu idioma, y la keynote global revela temas y categorías a todas las sedes al mismo tiempo. Criterios de jurado, comunidad de organizadores, la marca con sello de la IGDA y soporte directo cierran la lista.",
-    "Cuenta cuál de esas ocho pensabas que ibas a tener que resolver solo.",
+    "La inscripción de jammer abrió y casi todo ya está armado. La cuenta en la plataforma oficial es sin contraseña, recibes un link de acceso por correo, y ahí mismo eliges tu sede entre presencial, híbrida y online. Si tu ciudad todavía no tiene sede, la online te recibe por Discord. Hay manual que explica qué entregar y cómo funciona cada etapa, el equipo es de 3 a 6 personas y la mayoría se conoce en la sede el mismo día.",
+    "Quien organiza usa la misma plataforma para la inscripción y la entrega de la sede, con toolbox, kit de marketing traducido y soporte directo. Cuenta desde qué ciudad vas a entrar.",
     "La inscripción de jammer ya está abierta en el link de la bio. Te registras en la plataforma y eliges tu sede ahí mismo."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
