@@ -1243,7 +1243,8 @@ window.LEGENDAS = {
   "titulo": "O25 · What your venue gets ready made",
   "p": [
     "Hosting a GJ+ venue does not mean building an event from scratch. Eight things arrive already made. The official platform handles sign-up and game submission, the toolbox brings manuals, editable artwork and a commercial deck template for sponsors, the marketing kit comes translated into your language, and the global keynote reveals themes and categories to every venue at the same moment. Jury criteria, an organizer community, the brand with the IGDA seal and direct support round out the list.",
-    "Drop which of those eight you assumed you would have to sort out alone. Become an organizer through the link in bio."
+    "Drop which of those eight you assumed you would have to sort out alone.",
+    "Jammer sign-up is already open in the link in bio. You register on the platform and pick your venue right there."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
@@ -1252,7 +1253,8 @@ window.LEGENDAS = {
   "titulo": "O25 · O que a sua sede recebe pronta",
   "p": [
     "Abrir uma sede da GJ+ não é montar um evento do zero. Oito coisas chegam prontas. A plataforma oficial cuida de inscrição e submissão de jogo, o toolbox traz manual, arte editável e até modelo de proposta comercial pra fechar patrocínio, o kit de marketing vem traduzido pro seu idioma, e a keynote global revela temas e categorias pra todas as sedes ao mesmo tempo. Critério de júri, comunidade de organizadores, a marca com selo da IGDA e suporte direto fecham a lista.",
-    "Comenta qual desses oito você acharia que teria de resolver sozinho. Abra a sua sede pelo link da bio."
+    "Comenta qual desses oito você acharia que teria de resolver sozinho.",
+    "As inscrições de jammer já estão abertas no link da bio. Você faz o cadastro na plataforma e escolhe a sua sede na hora."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
@@ -1261,7 +1263,8 @@ window.LEGENDAS = {
   "titulo": "O25 · Lo que tu sede recibe ya listo",
   "p": [
     "Abrir una sede de la GJ+ no es armar un evento de cero. Ocho cosas llegan listas. La plataforma oficial se encarga de inscripción y entrega de juego, el toolbox trae manual, arte editable y hasta modelo de propuesta comercial para cerrar patrocinio, el kit de marketing viene traducido a tu idioma, y la keynote global revela temas y categorías a todas las sedes al mismo tiempo. Criterios de jurado, comunidad de organizadores, la marca con sello de la IGDA y soporte directo cierran la lista.",
-    "Cuenta cuál de esas ocho pensabas que ibas a tener que resolver solo. Abre tu sede por el link de la bio."
+    "Cuenta cuál de esas ocho pensabas que ibas a tener que resolver solo.",
+    "La inscripción de jammer ya está abierta en el link de la bio. Te registras en la plataforma y eliges tu sede ahí mismo."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
@@ -1568,8 +1571,7 @@ window.LEGENDAS = {
   "titulo": "J18 · What you hand in on Sunday",
   "p": [
     "Two things, and neither is a finished game. A build that runs start to finish, however short, and a 3 to 5 minute pitch. Half the score sits in the pitch.",
-    "Every game delivered is judged on art, audio, game design and narrative without anyone applying, and Best PC and Mobile Game need one tick at submission. Drop which of the two scares you more.",
-    "Jammer sign-up is already open in the link in bio. You register on the platform and pick your venue right there."
+    "Every game delivered is judged on art, audio, game design and narrative without anyone applying, and Best PC and Mobile Game need one tick at submission. Drop which of the two scares you more. 11th edition sign-up in the link in bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
@@ -1578,8 +1580,7 @@ window.LEGENDAS = {
   "titulo": "J18 · O que você entrega no domingo",
   "p": [
     "Duas coisas, e nenhuma delas é jogo terminado. Uma build que roda do começo ao fim, mesmo que curta, e um pitch de 3 a 5 minutos. Metade da nota está no pitch.",
-    "Todo jogo entregue é avaliado em arte, áudio, game design e narrativa sem ninguém se candidatar, e Melhor Jogo PC e Mobile pedem um clique na submissão. Comenta qual das duas te dá mais frio na barriga.",
-    "As inscrições de jammer já estão abertas no link da bio. Você faz o cadastro na plataforma e escolhe a sua sede na hora."
+    "Todo jogo entregue é avaliado em arte, áudio, game design e narrativa sem ninguém se candidatar, e Melhor Jogo PC e Mobile pedem um clique na submissão. Comenta qual das duas te dá mais frio na barriga. Inscrição da 11ª edição no link da bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
@@ -1588,8 +1589,7 @@ window.LEGENDAS = {
   "titulo": "J18 · Lo que entregas el domingo",
   "p": [
     "Dos cosas, y ninguna es un juego terminado. Una build que funciona de principio a fin, aunque sea corta, y un pitch de 3 a 5 minutos. La mitad del puntaje está en el pitch.",
-    "Todo juego entregado se evalúa en arte, audio, game design y narrativa sin que nadie se postule, y Mejor Juego PC y Mobile piden un clic al enviar. Comenta cuál de las dos te pone más nervioso.",
-    "La inscripción de jammer ya está abierta en el link de la bio. Te registras en la plataforma y eliges tu sede ahí mismo."
+    "Todo juego entregado se evalúa en arte, audio, game design y narrativa sin que nadie se postule, y Mejor Juego PC y Mobile piden un clic al enviar. Comenta cuál de las dos te pone más nervioso. Inscripción de la 11ª edición en el link de la bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
