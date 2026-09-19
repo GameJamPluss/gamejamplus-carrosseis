@@ -1568,7 +1568,8 @@ window.LEGENDAS = {
   "titulo": "J18 · What you hand in on Sunday",
   "p": [
     "Two things, and neither is a finished game. A build that runs start to finish, however short, and a 3 to 5 minute pitch. Half the score sits in the pitch.",
-    "Every game delivered is judged on art, audio, game design and narrative without anyone applying, and Best PC and Mobile Game need one tick at submission. Drop which of the two scares you more. Jammer sign-up is already open in the link in bio. You register on the platform and pick your venue right there."
+    "Every game delivered is judged on art, audio, game design and narrative without anyone applying, and Best PC and Mobile Game need one tick at submission. Drop which of the two scares you more.",
+    "Jammer sign-up is already open in the link in bio. You register on the platform and pick your venue right there."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
@@ -1577,7 +1578,8 @@ window.LEGENDAS = {
   "titulo": "J18 · O que você entrega no domingo",
   "p": [
     "Duas coisas, e nenhuma delas é jogo terminado. Uma build que roda do começo ao fim, mesmo que curta, e um pitch de 3 a 5 minutos. Metade da nota está no pitch.",
-    "Todo jogo entregue é avaliado em arte, áudio, game design e narrativa sem ninguém se candidatar, e Melhor Jogo PC e Mobile pedem um clique na submissão. Comenta qual das duas te dá mais frio na barriga. As inscrições de jammer já estão abertas no link da bio. Você faz o cadastro na plataforma e escolhe a sua sede na hora."
+    "Todo jogo entregue é avaliado em arte, áudio, game design e narrativa sem ninguém se candidatar, e Melhor Jogo PC e Mobile pedem um clique na submissão. Comenta qual das duas te dá mais frio na barriga.",
+    "As inscrições de jammer já estão abertas no link da bio. Você faz o cadastro na plataforma e escolhe a sua sede na hora."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
@@ -1586,7 +1588,8 @@ window.LEGENDAS = {
   "titulo": "J18 · Lo que entregas el domingo",
   "p": [
     "Dos cosas, y ninguna es un juego terminado. Una build que funciona de principio a fin, aunque sea corta, y un pitch de 3 a 5 minutos. La mitad del puntaje está en el pitch.",
-    "Todo juego entregado se evalúa en arte, audio, game design y narrativa sin que nadie se postule, y Mejor Juego PC y Mobile piden un clic al enviar. Comenta cuál de las dos te pone más nervioso. La inscripción de jammer ya está abierta en el link de la bio. Te registras en la plataforma y eliges tu sede ahí mismo."
+    "Todo juego entregado se evalúa en arte, audio, game design y narrativa sin que nadie se postule, y Mejor Juego PC y Mobile piden un clic al enviar. Comenta cuál de las dos te pone más nervioso.",
+    "La inscripción de jammer ya está abierta en el link de la bio. Te registras en la plataforma y eliges tu sede ahí mismo."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
