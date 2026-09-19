@@ -1242,7 +1242,7 @@ window.LEGENDAS = {
 "gj-o25": {
   "titulo": "O25 · You do not start from scratch",
   "p": [
-    "Jammer sign-up is open and the path is already built. It is free, it happens on the official GameJamPlus site, and that is where you pick your venue between on site, hybrid and online. Then you enter Hero Hub with email and password, the platform of this edition. There is a handbook explaining what to hand in and how each stage works, teams are 3 to 6 people, and most of them meet at the venue on the day. If your city has no venue yet, the online one takes you through Discord. And organizers use the same platform for venue sign-up and submission, with a toolbox, a translated marketing kit and direct support.",
+    "Jammer sign-up is open and the path is already built. It is free, and it starts on the official GameJamPlus site, where clicking to sign up as a jammer takes you to Hero Hub, the platform of this edition. There you create your login with email and password, and it is inside the platform that you sign up for a venue, between on site, hybrid and online. There is a handbook explaining what to hand in and how each stage works, teams are 3 to 6 people, and most of them meet at the venue on the day. If your city has no venue yet, the online one takes you through Discord. And organizers use the same platform for venue sign-up and submission, with a toolbox, a translated marketing kit and direct support.",
     "Jammer sign-up for the 11th edition is open. It is free, you do it through the link in bio, and you pick your venue right there."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
@@ -1251,7 +1251,7 @@ window.LEGENDAS = {
 "gj-o25-pt": {
   "titulo": "O25 · Você não começa do zero",
   "p": [
-    "A inscrição de jammer abriu e o caminho já está montado. Ela é grátis, sai pelo site oficial da GameJamPlus, e é ali que você escolhe a sua sede entre presencial, híbrida e online. Depois você entra no Hero Hub com e-mail e senha, que é a plataforma da edição. Tem manual explicando o que entregar e como funciona cada etapa, o time é de 3 a 6 pessoas e a maioria se encontra na sede no dia. Se a sua cidade ainda não tem sede, a online recebe você pelo Discord. E quem organiza usa a mesma plataforma pra inscrição e submissão da sede, com toolbox, kit de marketing traduzido e suporte direto.",
+    "A inscrição de jammer abriu e o caminho já está montado. Ela é grátis, e começa no site oficial da GameJamPlus, onde clicar em se inscrever como jammer leva você pro Hero Hub, que é a plataforma da edição. Lá você cria o login com e-mail e senha, e é dentro da plataforma que você se inscreve numa sede, entre presencial, híbrida e online. Tem manual explicando o que entregar e como funciona cada etapa, o time é de 3 a 6 pessoas e a maioria se encontra na sede no dia. Se a sua cidade ainda não tem sede, a online recebe você pelo Discord. E quem organiza usa a mesma plataforma pra inscrição e submissão da sede, com toolbox, kit de marketing traduzido e suporte direto.",
     "A inscrição de jammer da 11ª edição está aberta. É grátis, você faz pelo link da bio e escolhe a sua sede na hora."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
@@ -1260,7 +1260,7 @@ window.LEGENDAS = {
 "gj-o25-es": {
   "titulo": "O25 · No empiezas de cero",
   "p": [
-    "La inscripción de jammer abrió y el camino ya está armado. Es gratis, se hace en el sitio oficial de GameJamPlus, y ahí mismo eliges tu sede entre presencial, híbrida y online. Después entras a Hero Hub con correo y contraseña, la plataforma de la edición. Hay manual que explica qué entregar y cómo funciona cada etapa, el equipo es de 3 a 6 personas y la mayoría se conoce en la sede el mismo día. Si tu ciudad todavía no tiene sede, la online te recibe por Discord. Y quien organiza usa la misma plataforma para la inscripción y la entrega de la sede, con toolbox, kit de marketing traducido y soporte directo.",
+    "La inscripción de jammer abrió y el camino ya está armado. Es gratis, y empieza en el sitio oficial de GameJamPlus, donde hacer clic en inscribirse como jammer te lleva a Hero Hub, que es la plataforma de la edición. Ahí creas tu login con correo y contraseña, y es dentro de la plataforma que te inscribes en una sede, entre presencial, híbrida y online. Hay manual que explica qué entregar y cómo funciona cada etapa, el equipo es de 3 a 6 personas y la mayoría se conoce en la sede el mismo día. Si tu ciudad todavía no tiene sede, la online te recibe por Discord. Y quien organiza usa la misma plataforma para la inscripción y la entrega de la sede, con toolbox, kit de marketing traducido y soporte directo.",
     "La inscripción de jammer de la 11ª edición está abierta. Es gratis, la haces por el link de la bio y eliges tu sede ahí mismo."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
