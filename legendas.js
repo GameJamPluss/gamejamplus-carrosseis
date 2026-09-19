@@ -1547,10 +1547,10 @@ window.LEGENDAS = {
 },
 
 "gj-j17-pt": {
-  "titulo": "J17 · As quatro formas de entrar",
+  "titulo": "J17 · Dá pra entrar sem fazer um jogo",
   "p": [
-    "São quatro portas na 11ª edição e só uma pede um jogo. Jammer faz um em 48 horas, organizador local abre a sede, voluntário entra na staff global e parceiro põe a marca dentro de 50 países.",
-    "Voluntário e parceiro são as duas de que ninguém fala, e nenhuma das duas pede jogo. Comenta por qual das quatro você entraria. Inscrição da 11ª edição no link da bio."
+    "São duas portas abertas na 11ª edição e só uma pede um jogo. Como jammer você cria um do zero em 48 horas, em time de 3 a 6 pessoas, e de iniciante a sênior todos cabem. Como voluntário você entra na staff global, em comunicação, jurados, apoio técnico e operações, sem escrever uma linha de código.",
+    "Comenta por qual das duas você entraria. A inscrição de jammer da 11ª edição está aberta, é grátis e você faz pelo link da bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },

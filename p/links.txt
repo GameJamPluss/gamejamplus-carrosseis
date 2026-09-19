@@ -754,7 +754,7 @@ https://gamejamplus-carrosseis.vercel.app/p/e17-en/
 GJ+ ES · E17 - Solo faltaba la puerta
 https://gamejamplus-carrosseis.vercel.app/p/e17-es/
 
-GJ+ PT · J17 - As quatro formas de entrar
+GJ+ PT · J17 - Da pra entrar sem fazer um jogo
 https://gamejamplus-carrosseis.vercel.app/p/j17-pt/
 
 GJ+ EN · J17 - The four ways in
