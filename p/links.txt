@@ -757,10 +757,10 @@ https://gamejamplus-carrosseis.vercel.app/p/e17-es/
 GJ+ PT · J17 - Da pra entrar sem fazer um jogo
 https://gamejamplus-carrosseis.vercel.app/p/j17-pt/
 
-GJ+ EN · J17 - The four ways in
+GJ+ EN · J17 - You can join without making a game
 https://gamejamplus-carrosseis.vercel.app/p/j17-en/
 
-GJ+ ES · J17 - Las cuatro formas de entrar
+GJ+ ES · J17 - Puedes entrar sin hacer un juego
 https://gamejamplus-carrosseis.vercel.app/p/j17-es/
 
 GJ+ PT · J18 - O que voce entrega no domingo

@@ -1538,10 +1538,10 @@ window.LEGENDAS = {
 },
 
 "gj-j17": {
-  "titulo": "J17 · The four ways in",
+  "titulo": "J17 · You can join without making a game",
   "p": [
-    "There are four doors into the 11th edition and only one asks for a game. Jammer builds one in 48 hours, local organizer opens the venue, volunteer joins the global staff, partner puts a brand inside 50 countries.",
-    "Volunteer and partner are the two nobody talks about, and they need no game at all. Drop which of the four you would come in through. 11th edition sign-up in the link in bio."
+    "There are two doors open in the 11th edition and only one asks for a game. As a jammer you build one from scratch in 48 hours, in a team of 3 to 6 people, and from beginner to senior everyone fits. As a volunteer you join the global staff, in communication, judging, tech support and operations, without writing a line of code.",
+    "Drop which of the two you would take. Jammer sign-up for the 11th edition is open, it is free, and you do it through the link in bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
@@ -1556,10 +1556,10 @@ window.LEGENDAS = {
 },
 
 "gj-j17-es": {
-  "titulo": "J17 · Las cuatro formas de entrar",
+  "titulo": "J17 · Puedes entrar sin hacer un juego",
   "p": [
-    "Son cuatro puertas en la 11ª edición y solo una pide un juego. Jammer hace uno en 48 horas, organizador local abre la sede, voluntario entra en la staff global y partner pone la marca dentro de 50 países.",
-    "Voluntario y partner son las dos de las que nadie habla, y ninguna pide juego. Comenta por cuál de las cuatro entrarías. Inscripción de la 11ª edición en el link de la bio."
+    "Son dos puertas abiertas en la 11ª edición y solo una pide un juego. Como jammer creas uno desde cero en 48 horas, en equipo de 3 a 6 personas, y de principiante a sénior entran todos. Como voluntario entras en la staff global, en comunicación, jurados, soporte técnico y operaciones, sin escribir una línea de código.",
+    "Cuenta por cuál de las dos entrarías. La inscripción de jammer de la 11ª edición está abierta, es gratis y la haces por el link de la bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
