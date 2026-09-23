@@ -1622,7 +1622,7 @@ window.LEGENDAS = {
   "titulo": "C07 · Three GJ+ games on sale right now",
   "p": [
     "The Chef's Shift came out of GameJamPlus Indonesia 2022 and sits at 97% of 1,923 reviews on Steam. Hellbrella came out of GJ+ 24/25 and sold 3 thousand copies in under 3 weeks through GoGo Games. Mix It! landed public funding from Fondo El Fauno in Costa Rica.",
-    "None of the three existed on a Friday night. Drop whether you have played any of them. 11th edition sign-up in the link in bio."
+    "None of the three existed on a Friday night. They became a prototype in 48 hours at a local venue, and what came after is the six month journey the jam opens for every team that delivers. Drop whether you have played any of them. Jammer sign-up for the 11th edition is free and it is in the link in bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
@@ -1631,7 +1631,7 @@ window.LEGENDAS = {
   "titulo": "C07 · Três jogos da GJ+ que estão à venda agora",
   "p": [
     "The Chef's Shift saiu da GameJamPlus Indonésia 2022 e está com 97% de 1.923 avaliações na Steam. A Hellbrella saiu da GJ+ 24/25 e vendeu 3 mil cópias em menos de 3 semanas pela GoGo Games. O Mix It! foi aprovado no Fondo El Fauno, na Costa Rica.",
-    "Nenhum dos três existia numa sexta à noite. Comenta se você já jogou algum deles. Inscrição da 11ª edição no link da bio."
+    "Nenhum dos três existia numa sexta à noite. Viraram protótipo em 48 horas numa sede local, e o que veio depois é a jornada de seis meses que a jam abre pra todo time que entrega. Comenta se você já jogou algum deles. A inscrição de jammer da 11ª edição é grátis e está no link da bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
@@ -1640,7 +1640,7 @@ window.LEGENDAS = {
   "titulo": "C07 · Tres juegos de la GJ+ a la venta ahora",
   "p": [
     "The Chef's Shift salió de GameJamPlus Indonesia 2022 y está con 97% de 1.923 reseñas en Steam. Hellbrella salió de la GJ+ 24/25 y vendió 3 mil copias en menos de 3 semanas por GoGo Games. Mix It! consiguió fondos del Fondo El Fauno, en Costa Rica.",
-    "Ninguno de los tres existía un viernes por la noche. Comenta si jugaste alguno. Inscripción de la 11ª edición en el link de la bio."
+    "Ninguno de los tres existía un viernes por la noche. Se volvieron prototipo en 48 horas en una sede local, y lo que vino después es el recorrido de seis meses que la jam abre para todo equipo que entrega. Comenta si jugaste alguno. La inscripción de jammer de la 11ª edición es gratis y está en el link de la bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
