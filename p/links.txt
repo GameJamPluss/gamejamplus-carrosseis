@@ -807,3 +807,6 @@ https://gamejamplus-carrosseis.vercel.app/p/e20-en/
 
 GJ+ ES · E20 - Quien juzga tu juego
 https://gamejamplus-carrosseis.vercel.app/p/e20-es/
+
+GJ+ PT · E21 - A jam começou
+https://gamejamplus-carrosseis.vercel.app/p/e21-pt/
