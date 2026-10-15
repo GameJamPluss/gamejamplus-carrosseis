@@ -1693,10 +1693,10 @@ window.LEGENDAS = {
 "gj-e21-pt": {
   "titulo": "E21 · A jam começou",
   "p": [
-    "A abertura acontece hoje na sua sede, e os três temas são revelados ali. A build vai pro itch.io até domingo às 23h59 e o pitch vai pro YouTube até terça, no horário local. Vale qualquer engine e qualquer asset com licença, o jogo nasce do zero e a propriedade intelectual fica com quem fez. Quem entregar os dois e marcar que quer continuar segue pra Incubação, que começa na quarta, 21.",
-    "Comenta de qual sede você está participando e mostra o fim de semana do seu time com #gameplusone, do rascunho à build. Boa jam pra todo mundo."
+    "Os três temas e as categorias desta edição estão no vídeo da nossa keynote. A abertura acontece hoje na sua sede, a build vai pro itch.io até domingo às 23h59 e o pitch vai pro YouTube até terça, no horário local. Vale qualquer engine e qualquer asset com licença, o jogo nasce do zero e a propriedade intelectual fica com quem fez. Quem entregar os dois e marcar que quer continuar segue pra Incubação, que começa na quarta, 21.",
+    "Comenta de qual sede você está participando e mostra o fim de semana do seu time com #beourplusone, do rascunho à build. Boa jam pra todo mundo."
   ],
-  "tags": "#GameJamPlus #GamePlusOne #GameJam #GameDev #IndieDev #IndieGames"
+  "tags": "#GameJamPlus #BeOurPlusOne #GameJam #GameDev #IndieDev #IndieGames"
 },
 
 "gj-e20-es": {
