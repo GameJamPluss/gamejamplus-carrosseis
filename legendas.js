@@ -1690,6 +1690,24 @@ window.LEGENDAS = {
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
 
+"gj-e21": {
+  "titulo": "E21 · The jam is on",
+  "p": [
+    "The three themes and this edition's categories are in our Keynote. Opening happens today at your venue, the build goes on itch.io by Sunday at 11:59 p.m. and the pitch goes on YouTube by Tuesday, local time. Any engine and any asset with a license are allowed, the game is made from scratch and the intellectual property stays with whoever made it. Teams that deliver both and mark that they want to keep going move on to Incubation, which starts Wednesday the 21st.",
+    "Tell us in the comments which venue you're joining, and show your team's weekend with #beourplusone, from the rough draft to the build. Have a great jam, everyone."
+  ],
+  "tags": "#GameJamPlus #BeOurPlusOne #GameJam #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e21-es": {
+  "titulo": "E21 · La jam empezó",
+  "p": [
+    "Los tres temas y las categorías de esta edición están en nuestro Keynote. La apertura es hoy en tu sede, la build va a itch.io hasta el domingo a las 23:59 y el pitch va a YouTube hasta el martes, en hora local. Vale cualquier engine y cualquier asset con licencia, el juego nace desde cero y la propiedad intelectual es de quien lo hizo. Quien entregue los dos y marque que quiere seguir pasa a la Incubación, que empieza el miércoles 21.",
+    "Cuéntanos en los comentarios en qué sede participas y muestra el fin de semana de tu equipo con #beourplusone, del borrador a la build. Buena jam para todo el mundo."
+  ],
+  "tags": "#GameJamPlus #BeOurPlusOne #GameJam #GameDev #IndieDev #IndieGames"
+},
+
 "gj-e21-pt": {
   "titulo": "E21 · A jam começou",
   "p": [

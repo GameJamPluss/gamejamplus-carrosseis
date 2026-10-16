@@ -810,3 +810,9 @@ https://gamejamplus-carrosseis.vercel.app/p/e20-es/
 
 GJ+ PT · E21 - A jam começou
 https://gamejamplus-carrosseis.vercel.app/p/e21-pt/
+
+GJ+ EN · E21 - The jam is on
+https://gamejamplus-carrosseis.vercel.app/p/e21-en/
+
+GJ+ ES · E21 - La jam empezó
+https://gamejamplus-carrosseis.vercel.app/p/e21-es/
