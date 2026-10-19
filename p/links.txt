@@ -816,3 +816,84 @@ https://gamejamplus-carrosseis.vercel.app/p/e21-en/
 
 GJ+ ES · E21 - La jam empezó
 https://gamejamplus-carrosseis.vercel.app/p/e21-es/
+
+GJ+ PT · E23 - Pitch vale metade da nota
+https://gamejamplus-carrosseis.vercel.app/p/e23-pt/
+
+GJ+ EN · E23 - Pitch is half the score
+https://gamejamplus-carrosseis.vercel.app/p/e23-en/
+
+GJ+ ES · E23 - El pitch es la mitad de la nota
+https://gamejamplus-carrosseis.vercel.app/p/e23-es/
+
+GJ+ PT · E24 - Último dia do pitch
+https://gamejamplus-carrosseis.vercel.app/p/e24-pt/
+
+GJ+ EN · E24 - Last day for the pitch
+https://gamejamplus-carrosseis.vercel.app/p/e24-en/
+
+GJ+ ES · E24 - Último día del pitch
+https://gamejamplus-carrosseis.vercel.app/p/e24-es/
+
+GJ+ PT · E25 - Amanhã começa o Playtest Spcine
+https://gamejamplus-carrosseis.vercel.app/p/e25-pt/
+
+GJ+ EN · E25 - Playtest Spcine starts tomorrow
+https://gamejamplus-carrosseis.vercel.app/p/e25-en/
+
+GJ+ ES · E25 - Mañana empieza el Playtest Spcine
+https://gamejamplus-carrosseis.vercel.app/p/e25-es/
+
+GJ+ PT · E26 - O Playtest começou
+https://gamejamplus-carrosseis.vercel.app/p/e26-pt/
+
+GJ+ EN · E26 - Playtest is live
+https://gamejamplus-carrosseis.vercel.app/p/e26-en/
+
+GJ+ ES · E26 - Empezó el Playtest
+https://gamejamplus-carrosseis.vercel.app/p/e26-es/
+
+GJ+ PT · E27 - Feedback bom tem método
+https://gamejamplus-carrosseis.vercel.app/p/e27-pt/
+
+GJ+ EN · E27 - Good feedback has a method
+https://gamejamplus-carrosseis.vercel.app/p/e27-en/
+
+GJ+ ES · E27 - El buen feedback tiene método
+https://gamejamplus-carrosseis.vercel.app/p/e27-es/
+
+GJ+ PT · E28 - Olha o jogador, não o jogo
+https://gamejamplus-carrosseis.vercel.app/p/e28-pt/
+
+GJ+ EN · E28 - Watch the player, not the game
+https://gamejamplus-carrosseis.vercel.app/p/e28-en/
+
+GJ+ ES · E28 - Mira al jugador, no al juego
+https://gamejamplus-carrosseis.vercel.app/p/e28-es/
+
+GJ+ PT · E29 - Reta final, faltam 3 dias
+https://gamejamplus-carrosseis.vercel.app/p/e29-pt/
+
+GJ+ EN · E29 - Final stretch, 3 days left
+https://gamejamplus-carrosseis.vercel.app/p/e29-en/
+
+GJ+ ES · E29 - Recta final, faltan 3 días
+https://gamejamplus-carrosseis.vercel.app/p/e29-es/
+
+GJ+ PT · E30 - Acaba amanhã
+https://gamejamplus-carrosseis.vercel.app/p/e30-pt/
+
+GJ+ EN · E30 - Ends tomorrow
+https://gamejamplus-carrosseis.vercel.app/p/e30-en/
+
+GJ+ ES · E30 - Termina mañana
+https://gamejamplus-carrosseis.vercel.app/p/e30-es/
+
+GJ+ PT · E31 - Último dia do Playtest
+https://gamejamplus-carrosseis.vercel.app/p/e31-pt/
+
+GJ+ EN · E31 - Last day of the Playtest
+https://gamejamplus-carrosseis.vercel.app/p/e31-en/
+
+GJ+ ES · E31 - Último día del Playtest
+https://gamejamplus-carrosseis.vercel.app/p/e31-es/

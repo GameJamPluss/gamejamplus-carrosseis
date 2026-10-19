@@ -1690,6 +1690,276 @@ window.LEGENDAS = {
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
 },
 
+"gj-e23-pt": {
+  "titulo": "E23 · Pitch vale metade da nota",
+  "p": [
+    "Na GameJamPlus a nota é metade build, metade pitch. A build mostra o jogo. O pitch mostra por que ele merece continuar.",
+    "O guia oficial pede de 3 a 5 minutos, pelo menos legenda em inglês e gameplay rodando na tela. O júri procura quatro respostas: o que torna o jogo único, pra quem ele é, quem são os concorrentes e quem é o time. Orçamento em três cenários e contato no último slide fecham o vídeo.",
+    "O prazo é amanhã, terça, 20/10, às 23h59 no horário local. Salva este post e manda no grupo do time antes de gravar."
+  ],
+  "tags": "#GameJamPlus #BeOurPlusOne #GameJam #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e23": {
+  "titulo": "E23 · Pitch is half the score",
+  "p": [
+    "At GameJamPlus the score is half build, half pitch. The build shows the game. The pitch shows why it deserves to keep going.",
+    "The official guide asks for 3 to 5 minutes, at least English subtitles and real gameplay on screen. The jury looks for four answers: what makes the game unique, who it's for, who the competitors are and who's on the team. A budget in three scenarios and your contacts on the last slide close the video.",
+    "The deadline is tomorrow, Tuesday, Oct 20, at 11:59 p.m. local time. Save this post and drop it in your team chat before you hit record."
+  ],
+  "tags": "#GameJamPlus #BeOurPlusOne #GameJam #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e23-es": {
+  "titulo": "E23 · El pitch es la mitad de la nota",
+  "p": [
+    "En GameJamPlus la nota es mitad build, mitad pitch. La build muestra el juego. El pitch muestra por qué merece seguir.",
+    "La guía oficial pide de 3 a 5 minutos, al menos subtítulos en inglés y gameplay real en pantalla. El jurado busca cuatro respuestas: qué hace único al juego, para quién es, quiénes son los competidores y quién forma el equipo. Un presupuesto en tres escenarios y el contacto en la última diapositiva cierran el video.",
+    "El plazo es mañana, martes 20/10, a las 23:59 hora local. Guarda este post y mándalo al grupo de tu equipo antes de grabar."
+  ],
+  "tags": "#GameJamPlus #BeOurPlusOne #GameJam #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e24-pt": {
+  "titulo": "E24 · Último dia do pitch",
+  "p": [
+    "Hoje é o último dia pra entregar o pitch, até 23h59 no horário local da sua sede. Algumas sedes pedem antes, então confere com quem organiza a sua.",
+    "Antes de subir: vídeo de 3 a 5 minutos, legenda em inglês, gameplay de verdade e contato no último slide. No YouTube ele vai como não listado, com o título GJ+ 26/27 - Game Jam Submission - Nome do Jogo - Nome do Time. No Hero Hub entram o link da build, o link do pitch, as categorias e a confirmação de que o time segue pra Incubação.",
+    "Entregou? Comenta \"enviado\" aqui embaixo e diz de qual sede é o seu time."
+  ],
+  "tags": "#GameJamPlus #BeOurPlusOne #GameJam #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e24": {
+  "titulo": "E24 · Last day for the pitch",
+  "p": [
+    "Today is the last day to submit your pitch, until 11:59 p.m. local time at your venue. Some venues ask for it earlier, so check with whoever runs yours.",
+    "Before uploading: a 3 to 5 minute video, English subtitles, real gameplay and contacts on the last slide. It goes on YouTube as unlisted, titled GJ+ 26/27 - Game Jam Submission - Game Name - Team Name. On Hero Hub you add the build link, the pitch link, the categories and the confirmation that your team moves on to Incubation.",
+    "Done? Comment \"sent\" below and tell us which venue your team is from."
+  ],
+  "tags": "#GameJamPlus #BeOurPlusOne #GameJam #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e24-es": {
+  "titulo": "E24 · Último día del pitch",
+  "p": [
+    "Hoy es el último día para entregar el pitch, hasta las 23:59 hora local de tu sede. Algunas sedes lo piden antes, así que confirma con quien organiza la tuya.",
+    "Antes de subir: video de 3 a 5 minutos, subtítulos en inglés, gameplay real y contacto en la última diapositiva. En YouTube va como no listado, con el título GJ+ 26/27 - Game Jam Submission - Nombre del Juego - Nombre del Equipo. En el Hero Hub van el link de la build, el link del pitch, las categorías y la confirmación de que el equipo sigue a la Incubación.",
+    "¿Ya entregaste? Comenta \"enviado\" aquí abajo y cuéntanos de qué sede es tu equipo."
+  ],
+  "tags": "#GameJamPlus #BeOurPlusOne #GameJam #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e25-pt": {
+  "titulo": "E25 · Amanhã começa o Playtest Spcine",
+  "p": [
+    "Amanhã abre o Playtest Spcine. De 21/10 a 02/11, os jogos feitos na jam ficam na mão de quem joga, e quem fez recebe feedback de verdade antes de começar a melhorar o jogo.",
+    "Nas sextas 23 e 30 tem live no YouTube jogando os jogos da galera. E os destaques do Playtest entram na premiação da Incubação, com vencedores anunciados nas Semifinais Continentais.",
+    "Já coloca na agenda: quarta abre, sexta tem live, segunda, 02/11, fecha. Chama o time e separa um tempo pra jogar."
+  ],
+  "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e25": {
+  "titulo": "E25 · Playtest Spcine starts tomorrow",
+  "p": [
+    "Playtest Spcine opens tomorrow. From Oct 21 to Nov 2, the games made at the jam are in players' hands, and the people who made them get real feedback before they start improving the game.",
+    "On Fridays, Oct 23 and 30, there's a YouTube live playing the community's games. And the Playtest standouts are part of the Incubation awards, with winners announced at the Continental Semifinals.",
+    "Put it in your calendar: it opens Wednesday, there's a live on Friday and it closes Monday, Nov 2. Get your team together and save some time to play."
+  ],
+  "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e25-es": {
+  "titulo": "E25 · Mañana empieza el Playtest Spcine",
+  "p": [
+    "Mañana abre el Playtest Spcine. Del 21/10 al 02/11, los juegos hechos en la jam quedan en manos de quien juega, y quien los hizo recibe feedback real antes de empezar a mejorar el juego.",
+    "Los viernes 23 y 30 hay live en YouTube jugando los juegos de la comunidad. Y los destacados del Playtest forman parte de los premios de la Incubación, con ganadores anunciados en las Semifinales Continentales.",
+    "Anótalo en la agenda: abre el miércoles, el viernes hay live y cierra el lunes 02/11. Junta a tu equipo y aparta un tiempo para jugar."
+  ],
+  "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e26-pt": {
+  "titulo": "E26 · O Playtest começou",
+  "p": [
+    "Começou o Playtest Spcine. São 13 dias, até segunda, 02/11, pra jogar, avaliar e ouvir o que falaram do seu jogo.",
+    "A jam rodou em sedes de vários países no mesmo fim de semana, e jogar o jogo de quem você não conhece é o jeito mais rápido de ver o que dá pra fazer em 48 horas. Sexta, 23/10, a gente joga ao vivo no YouTube e o seu jogo pode aparecer.",
+    "Conta nos comentários de qual sede é o primeiro jogo que você vai abrir."
+  ],
+  "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e26": {
+  "titulo": "E26 · Playtest is live",
+  "p": [
+    "Playtest Spcine is live. 13 days, until Monday, Nov 2, to play, rate and hear what people think of your game.",
+    "The jam ran at venues in several countries on the same weekend, and playing a game by people you don't know is the fastest way to see what can be done in 48 hours. On Friday, Oct 23, we play live on YouTube and your game could show up.",
+    "Tell us in the comments which venue the first game you'll open comes from."
+  ],
+  "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e26-es": {
+  "titulo": "E26 · Empezó el Playtest",
+  "p": [
+    "Empezó el Playtest Spcine. Son 13 días, hasta el lunes 02/11, para jugar, evaluar y escuchar lo que dicen de tu juego.",
+    "La jam se hizo en sedes de varios países el mismo fin de semana, y jugar el juego de alguien que no conoces es la forma más rápida de ver lo que se puede hacer en 48 horas. El viernes 23/10 jugamos en vivo en YouTube y tu juego puede aparecer.",
+    "Cuéntanos en los comentarios de qué sede es el primer juego que vas a abrir."
+  ],
+  "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e27-pt": {
+  "titulo": "E27 · Feedback bom tem método",
+  "p": [
+    "\"Achei chato\" não ajuda ninguém. \"No nível 2 não achei a saída e desisti\" ajuda o time inteiro.",
+    "Quatro regras antes de comentar: fala do que você sentiu, aponta o momento exato, separa bug de opinião e termina com uma coisa que funcionou. E quando o feedback é sobre o seu jogo, lê tudo e responde depois. Três pessoas travando no mesmo lugar é sinal, uma só é opinião.",
+    "Faltam 9 dias de Playtest Spcine. Salva as quatro regras e usa no próximo jogo que você avaliar."
+  ],
+  "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e27": {
+  "titulo": "E27 · Good feedback has a method",
+  "p": [
+    "\"It was boring\" helps no one. \"On level 2 I couldn't find the exit and gave up\" helps the whole team.",
+    "Four rules before you comment: say what you felt, point to the exact moment, separate bugs from opinions and end with something that worked. And when the feedback is about your game, read it all and reply later. Three people stuck in the same spot is a signal, one is an opinion.",
+    "9 days of Playtest Spcine left. Save these four rules and use them on the next game you rate."
+  ],
+  "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e27-es": {
+  "titulo": "E27 · El buen feedback tiene método",
+  "p": [
+    "\"Me aburrió\" no ayuda a nadie. \"En el nivel 2 no encontré la salida y lo dejé\" ayuda a todo el equipo.",
+    "Cuatro reglas antes de comentar: di lo que sentiste, señala el momento exacto, separa bug de opinión y termina con algo que funcionó. Y cuando el feedback es sobre tu juego, lee todo y responde después. Tres personas trabadas en el mismo lugar es una señal, una sola es una opinión.",
+    "Faltan 9 días de Playtest Spcine. Guarda estas cuatro reglas y úsalas en el próximo juego que evalúes."
+  ],
+  "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e28-pt": {
+  "titulo": "E28 · Olha o jogador, não o jogo",
+  "p": [
+    "Esse é pra quem fez o jogo. No playtest, o que importa é o que a pessoa faz, não o que você queria que ela fizesse.",
+    "Anota onde ela parou de jogar, o que tentou e o jogo não deixou, quanto tempo levou pra entender o objetivo e onde riu ou xingou. Se precisou explicar, o jogo não explicou. Depois junta tudo numa lista, ordena pelo que mais aparece e leva pra próxima fase da Incubação.",
+    "Sexta, 30/10, tem live de novo e o Playtest vai até segunda, 02/11. Manda este post pra quem cuida do game design no seu time."
+  ],
+  "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e28": {
+  "titulo": "E28 · Watch the player, not the game",
+  "p": [
+    "This one is for the people who made the game. In a playtest, what matters is what the player does, not what you wanted them to do.",
+    "Note where they stopped playing, what they tried and the game didn't allow, how long it took to get the goal and where they laughed or swore. If you had to explain it, the game didn't. Then put it all in a list, sort it by what shows up most and take it to the next phase of Incubation.",
+    "Another live this Friday, Oct 30, and the Playtest runs until Monday, Nov 2. Send this post to whoever handles game design on your team."
+  ],
+  "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e28-es": {
+  "titulo": "E28 · Mira al jugador, no al juego",
+  "p": [
+    "Este es para quien hizo el juego. En un playtest, lo que importa es lo que la persona hace, no lo que tú querías que hiciera.",
+    "Anota dónde dejó de jugar, qué intentó y el juego no le dejó, cuánto tardó en entender el objetivo y dónde se rió o se enojó. Si tuviste que explicar, el juego no explicó. Después junta todo en una lista, ordénala por lo que más aparece y llévala a la próxima fase de la Incubación.",
+    "El viernes 30/10 hay live otra vez y el Playtest va hasta el lunes 02/11. Manda este post a quien se encarga del game design en tu equipo."
+  ],
+  "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e29-pt": {
+  "titulo": "E29 · Reta final, faltam 3 dias",
+  "p": [
+    "Faltam 3 dias de Playtest Spcine, e os destaques entram na premiação da Incubação, com vencedores anunciados nas Semifinais Continentais.",
+    "Pra fechar bem o fim de semana: joga o que ficou pra depois, responde quem jogou o seu e chama quem ainda não jogou, do seu time e da sua sede. Fecha segunda, 02/11.",
+    "Posta o seu jogo com #beourplusone, que a gente quer ver o que saiu de cada sede."
+  ],
+  "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e29": {
+  "titulo": "E29 · Final stretch, 3 days left",
+  "p": [
+    "3 days of Playtest Spcine left, and the standouts are part of the Incubation awards, with winners announced at the Continental Semifinals.",
+    "To close the weekend well: play the games you left for later, reply to the people who played yours and call those who haven't played yet, from your team and your venue. Closes Monday, Nov 2.",
+    "Post your game with #beourplusone, we want to see what came out of every venue."
+  ],
+  "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e29-es": {
+  "titulo": "E29 · Recta final, faltan 3 días",
+  "p": [
+    "Faltan 3 días de Playtest Spcine, y los destacados forman parte de los premios de la Incubación, con ganadores anunciados en las Semifinales Continentales.",
+    "Para cerrar bien el fin de semana: juega lo que dejaste para después, responde a quien jugó el tuyo y llama a quien todavía no jugó, de tu equipo y de tu sede. Cierra el lunes 02/11.",
+    "Publica tu juego con #beourplusone, queremos ver lo que salió de cada sede."
+  ],
+  "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e30-pt": {
+  "titulo": "E30 · Acaba amanhã",
+  "p": [
+    "Último domingo do Playtest Spcine. Amanhã, segunda, 02/11, fecha.",
+    "Checklist antes de fechar: jogou pelo menos um jogo de outra sede? Deixou feedback em cada jogo que jogou? Leu tudo que falaram do seu? Anotou o que muda no jogo? Se faltou algum, hoje ainda dá tempo.",
+    "E conta aqui: qual feedback mais mudou o jeito que você vê o seu jogo?"
+  ],
+  "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e30": {
+  "titulo": "E30 · Ends tomorrow",
+  "p": [
+    "Last Sunday of Playtest Spcine. It closes tomorrow, Monday, Nov 2.",
+    "Checklist before it closes: played at least one game from another venue? Left feedback on every game you played? Read everything people said about yours? Wrote down what changes in your game? If one is missing, there's still time today.",
+    "And tell us: which piece of feedback changed the way you see your game the most?"
+  ],
+  "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e30-es": {
+  "titulo": "E30 · Termina mañana",
+  "p": [
+    "Último domingo del Playtest Spcine. Mañana, lunes 02/11, cierra.",
+    "Checklist antes del cierre: ¿jugaste al menos un juego de otra sede? ¿Dejaste feedback en cada juego que jugaste? ¿Leíste todo lo que dijeron del tuyo? ¿Anotaste lo que cambia en tu juego? Si falta alguno, hoy todavía hay tiempo.",
+    "Y cuéntanos: ¿qué feedback cambió más la forma en que ves tu juego?"
+  ],
+  "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e31-pt": {
+  "titulo": "E31 · Último dia do Playtest",
+  "p": [
+    "Hoje é o último dia do Playtest Spcine. Cada feedback deixado nesses 13 dias ajuda um time a fazer um jogo melhor.",
+    "Na quinta, 05/11, começa o acompanhamento técnico da Incubação, que vai até 17/12. É ali que o feedback vira jogo. Depois vêm as Semifinais Continentais e a Final em São Paulo, em 20 de abril de 2027.",
+    "Valeu a quem jogou e avaliou, e obrigado à Spcine por fazer o Playtest acontecer. A próxima parada é a Incubação, acompanha cada etapa com a gente."
+  ],
+  "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e31": {
+  "titulo": "E31 · Last day of the Playtest",
+  "p": [
+    "Today is the last day of Playtest Spcine. Every piece of feedback left in these 13 days helps a team make a better game.",
+    "On Thursday, Nov 5, technical guidance starts in Incubation, which runs until Dec 17. That's where the feedback turns into the game. Then come the Continental Semifinals and the Final in São Paulo, on April 20, 2027.",
+    "Thanks to everyone who played and rated, and thank you, Spcine, for making the Playtest happen. Next stop is Incubation, follow every step with us."
+  ],
+  "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e31-es": {
+  "titulo": "E31 · Último día del Playtest",
+  "p": [
+    "Hoy es el último día del Playtest Spcine. Cada feedback que se dejó en estos 13 días ayuda a un equipo a hacer un juego mejor.",
+    "El jueves 05/11 empieza el acompañamiento técnico de la Incubación, que va hasta el 17/12. Ahí el feedback se convierte en juego. Después vienen las Semifinales Continentales y la Final en São Paulo, el 20 de abril de 2027.",
+    "Gracias a quien jugó y evaluó, y gracias, Spcine, por hacer posible el Playtest. La próxima parada es la Incubación, sigue cada etapa con nosotros."
+  ],
+  "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
 "gj-e21": {
   "titulo": "E21 · The jam is on",
   "p": [
