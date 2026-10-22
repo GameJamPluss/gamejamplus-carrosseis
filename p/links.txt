@@ -915,3 +915,21 @@ https://gamejamplus-carrosseis.vercel.app/p/e33-en/
 
 GJ+ ES · E33 - Nogap Experts entró al juego
 https://gamejamplus-carrosseis.vercel.app/p/e33-es/
+
+GJ+ PT · E34 - Nossa nova parceira, a Xsolla
+https://gamejamplus-carrosseis.vercel.app/p/e34-pt/
+
+GJ+ EN · E34 - Our newest partner, Xsolla
+https://gamejamplus-carrosseis.vercel.app/p/e34-en/
+
+GJ+ ES · E34 - Nuestra nueva aliada, Xsolla
+https://gamejamplus-carrosseis.vercel.app/p/e34-es/
+
+GJ+ PT · E35 - Nogap Experts, nova parceira da GJ+
+https://gamejamplus-carrosseis.vercel.app/p/e35-pt/
+
+GJ+ EN · E35 - Nogap Experts, new GJ+ partner
+https://gamejamplus-carrosseis.vercel.app/p/e35-en/
+
+GJ+ ES · E35 - Nogap Experts, nueva aliada de GJ+
+https://gamejamplus-carrosseis.vercel.app/p/e35-es/

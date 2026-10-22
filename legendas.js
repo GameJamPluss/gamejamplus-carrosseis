@@ -2054,5 +2054,65 @@ window.LEGENDAS = {
     "Cuéntanos en los comentarios cuál de estos jefes ya enfrentó tu equipo."
   ],
   "tags": "#GameJamPlus #NogapExperts #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e34-pt": {
+  "titulo": "E34 · Nossa nova parceira, a Xsolla",
+  "p": [
+    "A Xsolla é parceira da 11ª edição da GameJamPlus. A empresa trabalha há mais de 20 anos só com a indústria de games e cuida do caminho entre o jogo e quem joga, com pagamentos, lojas próprias e distribuição em mais de 200 países e regiões.",
+    "Na prática, é a estrutura que permite a um estúdio vender direto ao jogador, receber no método de pagamento de cada país, em mais de 130 moedas, e chegar a criadores de conteúdo que divulgam o jogo. Muito projeto que nasce numa sede da GJ+ segue até a Aceleração, a etapa em que o jogo vira negócio, e é nesse momento que esse tipo de conhecimento passa a fazer diferença.",
+    "Conta nos comentários em qual país você gostaria de ver o seu jogo sendo jogado."
+  ],
+  "tags": "#GameJamPlus #Xsolla #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e34": {
+  "titulo": "E34 · Our newest partner, Xsolla",
+  "p": [
+    "Xsolla is a partner of the 11th edition of GameJamPlus. For more than 20 years the company has worked only with the games industry, handling the path between a game and the people who play it, with payments, web stores and distribution in more than 200 countries and regions.",
+    "In practice, it is the structure that lets a studio sell straight to players, get paid through each country's payment methods, in more than 130 currencies, and reach content creators who spread the game. Many projects born at a GJ+ venue go on to Acceleration, the stage where the game becomes a business, and that is when this kind of knowledge starts to make a difference.",
+    "Tell us in the comments which country you would love to see your game played in."
+  ],
+  "tags": "#GameJamPlus #Xsolla #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e34-es": {
+  "titulo": "E34 · Nuestra nueva aliada, Xsolla",
+  "p": [
+    "Xsolla es aliada de la 11ª edición de GameJamPlus. La empresa trabaja hace más de 20 años solo con la industria de los videojuegos y se encarga del camino entre el juego y quien lo juega, con pagos, tiendas propias y distribución en más de 200 países y regiones.",
+    "En la práctica, es la estructura que permite a un estudio vender directo al jugador, cobrar con los métodos de pago de cada país, en más de 130 monedas, y llegar a creadores de contenido que difunden el juego. Muchos proyectos que nacen en una sede de GJ+ siguen hasta la Aceleración, la etapa en la que el juego se vuelve negocio, y es en ese momento que este tipo de conocimiento empieza a marcar la diferencia.",
+    "Cuéntanos en los comentarios en qué país te gustaría ver tu juego."
+  ],
+  "tags": "#GameJamPlus #Xsolla #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e35-pt": {
+  "titulo": "E35 · Nogap Experts, nova parceira da GJ+",
+  "p": [
+    "A Nogap Experts é parceira da 11ª edição da GameJamPlus. É um escritório de contabilidade especializado no mercado de games, com sede em São Paulo e filiais em Santos e Orlando, que atende estúdios, publishers e profissionais criativos.",
+    "O trabalho dela é cuidar da parte que nenhuma jam treina, como a tributação de royalties, DLCs e microtransações, a conciliação das vendas na Steam, na Epic e na PS Store, a estrutura da empresa e a prestação de contas de editais e leis de incentivo. É o tipo de assunto que aparece quando o projeto começa a virar estúdio, e que pouca gente aprende antes de precisar.",
+    "Comenta qual dessas partes mais trava o seu time hoje."
+  ],
+  "tags": "#GameJamPlus #NogapExperts #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e35": {
+  "titulo": "E35 · Nogap Experts, new GJ+ partner",
+  "p": [
+    "Nogap Experts is a partner of the 11th edition of GameJamPlus. It is an accounting firm specialized in the games market, based in São Paulo with offices in Santos and Orlando, serving studios, publishers and creative professionals.",
+    "Its work covers the part no jam trains you for, like taxes on royalties, DLCs and microtransactions, reconciling sales on Steam, Epic and PS Store, company structure and reporting for grants and incentive laws. It is the kind of subject that shows up when a project starts turning into a studio, and that few people learn before they need it.",
+    "Tell us in the comments which of these parts slows your team down the most today."
+  ],
+  "tags": "#GameJamPlus #NogapExperts #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e35-es": {
+  "titulo": "E35 · Nogap Experts, nueva aliada de GJ+",
+  "p": [
+    "Nogap Experts es aliada de la 11ª edición de GameJamPlus. Es un estudio contable especializado en el mercado de los videojuegos, con sede en São Paulo y oficinas en Santos y Orlando, que atiende a estudios, publishers y profesionales creativos.",
+    "Su trabajo cubre la parte que ninguna jam entrena, como los impuestos sobre royalties, DLCs y microtransacciones, la conciliación de ventas en Steam, Epic y PS Store, la estructura de la empresa y la rendición de cuentas de fondos públicos y leyes de incentivo. Es el tipo de tema que aparece cuando el proyecto empieza a convertirse en estudio, y que poca gente aprende antes de necesitarlo.",
+    "Cuéntanos en los comentarios cuál de estas partes frena más a tu equipo hoy."
+  ],
+  "tags": "#GameJamPlus #NogapExperts #BeOurPlusOne #GameDev #IndieDev #IndieGames"
 }
 };
