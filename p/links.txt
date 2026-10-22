@@ -897,3 +897,21 @@ https://gamejamplus-carrosseis.vercel.app/p/e31-en/
 
 GJ+ ES · E31 - Último día del Playtest
 https://gamejamplus-carrosseis.vercel.app/p/e31-es/
+
+GJ+ PT · E32 - Xsolla no time da GJ+
+https://gamejamplus-carrosseis.vercel.app/p/e32-pt/
+
+GJ+ EN · E32 - Xsolla joins the GJ+ team
+https://gamejamplus-carrosseis.vercel.app/p/e32-en/
+
+GJ+ ES · E32 - Xsolla se une al equipo GJ+
+https://gamejamplus-carrosseis.vercel.app/p/e32-es/
+
+GJ+ PT · E33 - Nogap Experts entrou no jogo
+https://gamejamplus-carrosseis.vercel.app/p/e33-pt/
+
+GJ+ EN · E33 - Nogap Experts joins the game
+https://gamejamplus-carrosseis.vercel.app/p/e33-en/
+
+GJ+ ES · E33 - Nogap Experts entró al juego
+https://gamejamplus-carrosseis.vercel.app/p/e33-es/

@@ -1994,5 +1994,65 @@ window.LEGENDAS = {
     "Quien llega a la Final Global presenta ante quien firma contratos. Comenta qué te da más miedo, mostrar el juego o hablar de él. Inscripción de la 11ª edición en el link de la bio."
   ],
   "tags": "#GameJamPlus #GameJam #GameDev #IndieDev #IndieGames #GameDevCommunity"
+},
+
+"gj-e32-pt": {
+  "titulo": "E32 · Xsolla no time da GJ+",
+  "p": [
+    "A Xsolla é patrocinadora da 11ª edição da GameJamPlus. Há mais de 20 anos a empresa cria ferramentas e serviços só para a indústria de jogos, e opera em mais de 200 países e regiões, com mais de 1.000 formas de pagamento e 130 moedas.",
+    "Na jornada da GJ+, a Aceleração é a etapa em que o jogo vira negócio, com monetização, financiamento e distribuição na mesa. É nesse terreno que a Xsolla trabalha todo dia, da loja própria do jogo à rede de criadores que ajuda a divulgar.",
+    "Manda esse post pra quem cuida da parte de negócio no seu time."
+  ],
+  "tags": "#GameJamPlus #Xsolla #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e32": {
+  "titulo": "E32 · Xsolla joins the GJ+ team",
+  "p": [
+    "Xsolla is a sponsor of the 11th edition of GameJamPlus. For over 20 years the company has built tools and services only for the games industry, and it operates in 200+ countries and regions with 1,000+ payment methods and 130+ currencies.",
+    "In the GJ+ journey, Acceleration is the stage where the game becomes a business, with monetization, funding and distribution on the table. That is the ground Xsolla works on every day, from a game's own web shop to the creators who help spread it.",
+    "Send this post to whoever handles the business side of your team."
+  ],
+  "tags": "#GameJamPlus #Xsolla #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e32-es": {
+  "titulo": "E32 · Xsolla se une al equipo GJ+",
+  "p": [
+    "Xsolla es patrocinadora de la 11ª edición de GameJamPlus. Hace más de 20 años la empresa crea herramientas y servicios solo para la industria de los videojuegos, y opera en más de 200 países y regiones, con más de 1.000 métodos de pago y 130 monedas.",
+    "En el camino de GJ+, la Aceleración es la etapa en que el juego se vuelve negocio, con monetización, financiamiento y distribución sobre la mesa. Es el terreno en el que Xsolla trabaja todos los días, desde la tienda propia del juego hasta los creadores que lo difunden.",
+    "Manda este post a quien se encarga del negocio en tu equipo."
+  ],
+  "tags": "#GameJamPlus #Xsolla #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e33-pt": {
+  "titulo": "E33 · Nogap Experts entrou no jogo",
+  "p": [
+    "A Nogap Experts é patrocinadora da 11ª edição da GameJamPlus. É uma contabilidade especializada na indústria de games, com sede em São Paulo, filiais em Santos e Orlando e mais de 200 empresas e profissionais atendidos.",
+    "Ela cuida da parte que ninguém ensina na jam, como a Steam podendo reter até 30% das vendas feitas nos EUA, royalties de fora, tributação de DLC e prestação de contas de edital. Na Aceleração da GJ+, quando o jogo vira negócio, é esse assunto que entra na conversa.",
+    "Conta nos comentários qual desses chefões o seu time já enfrentou."
+  ],
+  "tags": "#GameJamPlus #NogapExperts #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e33": {
+  "titulo": "E33 · Nogap Experts joins the game",
+  "p": [
+    "Nogap Experts is a sponsor of the 11th edition of GameJamPlus. It is an accounting firm specialized in the games industry, based in São Paulo with offices in Santos and Orlando, and it has served more than 200 companies and professionals.",
+    "They handle the part nobody teaches at a jam, like Steam withholding up to 30% of US sales, foreign royalties, DLC taxes and grant reporting. In GJ+ Acceleration, when the game becomes a business, this is what joins the conversation.",
+    "Tell us in the comments which of these bosses your team has already faced."
+  ],
+  "tags": "#GameJamPlus #NogapExperts #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e33-es": {
+  "titulo": "E33 · Nogap Experts entró al juego",
+  "p": [
+    "Nogap Experts es patrocinadora de la 11ª edición de GameJamPlus. Es una contabilidad especializada en la industria de los videojuegos, con sede en São Paulo, oficinas en Santos y Orlando y más de 200 empresas y profesionales atendidos.",
+    "Se encarga de la parte que nadie enseña en la jam, como Steam reteniendo hasta un 30% de las ventas en EE. UU., royalties de afuera, impuestos de DLC y rendición de cuentas de fondos públicos. En la Aceleración de GJ+, cuando el juego se vuelve negocio, este tema entra en la conversación.",
+    "Cuéntanos en los comentarios cuál de estos jefes ya enfrentó tu equipo."
+  ],
+  "tags": "#GameJamPlus #NogapExperts #BeOurPlusOne #GameDev #IndieDev #IndieGames"
 }
 };
