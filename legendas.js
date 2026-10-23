@@ -2114,5 +2114,15 @@ window.LEGENDAS = {
     "Cuéntanos en los comentarios cuál de estas partes frena más a tu equipo hoy."
   ],
   "tags": "#GameJamPlus #NogapExperts #BeOurPlusOne #GameDev #IndieDev #IndieGames"
+},
+
+"gj-e36-pt": {
+  "titulo": "E36 · MEI serve pra gamedev?",
+  "p": [
+    "Muita gente que faz jogo abre um MEI achando que resolveu o CNPJ do estúdio. Só que desenvolver e vender jogo entra no CNAE 6203-1/00, que fica fora da lista de atividades permitidas no MEI, e isso pode virar desenquadramento, imposto recalculado com juros e multa e dor de cabeça com edital e publisher.",
+    "Neste carrossel, feito com a Nogap Experts, patrocinadora da 11ª edição da GameJamPlus e especialista em contabilidade para games, a gente explica o limite de R$ 81 mil do MEI, a regra dos 20%, por que o caminho costuma ser a microempresa no Simples e como o Fator R pode baixar o imposto de 15,5% para 6%.",
+    "Salva pra consultar antes de abrir o CNPJ, e se ficou dúvida sobre o seu caso, o diagnóstico da Nogap é gratuito em nogapexperts.com.br."
+  ],
+  "tags": "#GameJamPlus #NogapExperts #GameDev #IndieDev #MEI #BeOurPlusOne"
 }
 };

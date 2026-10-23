@@ -933,3 +933,6 @@ https://gamejamplus-carrosseis.vercel.app/p/e35-en/
 
 GJ+ ES · E35 - Nogap Experts, nueva aliada de GJ+
 https://gamejamplus-carrosseis.vercel.app/p/e35-es/
+
+GJ+ PT · E36 - MEI serve pra gamedev?
+https://gamejamplus-carrosseis.vercel.app/p/e36-pt/
