@@ -10,7 +10,7 @@
 <meta property="og:site_name" content="GameJamPlus · carrosséis">
 <meta property="og:title" content="E28 - Olha o jogador, não o jogo">
 <meta property="og:description" content="Esse é pra quem fez o jogo. No playtest, o que importa é o que a pessoa faz, não o que você queria que ela fizesse.">
-<meta property="og:image" content="https://gamejamplus-carrosseis.vercel.app/img/01-conteudos-gj-pt-e28-olha-o-jogador-nao-o-jogo/slide_01.jpg?v=2">
+<meta property="og:image" content="https://gamejamplus-carrosseis.vercel.app/img/01-conteudos-gj-pt-e28-olha-o-jogador-nao-o-jogo/slide_01.jpg?v=3">
 <meta property="og:url" content="https://gamejamplus-carrosseis.vercel.app/p/e28-pt/">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -68,7 +68,7 @@ h1{font-size:23px;font-weight:800;letter-spacing:-.5px;margin:8px 0 4px;line-hei
   <p class="sub">5 slides</p>
 
   <div class="palco">
-    <img id="sl" src="../../img/01-conteudos-gj-pt-e28-olha-o-jogador-nao-o-jogo/slide_01.jpg?v=2" alt="E28 - Olha o jogador, não o jogo 1">
+    <img id="sl" src="../../img/01-conteudos-gj-pt-e28-olha-o-jogador-nao-o-jogo/slide_01.jpg?v=3" alt="E28 - Olha o jogador, não o jogo 1">
     <button class="seta e" type="button" aria-label="Anterior">←</button>
     <button class="seta d" type="button" aria-label="Próximo">→</button>
     <span class="cont"><b id="n">1</b>/5</span>
@@ -81,15 +81,15 @@ h1{font-size:23px;font-weight:800;letter-spacing:-.5px;margin:8px 0 4px;line-hei
     <h2>Legenda do Instagram · PT</h2>
     <p>Esse é pra quem fez o jogo. No playtest, o que importa é o que a pessoa faz, não o que você queria que ela fizesse.</p>
     <p>Anota onde ela parou de jogar, o que tentou e o jogo não deixou, quanto tempo levou pra entender o objetivo e onde riu ou xingou. Se precisou explicar, o jogo não explicou. Depois junta tudo numa lista, ordena pelo que mais aparece e leva pra próxima fase da Incubação.</p>
-    <p>Sexta, 30/10, tem live de novo e o Playtest vai até segunda, 02/11. Manda este post pra quem cuida do game design no seu time.</p>
+    <p>Sexta, 30/10, tem live de novo e o Playtest Spcine vai até quinta, 17/12. Manda este post pra quem cuida do game design no seu time.</p>
     <div class="tags">#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames</div>
     <div class="acoes"><button type="button" id="copiaLeg">Copiar legenda</button></div>
   </section>
   <p class="rod">Uso interno, para revisão.</p>
 </div>
 <script>
-const S=["../../img/01-conteudos-gj-pt-e28-olha-o-jogador-nao-o-jogo/slide_01.jpg?v=2","../../img/01-conteudos-gj-pt-e28-olha-o-jogador-nao-o-jogo/slide_02.jpg?v=2","../../img/01-conteudos-gj-pt-e28-olha-o-jogador-nao-o-jogo/slide_03.jpg?v=2","../../img/01-conteudos-gj-pt-e28-olha-o-jogador-nao-o-jogo/slide_04.jpg?v=2","../../img/01-conteudos-gj-pt-e28-olha-o-jogador-nao-o-jogo/slide_05.jpg?v=2"];
-const LEGTXT="Esse é pra quem fez o jogo. No playtest, o que importa é o que a pessoa faz, não o que você queria que ela fizesse.\n\nAnota onde ela parou de jogar, o que tentou e o jogo não deixou, quanto tempo levou pra entender o objetivo e onde riu ou xingou. Se precisou explicar, o jogo não explicou. Depois junta tudo numa lista, ordena pelo que mais aparece e leva pra próxima fase da Incubação.\n\nSexta, 30/10, tem live de novo e o Playtest vai até segunda, 02/11. Manda este post pra quem cuida do game design no seu time.\n\n#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames";
+const S=["../../img/01-conteudos-gj-pt-e28-olha-o-jogador-nao-o-jogo/slide_01.jpg?v=3","../../img/01-conteudos-gj-pt-e28-olha-o-jogador-nao-o-jogo/slide_02.jpg?v=3","../../img/01-conteudos-gj-pt-e28-olha-o-jogador-nao-o-jogo/slide_03.jpg?v=3","../../img/01-conteudos-gj-pt-e28-olha-o-jogador-nao-o-jogo/slide_04.jpg?v=3","../../img/01-conteudos-gj-pt-e28-olha-o-jogador-nao-o-jogo/slide_05.jpg?v=3"];
+const LEGTXT="Esse é pra quem fez o jogo. No playtest, o que importa é o que a pessoa faz, não o que você queria que ela fizesse.\n\nAnota onde ela parou de jogar, o que tentou e o jogo não deixou, quanto tempo levou pra entender o objetivo e onde riu ou xingou. Se precisou explicar, o jogo não explicou. Depois junta tudo numa lista, ordena pelo que mais aparece e leva pra próxima fase da Incubação.\n\nSexta, 30/10, tem live de novo e o Playtest Spcine vai até quinta, 17/12. Manda este post pra quem cuida do game design no seu time.\n\n#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames";
 let i=0;
 const img=document.getElementById('sl'),nn=document.getElementById('n'),dots=document.getElementById('dots');
 if(dots){S.forEach((_,k)=>{const d=document.createElement('i');d.onclick=()=>ir(k);dots.append(d)});}

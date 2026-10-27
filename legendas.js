@@ -1845,7 +1845,7 @@ window.LEGENDAS = {
   "p": [
     "Esse é pra quem fez o jogo. No playtest, o que importa é o que a pessoa faz, não o que você queria que ela fizesse.",
     "Anota onde ela parou de jogar, o que tentou e o jogo não deixou, quanto tempo levou pra entender o objetivo e onde riu ou xingou. Se precisou explicar, o jogo não explicou. Depois junta tudo numa lista, ordena pelo que mais aparece e leva pra próxima fase da Incubação.",
-    "Sexta, 30/10, tem live de novo e o Playtest vai até segunda, 02/11. Manda este post pra quem cuida do game design no seu time."
+    "Sexta, 30/10, tem live de novo e o Playtest Spcine vai até quinta, 17/12. Manda este post pra quem cuida do game design no seu time."
   ],
   "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
 },
@@ -1855,7 +1855,7 @@ window.LEGENDAS = {
   "p": [
     "This one is for the people who made the game. In a playtest, what matters is what the player does, not what you wanted them to do.",
     "Note where they stopped playing, what they tried and the game didn't allow, how long it took to get the goal and where they laughed or swore. If you had to explain it, the game didn't. Then put it all in a list, sort it by what shows up most and take it to the next phase of Incubation.",
-    "Another live this Friday, Oct 30, and the Playtest runs until Monday, Nov 2. Send this post to whoever handles game design on your team."
+    "Another live this Friday, Oct 30, and Playtest Spcine runs until Thursday, Dec 17. Send this post to whoever handles game design on your team."
   ],
   "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
 },
@@ -1865,7 +1865,7 @@ window.LEGENDAS = {
   "p": [
     "Este es para quien hizo el juego. En un playtest, lo que importa es lo que la persona hace, no lo que tú querías que hiciera.",
     "Anota dónde dejó de jugar, qué intentó y el juego no le dejó, cuánto tardó en entender el objetivo y dónde se rió o se enojó. Si tuviste que explicar, el juego no explicó. Después junta todo en una lista, ordénala por lo que más aparece y llévala a la próxima fase de la Incubación.",
-    "El viernes 30/10 hay live otra vez y el Playtest va hasta el lunes 02/11. Manda este post a quien se encarga del game design en tu equipo."
+    "El viernes 30/10 hay live otra vez y el Playtest Spcine va hasta el jueves 17/12. Manda este post a quien se encarga del game design en tu equipo."
   ],
   "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
 },
@@ -1874,7 +1874,7 @@ window.LEGENDAS = {
   "titulo": "E29 · Reta final, faltam 3 dias",
   "p": [
     "Faltam 3 dias de Playtest Spcine, e os destaques entram na premiação da Incubação, com vencedores anunciados nas Semifinais Continentais.",
-    "Pra fechar bem o fim de semana: joga o que ficou pra depois, responde quem jogou o seu e chama quem ainda não jogou, do seu time e da sua sede. Fecha segunda, 02/11.",
+    "Pra fechar bem os últimos dias: joga o que ficou pra depois, responde quem jogou o seu e chama quem ainda não jogou, do seu time e da sua sede. Fecha quinta, 17/12.",
     "Posta o seu jogo com #beourplusone, que a gente quer ver o que saiu de cada sede."
   ],
   "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
@@ -1884,7 +1884,7 @@ window.LEGENDAS = {
   "titulo": "E29 · Final stretch, 3 days left",
   "p": [
     "3 days of Playtest Spcine left, and the standouts are part of the Incubation awards, with winners announced at the Continental Semifinals.",
-    "To close the weekend well: play the games you left for later, reply to the people who played yours and call those who haven't played yet, from your team and your venue. Closes Monday, Nov 2.",
+    "To finish the last days well: play the games you left for later, reply to the people who played yours and call those who haven't played yet, from your team and your venue. Closes Thursday, Dec 17.",
     "Post your game with #beourplusone, we want to see what came out of every venue."
   ],
   "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
@@ -1894,7 +1894,7 @@ window.LEGENDAS = {
   "titulo": "E29 · Recta final, faltan 3 días",
   "p": [
     "Faltan 3 días de Playtest Spcine, y los destacados forman parte de los premios de la Incubación, con ganadores anunciados en las Semifinales Continentales.",
-    "Para cerrar bien el fin de semana: juega lo que dejaste para después, responde a quien jugó el tuyo y llama a quien todavía no jugó, de tu equipo y de tu sede. Cierra el lunes 02/11.",
+    "Para cerrar bien los últimos días: juega lo que dejaste para después, responde a quien jugó el tuyo y llama a quien todavía no jugó, de tu equipo y de tu sede. Cierra el jueves 17/12.",
     "Publica tu juego con #beourplusone, queremos ver lo que salió de cada sede."
   ],
   "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
@@ -1903,7 +1903,7 @@ window.LEGENDAS = {
 "gj-e30-pt": {
   "titulo": "E30 · Acaba amanhã",
   "p": [
-    "Último domingo do Playtest Spcine. Amanhã, segunda, 02/11, fecha.",
+    "Penúltimo dia do Playtest Spcine. Amanhã, quinta, 17/12, fecha.",
     "Checklist antes de fechar: jogou pelo menos um jogo de outra sede? Deixou feedback em cada jogo que jogou? Leu tudo que falaram do seu? Anotou o que muda no jogo? Se faltou algum, hoje ainda dá tempo.",
     "E conta aqui: qual feedback mais mudou o jeito que você vê o seu jogo?"
   ],
@@ -1913,7 +1913,7 @@ window.LEGENDAS = {
 "gj-e30": {
   "titulo": "E30 · Ends tomorrow",
   "p": [
-    "Last Sunday of Playtest Spcine. It closes tomorrow, Monday, Nov 2.",
+    "Second-to-last day of Playtest Spcine. It closes tomorrow, Thursday, Dec 17.",
     "Checklist before it closes: played at least one game from another venue? Left feedback on every game you played? Read everything people said about yours? Wrote down what changes in your game? If one is missing, there's still time today.",
     "And tell us: which piece of feedback changed the way you see your game the most?"
   ],
@@ -1923,7 +1923,7 @@ window.LEGENDAS = {
 "gj-e30-es": {
   "titulo": "E30 · Termina mañana",
   "p": [
-    "Último domingo del Playtest Spcine. Mañana, lunes 02/11, cierra.",
+    "Penúltimo día del Playtest Spcine. Mañana, jueves 17/12, cierra.",
     "Checklist antes del cierre: ¿jugaste al menos un juego de otra sede? ¿Dejaste feedback en cada juego que jugaste? ¿Leíste todo lo que dijeron del tuyo? ¿Anotaste lo que cambia en tu juego? Si falta alguno, hoy todavía hay tiempo.",
     "Y cuéntanos: ¿qué feedback cambió más la forma en que ves tu juego?"
   ],
@@ -1933,9 +1933,9 @@ window.LEGENDAS = {
 "gj-e31-pt": {
   "titulo": "E31 · Último dia do Playtest",
   "p": [
-    "Hoje é o último dia do Playtest Spcine. Cada feedback deixado nesses 13 dias ajuda um time a fazer um jogo melhor.",
-    "Na quinta, 05/11, começa o acompanhamento técnico da Incubação, que vai até 17/12. É ali que o feedback vira jogo. Depois vêm as Semifinais Continentais e a Final em São Paulo, em 20 de abril de 2027.",
-    "Valeu a quem jogou e avaliou, e obrigado à Spcine por fazer o Playtest acontecer. A próxima parada é a Incubação, acompanha cada etapa com a gente."
+    "Hoje é o último dia do Playtest Spcine. Cada feedback deixado desde 21/10 ajuda um time a fazer um jogo melhor.",
+    "O Playtest fecha junto com a Incubação, e agora é hora de aplicar o feedback no jogo. Depois vêm as Semifinais Continentais e a Final em São Paulo, em 20 de abril de 2027.",
+    "Valeu a quem jogou e avaliou, e obrigado à Spcine por fazer o Playtest acontecer. A próxima parada são as Semifinais Continentais, acompanha cada etapa com a gente."
   ],
   "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
 },
@@ -1943,9 +1943,9 @@ window.LEGENDAS = {
 "gj-e31": {
   "titulo": "E31 · Last day of the Playtest",
   "p": [
-    "Today is the last day of Playtest Spcine. Every piece of feedback left in these 13 days helps a team make a better game.",
-    "On Thursday, Nov 5, technical guidance starts in Incubation, which runs until Dec 17. That's where the feedback turns into the game. Then come the Continental Semifinals and the Final in São Paulo, on April 20, 2027.",
-    "Thanks to everyone who played and rated, and thank you, Spcine, for making the Playtest happen. Next stop is Incubation, follow every step with us."
+    "Today is the last day of Playtest Spcine. Every piece of feedback left since Oct 21 helps a team make a better game.",
+    "The Playtest closes together with Incubation, and now it's time to put the feedback into the game. Then come the Continental Semifinals and the Final in São Paulo, on April 20, 2027.",
+    "Thanks to everyone who played and rated, and thank you, Spcine, for making the Playtest happen. Next stop is the Continental Semifinals, follow every step with us."
   ],
   "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
 },
@@ -1953,9 +1953,9 @@ window.LEGENDAS = {
 "gj-e31-es": {
   "titulo": "E31 · Último día del Playtest",
   "p": [
-    "Hoy es el último día del Playtest Spcine. Cada feedback que se dejó en estos 13 días ayuda a un equipo a hacer un juego mejor.",
-    "El jueves 05/11 empieza el acompañamiento técnico de la Incubación, que va hasta el 17/12. Ahí el feedback se convierte en juego. Después vienen las Semifinales Continentales y la Final en São Paulo, el 20 de abril de 2027.",
-    "Gracias a quien jugó y evaluó, y gracias, Spcine, por hacer posible el Playtest. La próxima parada es la Incubación, sigue cada etapa con nosotros."
+    "Hoy es el último día del Playtest Spcine. Cada feedback que se dejó desde el 21/10 ayuda a un equipo a hacer un juego mejor.",
+    "El Playtest cierra junto con la Incubación, y ahora es hora de llevar el feedback al juego. Después vienen las Semifinales Continentales y la Final en São Paulo, el 20 de abril de 2027.",
+    "Gracias a quien jugó y evaluó, y gracias, Spcine, por hacer posible el Playtest. La próxima parada son las Semifinales Continentales, sigue cada etapa con nosotros."
   ],
   "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
 },
