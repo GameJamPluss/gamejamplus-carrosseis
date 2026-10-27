@@ -853,13 +853,13 @@ https://gamejamplus-carrosseis.vercel.app/p/e26-en/
 GJ+ ES · E26 - Empezó el Playtest
 https://gamejamplus-carrosseis.vercel.app/p/e26-es/
 
-GJ+ PT · E27 - Feedback bom tem método
+GJ+ PT · E27 - Feedback no Playtest Spcine
 https://gamejamplus-carrosseis.vercel.app/p/e27-pt/
 
-GJ+ EN · E27 - Good feedback has a method
+GJ+ EN · E27 - Feedback in Playtest Spcine
 https://gamejamplus-carrosseis.vercel.app/p/e27-en/
 
-GJ+ ES · E27 - El buen feedback tiene método
+GJ+ ES · E27 - Feedback en el Playtest Spcine
 https://gamejamplus-carrosseis.vercel.app/p/e27-es/
 
 GJ+ PT · E28 - Olha o jogador, não o jogo

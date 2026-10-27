@@ -1811,31 +1811,31 @@ window.LEGENDAS = {
 },
 
 "gj-e27-pt": {
-  "titulo": "E27 · Feedback bom tem método",
+  "titulo": "E27 · Feedback no Playtest Spcine",
   "p": [
-    "\"Achei chato\" não ajuda ninguém. \"No nível 2 não achei a saída e desisti\" ajuda o time inteiro.",
+    "No Playtest Spcine, \"achei chato\" não ajuda ninguém. \"No nível 2 não achei a saída e desisti\" ajuda o time inteiro.",
     "Quatro regras antes de comentar: fala do que você sentiu, aponta o momento exato, separa bug de opinião e termina com uma coisa que funcionou. E quando o feedback é sobre o seu jogo, lê tudo e responde depois. Três pessoas travando no mesmo lugar é sinal, uma só é opinião.",
-    "Faltam 9 dias de Playtest Spcine. Salva as quatro regras e usa no próximo jogo que você avaliar."
+    "O Playtest Spcine vai até quinta, 17/12. Salva as quatro regras e usa no próximo jogo que você avaliar."
   ],
   "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
 },
 
 "gj-e27": {
-  "titulo": "E27 · Good feedback has a method",
+  "titulo": "E27 · Feedback in Playtest Spcine",
   "p": [
-    "\"It was boring\" helps no one. \"On level 2 I couldn't find the exit and gave up\" helps the whole team.",
+    "In Playtest Spcine, \"it was boring\" helps no one. \"On level 2 I couldn't find the exit and gave up\" helps the whole team.",
     "Four rules before you comment: say what you felt, point to the exact moment, separate bugs from opinions and end with something that worked. And when the feedback is about your game, read it all and reply later. Three people stuck in the same spot is a signal, one is an opinion.",
-    "9 days of Playtest Spcine left. Save these four rules and use them on the next game you rate."
+    "Playtest Spcine runs until Thursday, Dec 17. Save these four rules and use them on the next game you rate."
   ],
   "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
 },
 
 "gj-e27-es": {
-  "titulo": "E27 · El buen feedback tiene método",
+  "titulo": "E27 · Feedback en el Playtest Spcine",
   "p": [
-    "\"Me aburrió\" no ayuda a nadie. \"En el nivel 2 no encontré la salida y lo dejé\" ayuda a todo el equipo.",
+    "En el Playtest Spcine, \"me aburrió\" no ayuda a nadie. \"En el nivel 2 no encontré la salida y lo dejé\" ayuda a todo el equipo.",
     "Cuatro reglas antes de comentar: di lo que sentiste, señala el momento exacto, separa bug de opinión y termina con algo que funcionó. Y cuando el feedback es sobre tu juego, lee todo y responde después. Tres personas trabadas en el mismo lugar es una señal, una sola es una opinión.",
-    "Faltan 9 días de Playtest Spcine. Guarda estas cuatro reglas y úsalas en el próximo juego que evalúes."
+    "El Playtest Spcine va hasta el jueves 17/12. Guarda estas cuatro reglas y úsalas en el próximo juego que evalúes."
   ],
   "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
 },
