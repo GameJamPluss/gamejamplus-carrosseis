@@ -1815,7 +1815,12 @@ window.LEGENDAS = {
   "p": [
     "No Playtest Spcine, \"achei chato\" não ajuda ninguém. \"No nível 2 não achei a saída e desisti\" ajuda o time inteiro.",
     "Quatro regras antes de comentar: fala do que você sentiu, aponta o momento exato, separa bug de opinião e termina com uma coisa que funcionou. E quando o feedback é sobre o seu jogo, lê tudo e responde depois. Três pessoas travando no mesmo lugar é sinal, uma só é opinião.",
-    "O Playtest Spcine vai até quinta, 17/12. Salva as quatro regras e usa no próximo jogo que você avaliar."
+    "Como entrar no Playtest:",
+    "1. Acessa herohub.gamejamplus.com com a conta da jam. No primeiro acesso, aceita os Termos.",
+    "2. Vai em Hero Lab → Gamer Trials → Vitrine Spcine.",
+    "3. Escolhe um jogo de outra sede e joga no itch.io.",
+    "4. Responde as 6 perguntas rápidas e usa as quatro regras no comentário.",
+    "O Playtest Spcine vai até quinta, 17/12. Salva este post pra ter as regras e o caminho à mão no próximo jogo que você avaliar."
   ],
   "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
 },
@@ -1825,7 +1830,12 @@ window.LEGENDAS = {
   "p": [
     "In Playtest Spcine, \"it was boring\" helps no one. \"On level 2 I couldn't find the exit and gave up\" helps the whole team.",
     "Four rules before you comment: say what you felt, point to the exact moment, separate bugs from opinions and end with something that worked. And when the feedback is about your game, read it all and reply later. Three people stuck in the same spot is a signal, one is an opinion.",
-    "Playtest Spcine runs until Thursday, Dec 17. Save these four rules and use them on the next game you rate."
+    "How to join the Playtest:",
+    "1. Go to herohub.gamejamplus.com and log in with your jam account. On your first visit, accept the Terms.",
+    "2. Go to Hero Lab → Gamer Trials → Spcine showcase.",
+    "3. Pick a game from another venue and play it on itch.io.",
+    "4. Answer the 6 quick questions and use the four rules in your comment.",
+    "Playtest Spcine runs until Thursday, Dec 17. Save this post so the rules and the steps are at hand for the next game you rate."
   ],
   "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
 },
@@ -1835,7 +1845,12 @@ window.LEGENDAS = {
   "p": [
     "En el Playtest Spcine, \"me aburrió\" no ayuda a nadie. \"En el nivel 2 no encontré la salida y lo dejé\" ayuda a todo el equipo.",
     "Cuatro reglas antes de comentar: di lo que sentiste, señala el momento exacto, separa bug de opinión y termina con algo que funcionó. Y cuando el feedback es sobre tu juego, lee todo y responde después. Tres personas trabadas en el mismo lugar es una señal, una sola es una opinión.",
-    "El Playtest Spcine va hasta el jueves 17/12. Guarda estas cuatro reglas y úsalas en el próximo juego que evalúes."
+    "Cómo entrar al Playtest:",
+    "1. Entra a herohub.gamejamplus.com con tu cuenta de la jam. En el primer acceso, acepta los Términos.",
+    "2. Ve a Hero Lab → Gamer Trials → Vitrina Spcine.",
+    "3. Elige un juego de otra sede y juégalo en itch.io.",
+    "4. Responde las 6 preguntas rápidas y usa las cuatro reglas en tu comentario.",
+    "El Playtest Spcine va hasta el jueves 17/12. Guarda este post para tener las reglas y el camino a mano en el próximo juego que evalúes."
   ],
   "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
 },
