@@ -936,3 +936,12 @@ https://gamejamplus-carrosseis.vercel.app/p/e35-es/
 
 GJ+ PT · E36 - MEI serve pra gamedev?
 https://gamejamplus-carrosseis.vercel.app/p/e36-pt/
+
+GJ+ PT · C08 - The Chef&#39;s Shift: da jam pra Steam
+https://gamejamplus-carrosseis.vercel.app/p/c08-pt/
+
+GJ+ EN · C08 - The Chef&#39;s Shift: from jam to Steam
+https://gamejamplus-carrosseis.vercel.app/p/c08-en/
+
+GJ+ ES · C08 - The Chef&#39;s Shift: de la jam a Steam
+https://gamejamplus-carrosseis.vercel.app/p/c08-es/

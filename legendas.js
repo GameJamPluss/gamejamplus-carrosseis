@@ -2139,5 +2139,32 @@ window.LEGENDAS = {
     "Salva pra consultar antes de abrir o CNPJ, e se ficou dúvida sobre o seu caso, o diagnóstico da Nogap é gratuito em nogapexperts.com.br."
   ],
   "tags": "#GameJamPlus #NogapExperts #GameDev #IndieDev #MEI #BeOurPlusOne"
+},
+
+"gj-c08-pt": {
+  "titulo": "C08 · The Chef's Shift: da jam pra Steam",
+  "p": [
+    "The Chef's Shift nasceu em 48 horas na GameJamPlus Indonésia 2022, feito por seis pessoas da Panitia GameDev, três programadores e três artistas trabalhando remoto e em meio período. A ideia é cozinhar digitando: cada coisa na tela tem uma palavra, e digitar certo faz o pedido sair. O jogo levou o Jogo do Ano da edição 22/23 e mais sete categorias, passou pela incubação, ganhou demo na Steam em 2023 e foi lançado em março de 2025 pela Catoptric Games. Hoje está com 98% de aprovação em mais de 2.100 avaliações na Steam.",
+    "Quem está na Incubação agora tem nas mãos o mesmo que eles tinham em 2022: um protótipo de fim de semana. Salva esse case, manda pro seu time e conhece o jogo na Steam: store.steampowered.com/app/2390230"
+  ],
+  "tags": "#GameJamPlus #BeOurPlusOne #GameDev #IndieDev #IndieGames #TheChefsShift"
+},
+
+"gj-c08": {
+  "titulo": "C08 · The Chef's Shift: from jam to Steam",
+  "p": [
+    "The Chef's Shift was born in 48 hours at GameJamPlus Indonesia 2022, made by six people at Panitia GameDev, three programmers and three artists working remotely and part time. You cook by typing: everything on screen has a word, and typing it right gets the order out. The game won Game of the Year in the 22/23 edition plus seven more categories, went through incubation, got a Steam demo in 2023 and launched in March 2025 with Catoptric Games. Today it sits at 98% positive across more than 2,100 Steam reviews.",
+    "If you are in Incubation right now, you are holding what they held in 2022: a weekend prototype. Save this case, send it to your team and check out the game on Steam: store.steampowered.com/app/2390230"
+  ],
+  "tags": "#GameJamPlus #BeOurPlusOne #GameDev #IndieDev #IndieGames #TheChefsShift"
+},
+
+"gj-c08-es": {
+  "titulo": "C08 · The Chef's Shift: de la jam a Steam",
+  "p": [
+    "The Chef's Shift nació en 48 horas en la GameJamPlus Indonesia 2022, hecho por seis personas de Panitia GameDev, tres programadores y tres artistas trabajando en remoto y a medio tiempo. La idea es cocinar tecleando: cada cosa en pantalla tiene una palabra, y escribirla bien hace que el pedido salga. El juego ganó el Juego del Año de la edición 22/23 y siete categorías más, pasó por la incubación, tuvo demo en Steam en 2023 y se lanzó en marzo de 2025 con Catoptric Games. Hoy tiene 98% de aprobación en más de 2.100 reseñas en Steam.",
+    "Si estás en la Incubación ahora, tienes en las manos lo mismo que ellos tenían en 2022: un prototipo de fin de semana. Guarda este caso, mándalo a tu equipo y conoce el juego en Steam: store.steampowered.com/app/2390230"
+  ],
+  "tags": "#GameJamPlus #BeOurPlusOne #GameDev #IndieDev #IndieGames #TheChefsShift"
 }
 };
