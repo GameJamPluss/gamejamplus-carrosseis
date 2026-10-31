@@ -1856,9 +1856,9 @@ window.LEGENDAS = {
 },
 
 "gj-e28-pt": {
-  "titulo": "E28 · Recebeu feedback. E agora?",
+  "titulo": "E28 · Recebeu feedback no Playtest Spcine?",
   "p": [
-    "Antes de mudar uma linha do jogo, abre Meus jogos no Hero Hub e lê os números. Diversão alta com pouca gente querendo jogar de novo aponta pra progressão e variedade, enquanto diversão baixa costuma estar nos primeiros minutos.",
+    "Chegaram as avaliações do Playtest Spcine. Antes de mudar uma linha do jogo, abre Meus jogos no Hero Hub e lê os números. Diversão alta com pouca gente querendo jogar de novo aponta pra progressão e variedade, enquanto diversão baixa costuma estar nos primeiros minutos.",
     "Depois separa os comentários em bug, confusão, ritmo e gosto, e descobre por que a pessoa travou antes de mexer em qualquer número. Escolhe só três correções, começando pelo que mais gente cita e pelo que acontece mais cedo, e testa em silêncio com quem nunca jogou. Se você precisou explicar, o jogo não explicou.",
     "O Playtest Spcine vai até quinta, 17/12. Chama mais gente pra testar, marca as avaliações que ajudaram, joga o jogo de outro time e conta aqui qual feedback você vai resolver primeiro."
   ],
@@ -1866,9 +1866,9 @@ window.LEGENDAS = {
 },
 
 "gj-e28": {
-  "titulo": "E28 · Got feedback. Now what?",
+  "titulo": "E28 · Got feedback from Playtest Spcine?",
   "p": [
-    "Before you change a line of your game, open My games on Hero Hub and read the numbers. A high fun score with few people willing to play again points to progression and variety, while a low one usually lives in the first minutes.",
+    "The Playtest Spcine reviews are in. Before you change a line of your game, open My games on Hero Hub and read the numbers. A high fun score with few people willing to play again points to progression and variety, while a low one usually lives in the first minutes.",
     "Then sort the comments into bugs, confusion, pacing and taste, and find out why people got stuck before touching any number. Pick only three fixes, starting with what more people mention and what happens earliest, and test quietly with someone who has never played. If you had to explain it, the game didn't.",
     "Playtest Spcine runs until Thursday, Dec 17. Get more people testing, mark the reviews that helped, play another team's game and tell us which piece of feedback you'll tackle first."
   ],
@@ -1876,9 +1876,9 @@ window.LEGENDAS = {
 },
 
 "gj-e28-es": {
-  "titulo": "E28 · Recibiste feedback. ¿Y ahora?",
+  "titulo": "E28 · ¿Recibiste feedback en el Playtest Spcine?",
   "p": [
-    "Antes de cambiar una línea de tu juego, abre Mis juegos en Hero Hub y lee los números. Una diversión alta con poca gente dispuesta a jugar de nuevo apunta a progresión y variedad, mientras que una diversión baja suele estar en los primeros minutos.",
+    "Llegaron las evaluaciones del Playtest Spcine. Antes de cambiar una línea de tu juego, abre Mis juegos en Hero Hub y lee los números. Una diversión alta con poca gente dispuesta a jugar de nuevo apunta a progresión y variedad, mientras que una diversión baja suele estar en los primeros minutos.",
     "Después separa los comentarios en bug, confusión, ritmo y gusto, y descubre por qué la persona se trabó antes de tocar cualquier número. Elige solo tres arreglos, empezando por lo que más gente menciona y lo que pasa antes, y prueba en silencio con alguien que nunca jugó. Si tuviste que explicar, el juego no explicó.",
     "El Playtest Spcine va hasta el jueves 17/12. Invita a más gente a probar, marca las evaluaciones que ayudaron, juega el juego de otro equipo y cuéntanos qué feedback vas a resolver primero."
   ],

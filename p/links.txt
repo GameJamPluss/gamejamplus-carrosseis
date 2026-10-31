@@ -862,13 +862,13 @@ https://gamejamplus-carrosseis.vercel.app/p/e27-en/
 GJ+ ES · E27 - Feedback en el Playtest Spcine
 https://gamejamplus-carrosseis.vercel.app/p/e27-es/
 
-GJ+ PT · E28 - Recebeu feedback. E agora?
+GJ+ PT · E28 - Recebeu feedback no Playtest Spcine?
 https://gamejamplus-carrosseis.vercel.app/p/e28-pt/
 
-GJ+ EN · E28 - Got feedback. Now what?
+GJ+ EN · E28 - Got feedback from Playtest Spcine?
 https://gamejamplus-carrosseis.vercel.app/p/e28-en/
 
-GJ+ ES · E28 - Recibiste feedback. ¿Y ahora?
+GJ+ ES · E28 - ¿Recibiste feedback en el Playtest Spcine?
 https://gamejamplus-carrosseis.vercel.app/p/e28-es/
 
 GJ+ PT · E29 - Reta final, faltam 3 dias
