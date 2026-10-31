@@ -862,13 +862,13 @@ https://gamejamplus-carrosseis.vercel.app/p/e27-en/
 GJ+ ES · E27 - Feedback en el Playtest Spcine
 https://gamejamplus-carrosseis.vercel.app/p/e27-es/
 
-GJ+ PT · E28 - Olha o jogador, não o jogo
+GJ+ PT · E28 - Recebeu feedback. E agora?
 https://gamejamplus-carrosseis.vercel.app/p/e28-pt/
 
-GJ+ EN · E28 - Watch the player, not the game
+GJ+ EN · E28 - Got feedback. Now what?
 https://gamejamplus-carrosseis.vercel.app/p/e28-en/
 
-GJ+ ES · E28 - Mira al jugador, no al juego
+GJ+ ES · E28 - Recibiste feedback. ¿Y ahora?
 https://gamejamplus-carrosseis.vercel.app/p/e28-es/
 
 GJ+ PT · E29 - Reta final, faltam 3 dias

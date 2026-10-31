@@ -1856,31 +1856,31 @@ window.LEGENDAS = {
 },
 
 "gj-e28-pt": {
-  "titulo": "E28 · Olha o jogador, não o jogo",
+  "titulo": "E28 · Recebeu feedback. E agora?",
   "p": [
-    "Esse é pra quem fez o jogo. No playtest, o que importa é o que a pessoa faz, não o que você queria que ela fizesse.",
-    "Anota onde ela parou de jogar, o que tentou e o jogo não deixou, quanto tempo levou pra entender o objetivo e onde riu ou xingou. Se precisou explicar, o jogo não explicou. Depois junta tudo numa lista, ordena pelo que mais aparece e leva pra próxima fase da Incubação.",
-    "Sexta, 30/10, tem live de novo e o Playtest Spcine vai até quinta, 17/12. Manda este post pra quem cuida do game design no seu time."
+    "Antes de mudar uma linha do jogo, abre Meus jogos no Hero Hub e lê os números. Diversão alta com pouca gente querendo jogar de novo aponta pra progressão e variedade, enquanto diversão baixa costuma estar nos primeiros minutos.",
+    "Depois separa os comentários em bug, confusão, ritmo e gosto, e descobre por que a pessoa travou antes de mexer em qualquer número. Escolhe só três correções, começando pelo que mais gente cita e pelo que acontece mais cedo, e testa em silêncio com quem nunca jogou. Se você precisou explicar, o jogo não explicou.",
+    "O Playtest Spcine vai até quinta, 17/12. Chama mais gente pra testar, marca as avaliações que ajudaram, joga o jogo de outro time e conta aqui qual feedback você vai resolver primeiro."
   ],
   "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
 },
 
 "gj-e28": {
-  "titulo": "E28 · Watch the player, not the game",
+  "titulo": "E28 · Got feedback. Now what?",
   "p": [
-    "This one is for the people who made the game. In a playtest, what matters is what the player does, not what you wanted them to do.",
-    "Note where they stopped playing, what they tried and the game didn't allow, how long it took to get the goal and where they laughed or swore. If you had to explain it, the game didn't. Then put it all in a list, sort it by what shows up most and take it to the next phase of Incubation.",
-    "Another live this Friday, Oct 30, and Playtest Spcine runs until Thursday, Dec 17. Send this post to whoever handles game design on your team."
+    "Before you change a line of your game, open My games on Hero Hub and read the numbers. A high fun score with few people willing to play again points to progression and variety, while a low one usually lives in the first minutes.",
+    "Then sort the comments into bugs, confusion, pacing and taste, and find out why people got stuck before touching any number. Pick only three fixes, starting with what more people mention and what happens earliest, and test quietly with someone who has never played. If you had to explain it, the game didn't.",
+    "Playtest Spcine runs until Thursday, Dec 17. Get more people testing, mark the reviews that helped, play another team's game and tell us which piece of feedback you'll tackle first."
   ],
   "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
 },
 
 "gj-e28-es": {
-  "titulo": "E28 · Mira al jugador, no al juego",
+  "titulo": "E28 · Recibiste feedback. ¿Y ahora?",
   "p": [
-    "Este es para quien hizo el juego. En un playtest, lo que importa es lo que la persona hace, no lo que tú querías que hiciera.",
-    "Anota dónde dejó de jugar, qué intentó y el juego no le dejó, cuánto tardó en entender el objetivo y dónde se rió o se enojó. Si tuviste que explicar, el juego no explicó. Después junta todo en una lista, ordénala por lo que más aparece y llévala a la próxima fase de la Incubación.",
-    "El viernes 30/10 hay live otra vez y el Playtest Spcine va hasta el jueves 17/12. Manda este post a quien se encarga del game design en tu equipo."
+    "Antes de cambiar una línea de tu juego, abre Mis juegos en Hero Hub y lee los números. Una diversión alta con poca gente dispuesta a jugar de nuevo apunta a progresión y variedad, mientras que una diversión baja suele estar en los primeros minutos.",
+    "Después separa los comentarios en bug, confusión, ritmo y gusto, y descubre por qué la persona se trabó antes de tocar cualquier número. Elige solo tres arreglos, empezando por lo que más gente menciona y lo que pasa antes, y prueba en silencio con alguien que nunca jugó. Si tuviste que explicar, el juego no explicó.",
+    "El Playtest Spcine va hasta el jueves 17/12. Invita a más gente a probar, marca las evaluaciones que ayudaron, juega el juego de otro equipo y cuéntanos qué feedback vas a resolver primero."
   ],
   "tags": "#GameJamPlus #PlaytestSpcine #BeOurPlusOne #GameDev #IndieDev #IndieGames"
 },
